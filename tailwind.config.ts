@@ -1,0 +1,88 @@
+import type { Config } from 'tailwindcss';
+
+// Tokens copied from the TEAM International design system (NewTeamIntWebPage/tailwind.config.ts).
+const config: Config = {
+  content: ['./app/**/*.{ts,tsx}', './components/**/*.{ts,tsx}', './lib/**/*.{ts,tsx}'],
+  darkMode: 'class',
+  theme: {
+    extend: {
+      screens: { '2xl': '1440px' },
+      spacing: { '15': '3.75rem', '30': '7.5rem', '45': '11.25rem' },
+      fontSize: {
+        'body-line': ['0.9375rem', '1.5rem'],
+        'body-line-mono': ['1.0625rem', '1.5rem'],
+        caption: ['0.6875rem', '1rem'],
+        base: ['0.9375rem', '1.5rem'],
+      },
+      fontFamily: {
+        anybody: ['var(--font-anybody)', 'sans-serif'],
+        public: ['var(--font-public-sans)', 'sans-serif'],
+        inconsolata: ['var(--font-inconsolata)', 'monospace'],
+      },
+      zIndex: { '1': '1' },
+      colors: {
+        background: '#000000',
+        foreground: '#FAF8F9',
+        primary: {
+          'light-4': '#A399A2',
+          'light-3': '#877D85',
+          'light-2': '#6A6268',
+          'light-1': '#544C52',
+          DEFAULT: '#433C41',
+          accent: '#FAF8F9',
+          'dark-1': '#322D30',
+          'dark-2': '#211E20',
+          'dark-3': '#0F0E0F',
+          'dark-4': '#030303',
+        },
+        secondary: {
+          'light-4': '#FFDDAB',
+          'light-3': '#FFD381',
+          'light-2': '#FFC954',
+          'light-1': '#FFC226',
+          DEFAULT: '#FDBE00',
+          accent: '#2F282D',
+          'dark-1': '#D9A300',
+          'dark-2': '#B48700',
+          'dark-3': '#8F6E00',
+          'dark-4': '#6A5100',
+        },
+        talent: {
+          'light-4': '#BFCAFF',
+          'light-3': '#A3AFFF',
+          'light-2': '#8A95FF',
+          'light-1': '#757EFF',
+          DEFAULT: '#5E63FC',
+          accent: '#FAF8F9',
+          'dark-1': '#3939E3',
+          'dark-2': '#241EC9',
+          'dark-3': '#1409B0',
+          'dark-4': '#0F0096',
+        },
+        positive: {
+          'light-1': '#2CA862',
+          DEFAULT: '#168C4D',
+          'dark-1': '#096B3A',
+          accent: '#1EC69C',
+          hover: '#40D1A7',
+          active: '#0E8D70',
+        },
+        negative: { 'light-1': '#E0586C', DEFAULT: '#C93446', 'dark-1': '#A81B27' },
+        'absolute-white': '#FFFFFF',
+        'absolute-black': '#0D0C0D',
+        white: '#FAF8F9',
+        divider: '#EBE6EA',
+        disabled: '#C7C1C5',
+        gray: '#9C9299',
+        'dark-gray': '#756B72',
+        black: '#2F282D',
+      },
+      boxShadow: {
+        custom: '0px 4px 12px 0px rgba(46, 39, 44, 0.09), 0px 12px 36px 0px rgba(46, 39, 44, 0.03)',
+      },
+    },
+  },
+  plugins: [],
+};
+
+export default config;

@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "title": "Software Product Development & Legacy Modernization | TEAM",
+    "description": "Software product development services and legacy application modernization services for mid-size companies, AI-powered and in your time zone."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "current": "AI-Powered Product & Software Engineering"
+  },
+  "hero": {
+    "overline": "AI-Powered Product & Software Engineering",
+    "title": "AI-Powered Software Product Development and Legacy Application Modernization Services",
+    "subtitle": "Bring us a business problem. We'll understand it, design the solution, build new software or modernize what you already run, connect it to your systems, and keep improving it. Senior nearshore teams work in your language and your time zone.",
+    "primaryCta": "Get your assessment",
+    "secondaryCta": "See how we work",
+    "proof": [
+      {
+        "value": "20+",
+        "label": "years building and modernizing enterprise software"
+      },
+      {
+        "value": "Same day",
+        "label": "collaboration in your time zone"
+      },
+      {
+        "value": "100%",
+        "label": "of AI output reviewed by senior engineers"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "In short",
+    "question": "What is AI-powered product and software engineering at TEAM International?",
+    "text": "TEAM International provides AI-powered software product development services and legacy application modernization services for mid-size and enterprise companies in North America and Europe. As an end-to-end software development partner, our senior nearshore teams use AI agents to discover, design, build, test and run software, and review every output. Legacy systems are modernized gradually instead of rewritten at once.",
+    "pathsLabel": "Choose your path",
+    "build": {
+      "tag": "Build new",
+      "title": "Software product development",
+      "text": "Custom business software development for workflows that set you apart, when off-the-shelf tools don't fit.",
+      "cta": "How we build"
+    },
+    "modernize": {
+      "tag": "Modernize",
+      "title": "Legacy application modernization",
+      "text": "Legacy app modernization services that document, API-enable, AI-enable and gradually replace old systems, without a big-bang rewrite.",
+      "cta": "How we modernize"
+    }
+  },
+  "build": {
+    "overline": "Build new",
+    "title": "Software product development services, from idea to production",
+    "intro": "Our digital product development teams take you from business problem to production software, with AI in every phase and senior engineers accountable for the result.",
+    "items": [
+      {
+        "title": "Product discovery & experience design",
+        "text": "Business requirements, personas, journeys, user stories, UX/UI prototypes and a prioritized backlog, with AI-assisted requirements analysis."
+      },
+      {
+        "title": "Architecture & AI-native engineering",
+        "text": "Technology selection, data architecture, APIs, cloud design, LLM architecture and security architecture, recorded in architecture decision records."
+      },
+      {
+        "title": "AI-augmented application engineering",
+        "text": "AI-assisted code, review, refactoring and documentation; APIs, integrations and reusable components; engineering agents and developer copilots."
+      },
+      {
+        "title": "Intelligent quality engineering & DevSecOps",
+        "text": "AI-generated tests, functional, regression and performance testing, SAST/DAST/SCA, CI/CD, infrastructure as code and compliance controls."
+      },
+      {
+        "title": "Platform engineering & operational readiness",
+        "text": "Containers, monitoring, telemetry, resiliency, disaster recovery, runbooks and production-readiness reviews."
+      }
+    ],
+    "mvp": {
+      "title": "MVP development services for new products",
+      "text": "Validate a new product or internal platform fast: a scoped MVP with production-grade architecture, so you scale what works instead of rebuilding it."
+    }
+  },
+  "modernize": {
+    "overline": "Modernize",
+    "title": "How our legacy application modernization services work, in 6 steps",
+    "intro": "Your business keeps running while we modernize around the core. Every step delivers something you can use.",
+    "outcomeLabel": "Outcome",
+    "steps": [
+      {
+        "id": "step-analyze",
+        "title": "Analyze the legacy system",
+        "text": "AI agents scan code, databases and logs to map dependencies, business rules and risk.",
+        "outcome": "System map and modernization scorecard."
+      },
+      {
+        "id": "step-document",
+        "title": "Document the existing architecture",
+        "text": "We turn that analysis into architecture diagrams, data flows and plain-language business rules your team can validate.",
+        "outcome": "Living documentation and architecture decision records."
+      },
+      {
+        "id": "step-apis",
+        "title": "Extract APIs for legacy system integration",
+        "text": "We expose core legacy functions and data through secure, versioned APIs.",
+        "outcome": "An integration layer that new apps and AI can use."
+      },
+      {
+        "id": "step-frontend",
+        "title": "Build a modern frontend",
+        "text": "New web and mobile experiences run on those APIs while the legacy core stays untouched.",
+        "outcome": "Better UX in weeks, not years."
+      },
+      {
+        "id": "step-ai",
+        "title": "Connect AI capabilities",
+        "text": "We add assistants, document processing, search or predictions on top of the API layer.",
+        "outcome": "Measurable AI value without rewriting the core."
+      },
+      {
+        "id": "step-replace",
+        "title": "Replace old components gradually",
+        "text": "Legacy modules are retired one at a time (strangler-fig pattern), with automated tests and CI/CD at every release.",
+        "outcome": "A composable, cloud-ready system and no big-bang cutover."
+      }
+    ]
+  },
+  "answers": {
+    "overline": "Straight answers",
+    "title": "Modernize, build or buy: what mid-size companies ask us",
+    "items": [
+      {
+        "q": "How is AI changing software modernization services?",
+        "a": "AI makes the slowest parts of modernization fast. AI agents read legacy code, map dependencies and write documentation in days instead of months. McKinsey reports gen AI cut one bank's mainframe migration estimate by 40%. Engineers then extract APIs, rebuild the frontend and replace old components one at a time, so the business keeps running throughout."
+      },
+      {
+        "q": "When does custom business software development make sense, versus buying or modernizing?",
+        "a": "Buy off-the-shelf software for standard processes like payroll or email. Choose custom business software development when a workflow sets you apart, uses proprietary data, or connects tightly to core operations. Modernize when a legacy system still holds valuable business logic but blocks integrations, AI or growth. Most mid-size companies combine all three."
+      },
+      {
+        "q": "What is the best legacy modernization strategy today?",
+        "a": "For most companies, the best legacy modernization strategy is composable and incremental. Keep the legacy system running, expose its functions through APIs, build new frontends and AI features on top, and retire old components one by one. This avoids the risk and cost of a big-bang rewrite and delivers value in every release."
+      },
+      {
+        "q": "How does legacy system integration with AI work?",
+        "a": "Legacy system integration starts by exposing the old system's data and functions through secure APIs. AI capabilities such as assistants, document processing or predictions then connect to those APIs instead of changing core code. This adds AI value within weeks while deeper modernization continues in the background."
+      },
+      {
+        "q": "What does a nearshore development team do differently?",
+        "a": "A nearshore development team works in or near your time zone, so collaboration happens live in the same business day. TEAM International's Medellín teams overlap with US business hours and its Ukraine teams with Central European hours. For nearshore application development, that means agile ceremonies, faster decisions, fewer handoffs and less rework."
+      },
+      {
+        "q": "How much does custom software development cost?",
+        "a": "Cost depends on scope, integrations and compliance needs. AI-assisted engineering lowers it by reducing team size and timelines for the same scope. TEAM International starts with a fixed-scope discovery or modernization assessment, so you get a validated architecture, roadmap and estimate before committing to a full build."
+      }
+    ]
+  },
+  "why": {
+    "overline": "Why TEAM International",
+    "title": "Why mid-size companies choose TEAM International as their software development partner",
+    "items": [
+      {
+        "title": "One accountable partner",
+        "text": "From business problem to continuous improvement, one team owns the outcome."
+      },
+      {
+        "title": "Smaller senior teams with AI",
+        "text": "You pay for outcomes, not headcount."
+      },
+      {
+        "title": "Same time zone",
+        "text": "Medellín for North America, Ukraine for Europe."
+      },
+      {
+        "title": "Fluent communication",
+        "text": "Teams who understand your market and your competitors."
+      },
+      {
+        "title": "20+ years of delivery",
+        "text": "Enterprise experience, now sized for mid-size budgets."
+      },
+      {
+        "title": "Security by default",
+        "text": "Human review of AI output plus automated security testing."
+      }
+    ],
+    "compare": {
+      "title": "How our model compares",
+      "headers": [
+        "Buyer concern",
+        "Low-cost offshore model",
+        "TEAM International"
+      ],
+      "rows": [
+        [
+          "Collaboration",
+          "9–11 hour time difference, async handoffs",
+          "Same working day, live standups and workshops"
+        ],
+        [
+          "Who solves the problem",
+          "Executes a spec",
+          "Co-defines the problem and the solution"
+        ],
+        [
+          "AI risk",
+          "AI used to cut hours",
+          "AI used with senior review and security gates"
+        ],
+        [
+          "Total cost",
+          "Low rate, high rework and management overhead",
+          "Competitive rate, fewer people, fewer surprises"
+        ]
+      ]
+    }
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "What are legacy application modernization services?",
+        "a": "Legacy application modernization services, also called legacy software modernization services, update aging software so it can integrate with modern systems, run in the cloud and support AI. TEAM International analyzes and documents the legacy system with AI, exposes its functions through APIs, builds modern frontends and replaces old components gradually, so the business keeps running throughout."
+      },
+      {
+        "q": "What is included in software product development services?",
+        "a": "TEAM International's software product development services cover the full lifecycle: product discovery, UX/UI design, architecture, AI-assisted engineering, quality engineering and DevSecOps, deployment and continuous improvement. One accountable team takes a business problem to production software and keeps improving it after launch."
+      },
+      {
+        "q": "What does a software modernization company do?",
+        "a": "A software modernization company assesses existing systems, documents how they work, and upgrades them in stages: exposing functions through APIs, rebuilding user interfaces, adding AI capabilities and replacing outdated components. TEAM International does this incrementally, so most clients never need a risky full rewrite."
+      },
+      {
+        "q": "Do you offer MVP development services?",
+        "a": "Yes. TEAM International's MVP development services help companies validate a new product or internal platform quickly. We scope the smallest version that proves the business case and build it on production-grade architecture, so you can scale what works instead of rebuilding it."
+      },
+      {
+        "q": "What is your custom software development process?",
+        "a": "Our custom software development process has five phases: discovery and experience design, architecture, AI-augmented engineering, quality engineering and DevSecOps, and platform engineering for production readiness. AI speeds up every phase, and senior engineers review every output before it ships."
+      },
+      {
+        "q": "How do you keep AI-generated code secure and maintainable?",
+        "a": "Every AI-generated change goes through senior engineer review, automated tests and security scanning (SAST, DAST and software composition analysis) in the CI/CD pipeline before release. Architecture decisions are recorded and code standards are enforced automatically, so AI speeds up delivery without adding technical debt or vulnerabilities."
+      },
+      {
+        "q": "Nearshore vs offshore: which is better for software development?",
+        "a": "For complex, collaborative projects, nearshore usually delivers better outcomes. Teams share most of your working day, so decisions, reviews and workshops happen live instead of through overnight handoffs. TEAM International's Medellín teams serve North America and its Ukraine teams serve Europe, both with fluent communication and strong cultural alignment."
+      },
+      {
+        "q": "What is the ROI of legacy system modernization?",
+        "a": "The ROI of legacy system modernization comes from lower maintenance and infrastructure costs, faster delivery of new features, fewer outages and the ability to add AI. With an incremental approach, returns start early: the first APIs, frontend or AI feature usually arrive within months, after a two-to-four-week assessment."
+      },
+      {
+        "q": "Do you work with mid-size companies?",
+        "a": "Yes. TEAM International has delivered enterprise software for more than 20 years and now works with mid-size companies too. AI-assisted engineering lets smaller senior teams deliver what used to require large teams, which makes custom software and legacy modernization affordable for mid-size budgets."
+      },
+      {
+        "q": "How do we start working with TEAM International?",
+        "a": "Start with a fixed-scope Discovery and Modernization Assessment. In two to four weeks, TEAM International analyzes your business problem or legacy system and delivers an architecture, a prioritized roadmap and an estimate, so you can decide on the full project with clear scope and cost."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Start with a 2–4 week Discovery & Modernization Assessment",
+    "subtitle": "Tell us about your business problem or legacy system. You'll get an architecture, a prioritized roadmap and an estimate before committing to a full project."
+  },
+  "schema": {
+    "serviceName": "AI-Powered Product & Software Engineering",
+    "serviceType": "Software product development and legacy application modernization",
+    "serviceDescription": "End-to-end, AI-augmented software engineering: TEAM International understands a business problem, designs the solution, builds new software or modernizes legacy systems through APIs, modern frontends, AI integration and gradual component replacement, then continuously improves it.",
+    "audience": "Mid-size and enterprise companies",
+    "alternateNames": [
+      "Software Product Development Services",
+      "Legacy Application Modernization Services",
+      "Software Modernization Services",
+      "Custom Business Software Development",
+      "MVP Development Services",
+      "Nearshore Software Development"
+    ]
+  }
+}
