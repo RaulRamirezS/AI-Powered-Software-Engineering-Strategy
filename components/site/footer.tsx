@@ -27,7 +27,9 @@ export default function Footer() {
         <div className='grid gap-10 md:grid-cols-2'>
           <div>
             <p className='mb-4 font-inconsolata text-xs uppercase tracking-widest text-secondary'>
-              Solutions
+              <a href='/solutions' className='hover:text-white'>
+                Solutions
+              </a>
             </p>
             <ul className='flex flex-col gap-2 font-public text-sm'>
               {solutions.map(s => (

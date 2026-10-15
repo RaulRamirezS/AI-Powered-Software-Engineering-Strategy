@@ -8,7 +8,7 @@ Design tokens, typography utilities and section patterns are copied from the mai
 
 ```bash
 npm install
-npm run dev        # http://localhost:3000 → redirects to /solutions/ai-powered-software-engineering
+npm run dev        # http://localhost:3000 → redirects to /solutions (hub)
 npm run build      # production build (run this once before deploying)
 ```
 
@@ -27,6 +27,7 @@ Or from the terminal: `npm i -g vercel && vercel` inside this folder.
 ```
 app/
   layout.tsx                                  fonts (Anybody, Public Sans, Inconsolata), navbar, footer, robots meta
+  solutions/page.tsx                          solutions hub (CollectionPage + ItemList + FAQ JSON-LD, client logo carousel)
   solutions/ai-powered-software-engineering/  page + metadata + JSON-LD (@graph: WebPage, Breadcrumb, Organization, Service, HowTo, FAQPage, VideoObject)
   solutions/data-readiness/                   same pattern
   solutions/customer-care-technical-support/  same pattern (+ ISO 27001 credential, 24/7 hoursAvailable)

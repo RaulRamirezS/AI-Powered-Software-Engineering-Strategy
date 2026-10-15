@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "title": "Digital Transformation Solutions for the AI Era | TEAM",
+    "description": "TEAM International is a digital transformation company and IT services provider with five solutions for software, data, support, AI strategy and AI search."
+  },
+  "breadcrumb": { "home": "Home", "current": "Solutions" },
+  "hero": {
+    "overline": "Solutions",
+    "title": "Digital Transformation Services for the AI Era",
+    "subtitle": "TEAM International is a digital transformation company and IT services provider. Our five solutions help mid-size and enterprise companies ship better software, get their data ready for AI, run always-on support, prove where AI pays off and get found in AI search.",
+    "primaryCta": "Talk to an expert",
+    "secondaryCta": "Explore the solutions",
+    "trusted": "Trusted by enterprise leaders for 20+ years"
+  },
+  "answer": {
+    "overline": "In short",
+    "question": "What digital transformation solutions does TEAM International offer?",
+    "text": "TEAM International offers five digital transformation solutions: AI-Powered Product & Software Engineering, Data Readiness, Customer Care & Technical Support Managed Services, AI Transformation & Value Realization, and AI Discovery & Agent Experience Services (AXP), powered by Scrunch. Each starts with a focused first step and a concrete deliverable. Senior teams in Medellín serve North America and in Ukraine serve Europe, from ISO/IEC 27001:2022-certified locations.",
+    "facts": [
+      { "value": "5", "label": "solutions that work alone or together" },
+      { "value": "20+", "label": "years of enterprise technology delivery" },
+      { "value": "2", "label": "delivery hubs: Medellín for North America, Ukraine for Europe" }
+    ]
+  },
+  "grid": {
+    "overline": "Our solutions",
+    "title": "Five digital transformation solutions, one partner",
+    "intro": "Each solution solves a specific business problem and works on its own or as part of a larger program. Together, they give you business technology solutions from the first prototype to everyday operations.",
+    "resultsLabel": "Results",
+    "cta": "Explore the solution",
+    "items": [
+      {
+        "slug": "ai-powered-software-engineering",
+        "tagline": "Ship better software, faster, with AI across the whole lifecycle.",
+        "title": "AI-Powered Product & Software Engineering",
+        "text": "Senior nearshore engineers and AI agents build new products and modernize legacy systems gradually, without a risky rewrite. Work moves in short phases, and you decide at the end of each one whether to continue.",
+        "results": [
+          "An architecture, a prioritized roadmap and an estimate before you fund the build",
+          "Speed and quality measured together, with every AI output reviewed by senior engineers",
+          "One partner to run, secure and keep improving the product after launch"
+        ]
+      },
+      {
+        "slug": "data-readiness",
+        "tagline": "Turn fragmented data into products for analytics and AI.",
+        "title": "Data Readiness",
+        "text": "We assess, clean, connect and govern your data so every team works from the same definitions. Each number is defined once, each person sees only the data they should, and a Fast Track option lets teams ask questions of their data in plain language.",
+        "results": [
+          "A Data Readiness Scorecard and a remediation roadmap in three to four weeks",
+          "One number everyone accepts, from Finance to Operations",
+          "AI-ready data on Azure or AWS that stays governed as it grows"
+        ]
+      },
+      {
+        "slug": "customer-care-technical-support",
+        "tagline": "Always-on customer and technical support that gets better every month.",
+        "title": "Customer Care & Technical Support Managed Services",
+        "text": "We run 24/7/365 omnichannel customer care, tiered technical support and IT help desk as a managed service, with multilingual teams, AI automation and analytics. You set the SLAs and KPIs; we run the operation behind them.",
+        "results": [
+          "Faster resolution, higher CSAT and more issues solved on first contact",
+          "SLAs met as volume, channels and languages grow",
+          "Lower cost-to-serve, with clear data on why customers reach out"
+        ]
+      },
+      {
+        "slug": "ai-transformation",
+        "tagline": "Find where AI pays off, prove it, then scale it.",
+        "title": "AI Transformation & Value Realization",
+        "text": "Our practitioners find the AI opportunities that move the P&L. We map your AI maturity, prioritize a short list of use cases, set up governance and data foundations, and train your people to use AI in their daily work.",
+        "results": [
+          "An AI maturity heatmap and an enterprise AI roadmap",
+          "A short portfolio of use cases, each with a business case, KPIs and an implementation path",
+          "Governance that Security, Legal and Compliance can sign off on"
+        ]
+      },
+      {
+        "slug": "ai-discovery-agent-experience",
+        "tagline": "See how AI describes your brand, and improve it.",
+        "title": "AI Discovery & Agent Experience Services (AXP)",
+        "text": "As a Scrunch reseller, we measure how ChatGPT, Gemini, Perplexity and other AI platforms find, describe and cite your brand against the competitors you choose, then fix what keeps you out of the answers.",
+        "results": [
+          "A baseline of your AI visibility and share of voice against named competitors",
+          "A prioritized backlog of what to fix, so you stop guessing about GEO",
+          "Content built for AI agents that leaves your website for people untouched"
+        ]
+      }
+    ],
+    "helper": {
+      "title": "Not sure where to start?",
+      "text": "Start with the problem that costs you the most today. An expert will recommend the first step and what you'll have in hand after it.",
+      "cta": "Talk to an expert"
+    }
+  },
+  "start": {
+    "overline": "How engagements start",
+    "title": "Start small, decide at every step",
+    "text": "Our enterprise technology solutions begin with a focused first step. You get a concrete deliverable, see results on your own problem and decide what comes next. Most clients add a second solution once the first one delivers.",
+    "headers": ["Solution", "Start with", "What you get"],
+    "rows": [
+      ["AI-Powered Product & Software Engineering", "Discovery & Modernization Assessment (2–4 weeks)", "An architecture, a prioritized roadmap and an estimate"],
+      ["Data Readiness", "Data Readiness Assessment (3–4 weeks)", "A Data Readiness Scorecard and a remediation roadmap"],
+      ["Customer Care & Technical Support", "Customer Care Assessment", "Baseline KPIs, a service design with SLAs and a transition plan"],
+      ["AI Transformation & Value Realization", "AI Readiness Assessment", "An AI maturity heatmap, a prioritized use-case portfolio and a roadmap"],
+      ["AI Discovery & Agent Experience (AXP)", "AI search / GEO assessment", "Your AI visibility against the competitors you choose and a GEO roadmap"]
+    ],
+    "closing": "One partner from the first assessment to everyday operations, so every new project starts with a team that already knows your business."
+  },
+  "results": {
+    "overline": "Proof",
+    "title": "Results our clients can point to",
+    "intro": "Client names are withheld on this page; references are available on request.",
+    "items": [
+      { "metric": "63% lower operating costs", "title": "AI document processing for a freight forwarding company", "text": "Our engineers replaced manual PDF reprocessing with a multi-agent AI system that extracts every item with 100% accuracy." },
+      { "metric": "Under 15 minutes", "title": "End-to-end price refresh for an automotive software company", "text": "Our engineers automated the client's pricing data pipelines, so every sales channel now shares one real-time price." },
+      { "metric": "24/7 support", "title": "One point of contact for independent grocery retailers", "text": "We built a geo-distributed support team that gives a national food distributor's retailers one point of contact by phone, chat and email." }
+    ],
+    "cta": "Explore our case studies",
+    "ctaHref": "https://www.teaminternational.com/en/insights/success-stories"
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "What do TEAM's digital transformation services include?",
+        "a": "TEAM International offers five digital transformation services: AI-powered product and software engineering, data readiness, customer care and technical support managed services, AI transformation and value realization, and AI discovery and agent experience services powered by Scrunch. Each one starts with a focused first step and can be combined with the others."
+      },
+      {
+        "q": "What makes TEAM different from other IT services providers?",
+        "a": "TEAM sells outcomes in short, reversible phases, so you approve one step at a time. Our teams use AI across delivery and measure speed and quality together. TEAM is ISO/IEC 27001:2022 certified and a Claude Certified Services Partner."
+      },
+      {
+        "q": "What does a digital transformation company do?",
+        "a": "A digital transformation company helps a business change how it works with technology: modernizing software, making data reliable, automating operations, improving customer experience and adopting AI. TEAM International does this through five solutions, delivered by its own engineering, data, support and AI teams rather than subcontractors."
+      },
+      {
+        "q": "How should we compare digital transformation companies?",
+        "a": "When comparing digital transformation companies, look for a digital transformation partner that starts with a small, fixed first step, measures results on your own problem, can build and run what it recommends, and works in your time zone. A digital transformation services company should also show security credentials such as ISO 27001 and real client outcomes, not only frameworks."
+      },
+      {
+        "q": "How do AI solutions for business deliver measurable value?",
+        "a": "AI delivers value when it targets a specific process with a clear KPI. TEAM starts with an AI Readiness Assessment, prioritizes a few high-value use cases with business cases, and proves them before any large investment."
+      },
+      {
+        "q": "Which solution should we start with?",
+        "a": "Start with the problem that costs you the most today. Slow releases or a legacy system point to Software Engineering. Untrusted numbers point to Data Readiness. Rising support costs point to Customer Care. AI pilots without results point to AI Transformation. Low visibility in ChatGPT and other AI assistants points to AI Discovery & AXP."
+      },
+      {
+        "q": "Where does TEAM deliver from?",
+        "a": "TEAM provides nearshore IT services from Medellín for clients in North America, and from Ukraine for clients in Europe, so teams share your time zone and language. All locations are ISO/IEC 27001:2022 certified."
+      },
+      {
+        "q": "Can we combine several solutions?",
+        "a": "Yes. Most clients begin with one solution and add others as their needs grow. Working with one digital transformation company means one team that already knows your systems, data and customers, instead of a new IT solutions provider for every project."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Find the right first step for your business",
+    "subtitle": "Tell us the problem you need to solve. An expert will recommend where to start and what you'll have in hand after the first phase.",
+    "cta": "Schedule a meeting with our team"
+  },
+  "schema": {
+    "name": "TEAM International Solutions",
+    "description": "Five digital transformation solutions from TEAM International: AI-Powered Product & Software Engineering; Data Readiness; Customer Care & Technical Support Managed Services; AI Transformation & Value Realization; and AI Discovery & Agent Experience Services (AXP), powered by Scrunch."
+  }
+}

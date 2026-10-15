@@ -6,6 +6,8 @@ const config: Config = {
   darkMode: 'class',
   theme: {
     extend: {
+      animation: { scroll: 'scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite' },
+      keyframes: { scroll: { to: { transform: 'translate(calc(-50% - 0.5rem))' } } },
       screens: { '2xl': '1440px' },
       spacing: { '15': '3.75rem', '30': '7.5rem', '45': '11.25rem' },
       fontSize: {

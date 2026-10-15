@@ -15,7 +15,7 @@ type NavItem = { label: string; href: string; external?: boolean; dropdown?: 'so
 
 const navItems: NavItem[] = [
   { label: 'Home', href: `${LIVE_SITE}/`, external: true },
-  { label: 'Solutions', href: '/solutions/ai-powered-software-engineering', dropdown: 'solutions' },
+  { label: 'Solutions', href: '/solutions', dropdown: 'solutions' },
   { label: 'Industries', href: `${LIVE_SITE}/industries`, external: true },
   { label: 'Careers', href: `${LIVE_SITE}/careers`, external: true },
   { label: 'About', href: `${LIVE_SITE}/about-us`, external: true },
@@ -27,6 +27,13 @@ function SolutionsDropdown({ onNavigate }: { onNavigate?: () => void }) {
   return (
     <div className='w-[420px] rounded-b-xl border border-white/10 bg-primary-dark-3 p-6 shadow-[0_16px_48px_rgba(0,0,0,0.4)]'>
       <p className='text-overline mb-4 font-inconsolata text-secondary'>Solutions</p>
+      <Link
+        href='/solutions'
+        onClick={onNavigate}
+        className='mb-2 block rounded-md border border-white/10 px-3 py-2 font-public text-sm font-semibold text-secondary transition-colors hover:bg-white/10'
+      >
+        All solutions →
+      </Link>
       <ul className='flex flex-col gap-1'>
         {solutions.map(s => (
           <li key={s.href}>
@@ -141,6 +148,13 @@ export default function Navbar() {
               item.dropdown ? (
                 <div key={item.label} className='border-b border-white/10 py-3'>
                   <p className='mb-2 font-anybody text-lg uppercase text-secondary'>{item.label}</p>
+                  <Link
+                    href='/solutions'
+                    onClick={() => setMenuOpen(false)}
+                    className='block py-2 font-public text-sm font-semibold text-secondary'
+                  >
+                    All solutions →
+                  </Link>
                   <ul className='flex flex-col gap-1'>
                     {solutions.map(s => (
                       <li key={s.href}>
