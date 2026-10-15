@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "title": "Generative Engine Optimization Services, AEO Services | TEAM",
+    "description": "Generative engine optimization services and AEO services, powered by Scrunch: measure and grow how ChatGPT, Gemini and Perplexity cite your brand."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "current": "AI Discovery & Agent Experience Services (AXP)"
+  },
+  "hero": {
+    "overline": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch",
+    "title": "Generative Engine Optimization Services: Get Found, Cited and Recommended by AI",
+    "subtitle": "Buyers now ask AI assistants before they visit your website. We measure how AI describes your company, fix what keeps you out of the answers, and deliver AI-optimized content to agents without changing your site.",
+    "primaryCta": "Get your AI Discovery Assessment",
+    "secondaryCta": "See how it works",
+    "proof": [
+      {
+        "value": "89%",
+        "label": "of B2B buyers use generative AI in at least one area of buying (Forrester, 2024)"
+      },
+      {
+        "value": "25%",
+        "label": "drop in search engine volume predicted by 2026 as AI assistants grow (Gartner)"
+      },
+      {
+        "value": "9",
+        "label": "AI platforms tracked, from ChatGPT and Gemini to Perplexity and AI Overviews"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "In short",
+    "question": "What are AI Discovery & Agent Experience Services at TEAM International?",
+    "text": "TEAM International provides generative engine optimization services and AEO services for mid-size and enterprise companies in North America and Europe, powered by the Scrunch AI visibility platform. We measure how ChatGPT, Gemini, Claude, Perplexity and Google AI Overviews describe your brand, fix the technical and content gaps that keep you out of AI answers, and deploy Scrunch's Agent Experience Platform so AI agents get optimized content while your website stays unchanged.",
+    "pathsLabel": "See how AI sees you, then change it",
+    "see": {
+      "tag": "See",
+      "title": "AI visibility, measured",
+      "text": "Your presence, position, citations and share of voice against competitors across nine AI platforms.",
+      "cta": "See the workstreams"
+    },
+    "change": {
+      "tag": "Change",
+      "title": "Fix what AI finds, at the source",
+      "text": "Technical remediation, content optimization and AXP deployment by an engineering company, not only a content agency.",
+      "cta": "See Scrunch + TEAM"
+    }
+  },
+  "workstreams": {
+    "overline": "What we do",
+    "title": "AI search optimization services in five workstreams",
+    "intro": "From the first AI search audit to serving optimized content to AI agents, each workstream ends in measurable improvements, not just recommendations.",
+    "items": [
+      {
+        "title": "AI search / GEO assessment & strategy",
+        "question": "How does AI see us today?",
+        "text": "An AI search audit and AI visibility audit: a prompt universe by persona and buyer journey, branded and non-branded prompts, AI share of voice against competitors, citation sources, sentiment and AI referral traffic, ending in a GEO strategy and roadmap.",
+        "outcome": "Clear understanding of the company's current AI visibility, quantified competitive gaps, identification of where competitors are winning, baseline KPIs against which improvement can be measured, prioritized use cases, products and buyer journeys, executive-level AI Discovery strategy"
+      },
+      {
+        "title": "AI search readiness & technical remediation",
+        "question": "Can AI read and trust our website?",
+        "text": "Technical GEO for websites AI systems struggle to interpret: AI crawler access and robots.txt, JavaScript rendering, sitemaps, canonicals, structured data, semantic HTML, entity optimization and FAQ architecture, delivered as a prioritized backlog our engineers can fix.",
+        "outcome": "Website becomes easier for AI systems to crawl and interpret, higher content retrievability, higher probability of citation, reduced ambiguity about products, services and brand positioning, stronger structured representation of the company's expertise, prioritized remediation backlog"
+      },
+      {
+        "title": "Scrunch platform implementation & integration",
+        "question": "How do we measure it every week?",
+        "text": "Scrunch set up for your business: brands, competitors, personas, topics and tracked prompts across AI platforms, ChatGPT brand monitoring and agent-traffic analytics, a KPI framework, and integration with your analytics, BI and CRM for executive dashboards.",
+        "outcome": "Production-ready Scrunch environment, reliable baseline measurement, relevant prompts and competitive universe, integrated reporting, defined operating processes, faster adoption and time-to-value, organization capable of turning Scrunch data into action"
+      },
+      {
+        "title": "GEO/AEO content & brand optimization",
+        "question": "How do we become the answer?",
+        "text": "LLM SEO and answer engine optimization for the prompts that matter: content gap analysis, concise answer blocks and FAQs, comparison and use-case pages, schema, authorship signals and third-party authority, starting with the prompts where competitors win.",
+        "outcome": "Increased AI citations, increased non-branded presence, higher AI share of voice, improved brand positioning, more accurate AI-generated descriptions, increased AI-driven referral traffic, higher probability of entering buyer consideration sets"
+      },
+      {
+        "title": "Agent Experience Platform (AXP) deployment",
+        "question": "How do we serve AI agents directly?",
+        "text": "We deploy Scrunch AXP at the edge on Cloudflare, Akamai or AWS CloudFront: AI agents are detected and receive simplified, structured, AI-optimized content at your existing URLs, with approval and redaction rules, while human visitors see the same site.",
+        "outcome": "AI agents receive optimized content automatically, existing human website remains unchanged, improved AI retrievability and cite-ability, reduced dependence on large-scale website redesign, more control over information delivered to agents, scalable AI-first content architecture"
+      }
+    ]
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How we grow your visibility in AI search, in 6 steps",
+    "intro": "A measurable loop: baseline first, fix what matters most, then keep monitoring as AI platforms change.",
+    "outcomeLabel": "Outcome",
+    "items": [
+      {
+        "id": "step-prompts",
+        "title": "Map buyers, journeys and prompts",
+        "text": "We define priority products, markets and personas and build the questions your buyers ask AI assistants, branded and non-branded.",
+        "outcome": "A prompt universe tied to revenue priorities."
+      },
+      {
+        "id": "step-baseline",
+        "title": "Baseline your AI visibility",
+        "text": "Scrunch measures presence, position, sentiment, citations and share of voice across ChatGPT, Gemini, Claude, Perplexity, Copilot, Google AI Overviews and more.",
+        "outcome": "Baseline KPIs and a clear view of where competitors win."
+      },
+      {
+        "id": "step-diagnose",
+        "title": "Diagnose technical and content gaps",
+        "text": "We find what blocks AI from reading, trusting and citing you: crawler access, rendering, structure, missing answers and weak third-party sources.",
+        "outcome": "A prioritized remediation backlog."
+      },
+      {
+        "id": "step-fix",
+        "title": "Fix the site and the content",
+        "text": "Engineers resolve technical issues while content specialists add answer blocks, FAQs, comparison pages and structured data.",
+        "outcome": "Pages AI systems can retrieve, understand and cite."
+      },
+      {
+        "id": "step-axp",
+        "title": "Deploy AXP for AI agents",
+        "text": "Scrunch AXP serves AI agents optimized content at the CDN edge, with rules you control and no website redesign.",
+        "outcome": "Optimized agent experience, unchanged human experience."
+      },
+      {
+        "id": "step-monitor",
+        "title": "Monitor, report and keep optimizing",
+        "text": "Monthly reviews track share of voice, citations and AI referrals, respond to platform changes and expand the prompt universe.",
+        "outcome": "Sustained growth in AI visibility and AI-driven traffic."
+      }
+    ]
+  },
+  "platform": {
+    "overline": "Scrunch + TEAM",
+    "title": "Scrunch shows how AI sees your company. TEAM changes what AI sees.",
+    "text": "Scrunch is an AI customer experience platform used by 500+ brands and agencies, and a Sitecore company since June 2026. TEAM International turns its insights into engineering, content and data work, and connects AI visibility to business results.",
+    "scrunch": {
+      "title": "What Scrunch measures and delivers",
+      "items": [
+        "Brand presence and position in AI answers",
+        "AI share of voice against competitors",
+        "Citations and source domains",
+        "Sentiment and answer accuracy",
+        "AI agent traffic and AI referrals",
+        "Agent Experience Platform (AXP) content delivery"
+      ]
+    },
+    "team": {
+      "title": "What TEAM International does with it",
+      "items": [
+        "GEO strategy tied to buyers and revenue",
+        "Technical remediation by software engineers",
+        "Content and entity optimization",
+        "AXP deployment on your CDN",
+        "Analytics, BI and CRM integration",
+        "Ongoing optimization and reporting"
+      ]
+    },
+    "next": {
+      "title": "When AI visibility exposes deeper issues",
+      "links": [
+        {
+          "label": "Conflicting or outdated product data → Data Readiness",
+          "href": "/solutions/data-readiness"
+        },
+        {
+          "label": "A website AI can't read → AI-Powered Product & Software Engineering",
+          "href": "/solutions/ai-powered-software-engineering"
+        },
+        {
+          "label": "Questions about AI across the business → AI Transformation & Value Realization",
+          "href": "/solutions/ai-transformation"
+        }
+      ]
+    }
+  },
+  "answers": {
+    "overline": "Straight answers",
+    "title": "What marketing and digital leaders ask about AI search",
+    "items": [
+      {
+        "q": "What are generative engine optimization services?",
+        "a": "Generative engine optimization services improve how often and how accurately AI assistants such as ChatGPT, Gemini, Perplexity and Google AI Overviews mention, cite and recommend your company. A generative engine optimization company measures your AI visibility against competitors, fixes technical and content gaps, and tracks AI share of voice, citations and AI referral traffic over time. TEAM International delivers these GEO optimization services with the Scrunch platform."
+      },
+      {
+        "q": "What is the difference between SEO, AEO and GEO?",
+        "a": "SEO earns rankings in traditional search results. Answer engine optimization (AEO) makes your content the direct answer in featured snippets, voice and AI answers. Generative engine optimization (GEO) focuses on being cited and recommended in answers generated by large language models. AEO services and GEO build on solid SEO: crawlable pages, structured data and clear, factual content."
+      },
+      {
+        "q": "How to improve brand visibility in AI search engines",
+        "a": "Start by measuring what AI says about you for the prompts your buyers use. Then make your site easy for AI to read (server-rendered pages, structured data, clear entities), publish concise answers to buyer questions, strengthen the third-party sources AI systems cite, and track AI share of voice and citations monthly. Brand visibility in AI search grows fastest on non-branded prompts where competitors currently win."
+      },
+      {
+        "q": "How to get cited by ChatGPT, Perplexity and Google AI Overviews",
+        "a": "AI systems cite sources they can retrieve, understand and trust. Give them answer-first pages with specific facts and dates, FAQ and comparison content, structured data, consistent information across your site and third-party profiles, and pages that render without JavaScript. Perplexity SEO and ChatGPT visibility also depend on being mentioned by authoritative publications and review sites in your category."
+      },
+      {
+        "q": "What is an Agent Experience Platform (AXP)?",
+        "a": "An agent experience platform detects AI agents visiting your website and serves them a simplified, structured, AI-optimized version of each page, while people keep seeing your normal site. Scrunch AXP runs at the CDN edge on Cloudflare, Akamai or AWS CloudFront, so AI retrievability improves without a website redesign."
+      },
+      {
+        "q": "How do you choose among generative engine optimization agencies?",
+        "a": "When comparing generative engine optimization agencies, an AI SEO agency or any AI search optimization agency, check four things: do they measure AI visibility with a platform rather than manual screenshots, can their engineers fix technical issues, do they connect AI visibility to traffic and pipeline, and do they understand your market? For B2B companies, a B2B GEO agency should also know long buying cycles and technical buyers."
+      }
+    ]
+  },
+  "proof": {
+    "title": "Results Scrunch customers report",
+    "intro": "Published by Scrunch for its customers; these are not TEAM International engagements, and results vary by starting point and execution.",
+    "items": [
+      {
+        "client": "Akamai",
+        "scope": "364% more appearances in AI answers for non-branded prompts and 218% more citations on AXP-enabled pages"
+      },
+      {
+        "client": "Tinybird",
+        "scope": "370% increase in web traffic from LLMs in three months"
+      },
+      {
+        "client": "Strapi",
+        "scope": "226% growth in citations for non-branded prompts within three months"
+      },
+      {
+        "client": "Runpod",
+        "scope": "4x growth in new paying customers per month after adopting Scrunch"
+      }
+    ]
+  },
+  "why": {
+    "overline": "Why TEAM International",
+    "title": "Why mid-size companies choose TEAM International for AI search optimization",
+    "items": [
+      {
+        "title": "Engineering, not only content",
+        "text": "Software engineers fix rendering, structure, schema and CDN issues that content agencies can't."
+      },
+      {
+        "title": "Powered by Scrunch",
+        "text": "A platform used by 500+ brands and agencies, tracking nine AI platforms."
+      },
+      {
+        "title": "Measured on visibility and revenue",
+        "text": "AI share of voice, citations and AI referrals, connected to your analytics and CRM."
+      },
+      {
+        "title": "Your site stays as it is",
+        "text": "AXP serves AI agents optimized content without a redesign."
+      },
+      {
+        "title": "Your time zone",
+        "text": "Medellín for North America, Ukraine for Europe, in your language and hours."
+      },
+      {
+        "title": "We practice it",
+        "text": "Our own solution pages are built answer-first, with connected structured data."
+      }
+    ],
+    "compare": {
+      "title": "How our approach compares",
+      "headers": [
+        "Buyer concern",
+        "Typical GEO agency",
+        "TEAM International"
+      ],
+      "rows": [
+        [
+          "Measurement",
+          "Manual prompt checks and screenshots",
+          "Scrunch baselines across nine AI platforms, with competitors and citations"
+        ],
+        [
+          "Fixes",
+          "Content recommendations",
+          "Content plus technical remediation by software engineers"
+        ],
+        [
+          "AI agents",
+          "Rewrite the website",
+          "AXP serves agents optimized content; the site stays unchanged"
+        ],
+        [
+          "Business impact",
+          "Ends at visibility reports",
+          "AI referrals connected to analytics, CRM and pipeline"
+        ],
+        [
+          "Deeper issues",
+          "Out of scope",
+          "Data readiness, CMS and platform modernization from the same partner"
+        ]
+      ]
+    }
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "What are AI Discovery & Agent Experience Services?",
+        "a": "They are TEAM International's AI search optimization services: an assessment of how AI platforms see your company, technical and content remediation, Scrunch platform implementation, GEO/AEO content optimization and AXP deployment. They complement AI SEO services by focusing on AI answers and AI agents, not only search rankings."
+      },
+      {
+        "q": "What does an AI search audit or GEO audit include?",
+        "a": "Our GEO audit maps the prompts your buyers ask, measures your presence, position, sentiment and citations against competitors across AI platforms, reviews AI crawler access and technical readiness, and analyzes AI referral traffic. You get baseline KPIs, the gaps where competitors win and a prioritized roadmap."
+      },
+      {
+        "q": "Which AI platforms do you track?",
+        "a": "Through Scrunch we track ChatGPT, Perplexity, Google AI Overviews, Google AI Mode, Gemini, Claude, Microsoft Copilot, Grok and Meta AI, with prompts, competitors and markets configured for your business."
+      },
+      {
+        "q": "Will AXP change our website?",
+        "a": "No. AXP runs at the CDN edge and only changes what AI agents receive. Human visitors and traditional search crawlers such as Googlebot see your normal site. Content rules, approvals and redactions keep you in control of what agents get."
+      },
+      {
+        "q": "Does GEO replace SEO?",
+        "a": "No. GEO builds on SEO. LLM SEO, agentic SEO and AEO depend on the same foundations: crawlable, fast, well-structured pages and authoritative content. The difference is the goal: being cited and recommended inside AI answers, which requires new measurement and new content formats."
+      },
+      {
+        "q": "How do you measure the ROI of GEO?",
+        "a": "We track leading indicators in Scrunch, such as AI share of voice, citations, brand presence on non-branded prompts and sentiment, and connect AI referral and agent traffic to your analytics and CRM, so leadership sees visits, leads and pipeline influenced by AI discovery."
+      },
+      {
+        "q": "Is GEO different for B2B companies?",
+        "a": "Yes. GEO for B2B targets long, research-heavy buying journeys with several stakeholders and technical questions. Generative engine optimization for B2B focuses on comparison, use-case and technical content, proof and third-party authority. As an AEO agency for B2B companies, we build the prompt universe around each buying stage and role."
+      },
+      {
+        "q": "How soon can we see results?",
+        "a": "The baseline is available as soon as Scrunch is configured. Improvements depend on your starting point, content and how fast fixes ship; Scrunch customers such as Tinybird and Strapi have reported significant gains within three months. We review progress monthly."
+      },
+      {
+        "q": "What is the connection between Scrunch and Sitecore?",
+        "a": "Sitecore announced the acquisition of Scrunch in June 2026. Scrunch insights are being built into SitecoreAI content and marketing products, which makes AI visibility a natural starting point for content platform and digital experience improvements."
+      },
+      {
+        "q": "Do you work with mid-size companies?",
+        "a": "Yes. Mid-size companies often gain AI share of voice faster than large competitors because they can publish and fix quickly. We scale the work to your priorities and staff it with senior people in your time zone."
+      },
+      {
+        "q": "How do we start?",
+        "a": "Start with an AI Discovery Assessment. TEAM International maps your buyers' prompts, baselines your AI visibility and share of voice against competitors, reviews technical readiness and delivers a prioritized GEO roadmap with KPIs."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Start with an AI Discovery Assessment",
+    "subtitle": "Tell us your priority products, markets and competitors. You'll get your AI visibility baseline, the gaps where competitors win and a prioritized GEO roadmap.",
+    "deliverables": [
+      "AI visibility baseline",
+      "Competitive share of voice",
+      "Prioritized GEO roadmap"
+    ]
+  },
+  "schema": {
+    "serviceName": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch",
+    "serviceType": "Generative engine optimization services and AEO services",
+    "serviceDescription": "TEAM International improves how AI platforms find, cite and recommend companies through five workstreams: AI search and GEO assessment and strategy; AI search readiness and technical remediation; Scrunch platform implementation and integration; GEO/AEO content and brand optimization; and Agent Experience Platform (AXP) deployment.",
+    "audience": "Mid-size and enterprise companies",
+    "alternateNames": [
+      "Generative Engine Optimization Services",
+      "GEO Services",
+      "AEO Services",
+      "Answer Engine Optimization Services",
+      "AI Search Optimization Services",
+      "AI Visibility Audit",
+      "LLM SEO",
+      "Agent Experience Platform Deployment"
+    ]
+  }
+}
