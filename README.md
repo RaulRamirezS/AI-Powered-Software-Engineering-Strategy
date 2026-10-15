@@ -49,3 +49,12 @@ lib/solutions.ts                              the 5 solutions; set `live: true` 
 - The FAQ accordion uses `forceMount`, so every answer stays in the HTML for search and AI engines even when collapsed.
 - The contact section links to the live contact form (`teaminternational.com/en/contact-us`) so leads keep flowing into the existing CRM.
 - Items to confirm before launch: proof-bar claims in the hero, the MVP offer, FAQ timelines, and a real case study.
+
+## Videos
+
+`public/videos/` holds the two explainer videos (MP4), their poster images and English captions (VTT).
+They play in the build-new and modernization sections and are described as `VideoObject` in the JSON-LD.
+
+To switch to YouTube once uploaded, paste each video ID into `content/ai-powered-software-engineering.json`
+(`videos.build.youtubeId` and `videos.modernize.youtubeId`). The page then embeds YouTube (privacy-enhanced
+mode) and the JSON-LD points to the YouTube URL. You can then delete the MP4s from `public/videos`.

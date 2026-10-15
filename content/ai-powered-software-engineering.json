@@ -275,5 +275,26 @@
       "MVP Development Services",
       "Nearshore Software Development"
     ]
+  },
+  "videos": {
+    "build": {
+      "title": "AI-Powered Software Product Development | TEAM International",
+      "description": "How TEAM International's software product development services take a business problem from idea to production, with AI in every phase and senior nearshore teams in your time zone.",
+      "src": "/videos/software-product-development.mp4",
+      "poster": "/videos/software-product-development.jpg",
+      "captions": "/videos/software-product-development.vtt",
+      "duration": "PT1M10S",
+      "youtubeId": ""
+    },
+    "modernize": {
+      "title": "Legacy Application Modernization Without Starting Over | TEAM International",
+      "description": "How TEAM International's legacy application modernization services analyze, document, API-enable, AI-enable and gradually replace legacy systems without a big-bang rewrite.",
+      "src": "/videos/legacy-application-modernization.mp4",
+      "poster": "/videos/legacy-application-modernization.jpg",
+      "captions": "/videos/legacy-application-modernization.vtt",
+      "duration": "PT1M12S",
+      "youtubeId": ""
+    },
+    "uploadDate": "2026-10-15"
   }
 }

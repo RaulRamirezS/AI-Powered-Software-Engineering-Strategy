@@ -1,26 +1,37 @@
 import content from '@/content/ai-powered-software-engineering.json';
 import { Compass, Layers, Code, ShieldCheck, Server, Rocket } from 'lucide-react';
 import AnimatedSequence from '@/components/ui/animated-sequence';
+import VideoEmbed from '@/components/ui/video-embed';
 
 const ICONS = [Compass, Layers, Code, ShieldCheck, Server];
 
 export default function BuildSection() {
   const c = content.build;
+  const v = content.videos.build;
   const items = c.items;
 
   return (
     <section id='build' className='scroll-mt-20 bg-black py-20 md:py-28'>
       <div className='mx-auto max-w-[1280px] px-6'>
-        <div className='mb-14 md:mb-20'>
-          <p className='text-overline mb-4 font-public font-semibold text-secondary'>
-            {c.overline}
-          </p>
-          <h2 className='text-title-h4 text-balance mb-5 max-w-4xl font-anybody text-white'>
-            {c.title}
-          </h2>
-          <p className='max-w-3xl font-public text-body-line leading-relaxed text-white/60'>
-            {c.intro}
-          </p>
+        <div className='mb-14 grid items-center gap-10 md:mb-20 lg:grid-cols-[1fr_1.15fr] lg:gap-14'>
+          <div>
+            <p className='text-overline mb-4 font-public font-semibold text-secondary'>
+              {c.overline}
+            </p>
+            <h2 className='text-title-h4 text-balance mb-5 max-w-4xl font-anybody text-white'>
+              {c.title}
+            </h2>
+            <p className='max-w-3xl font-public text-body-line leading-relaxed text-white/60'>
+              {c.intro}
+            </p>
+          </div>
+          <VideoEmbed
+            title={v.title}
+            src={v.src}
+            poster={v.poster}
+            captions={v.captions}
+            youtubeId={v.youtubeId || undefined}
+          />
         </div>
 
         <AnimatedSequence

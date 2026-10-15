@@ -101,7 +101,11 @@ export default function AiPoweredSoftwareEngineeringPage() {
             })),
             {
               '@type': 'Offer',
-              itemOffered: { '@type': 'Service', name: c.build.mvp.title, description: c.build.mvp.text },
+              itemOffered: {
+                '@type': 'Service',
+                name: c.build.mvp.title,
+                description: c.build.mvp.text,
+              },
             },
           ],
         },
@@ -128,6 +132,24 @@ export default function AiPoweredSoftwareEngineeringPage() {
           acceptedAnswer: { '@type': 'Answer', text: item.a },
         })),
       },
+      ...(['build', 'modernize'] as const).map(key => {
+        const v = c.videos[key];
+        return {
+          '@type': 'VideoObject',
+          '@id': `${pageUrl}#video-${key}`,
+          name: v.title,
+          description: v.description,
+          thumbnailUrl: `${SITE_URL}${v.poster}`,
+          uploadDate: c.videos.uploadDate,
+          duration: v.duration,
+          contentUrl: v.youtubeId
+            ? `https://www.youtube.com/watch?v=${v.youtubeId}`
+            : `${SITE_URL}${v.src}`,
+          ...(v.youtubeId ? { embedUrl: `https://www.youtube.com/embed/${v.youtubeId}` } : {}),
+          publisher: { '@id': org },
+          isPartOf: { '@id': `${pageUrl}#webpage` },
+        };
+      }),
     ],
   };
 
