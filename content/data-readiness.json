@@ -287,5 +287,17 @@
       "Enterprise Data Integration",
       "AI-Ready Data Services"
     ]
+  },
+  "videos": {
+    "main": {
+      "title": "Data Readiness: Make Enterprise Data AI-Ready | TEAM International",
+      "description": "How TEAM International's data readiness services assess, fix, integrate, govern and productize enterprise data for AI, with a Fast Track option for natural language query and no-code AI agents.",
+      "src": "/videos/data-readiness.mp4",
+      "poster": "/videos/data-readiness.jpg",
+      "captions": "/videos/data-readiness.vtt",
+      "duration": "PT1M14S",
+      "youtubeId": ""
+    },
+    "uploadDate": "2026-10-15"
   }
 }

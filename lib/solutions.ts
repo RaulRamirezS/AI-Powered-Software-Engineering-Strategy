@@ -7,7 +7,7 @@ export const solutions: Solution[] = [
     href: '/solutions/ai-powered-software-engineering',
     live: true,
   },
-  { label: 'Data Readiness', href: '/solutions/data-readiness', live: false },
+  { label: 'Data Readiness', href: '/solutions/data-readiness', live: true },
   {
     label: 'Customer Care & Technical Support Managed Services',
     href: '/solutions/customer-care-technical-support',
