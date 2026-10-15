@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "title": "AI Transformation Services & AI Governance Consulting | TEAM",
+    "description": "AI transformation services for mid-size companies: AI strategy, use-case portfolio, data readiness, AI governance consulting and adoption, tied to ROI."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "current": "AI Transformation & Value Realization"
+  },
+  "hero": {
+    "overline": "AI Transformation & Value Realization",
+    "title": "AI Transformation Services That Turn AI Strategy into Measurable Value",
+    "subtitle": "We help leadership decide where AI pays off, prove it with a small portfolio of high-value use cases, put governance and data foundations in place, and build the operating model that keeps AI delivering, from strategy to production.",
+    "primaryCta": "Get your AI Readiness Assessment",
+    "secondaryCta": "See how it works",
+    "proof": [
+      { "value": "3.5", "label": "use cases AI leaders prioritize, vs 6.1 for other companies (BCG)" },
+      { "value": "45%", "label": "of high-maturity organizations keep AI in production 3+ years, vs 20% (Gartner)" },
+      { "value": "20+", "label": "years of technology delivery behind our AI teams" }
+    ]
+  },
+  "answer": {
+    "overline": "In short",
+    "question": "What are AI transformation services at TEAM International?",
+    "text": "TEAM International provides AI transformation services for mid-size and enterprise companies in North America and Europe. Senior AI strategy consultants and engineers assess AI maturity, prioritize a small portfolio of high-value use cases, prepare data and architecture, put AI governance and security in place, and redesign the operating model so AI scales. Because TEAM also builds and runs AI solutions, every strategy ends in an execution-ready roadmap with measurable ROI.",
+    "pathsLabel": "Decide with confidence, then deliver",
+    "decide": {
+      "tag": "Decide",
+      "title": "AI strategy, use cases and governance",
+      "text": "Know where to invest, why, what return to expect and how risk will be controlled, before you scale.",
+      "cta": "See the workstreams"
+    },
+    "deliver": {
+      "tag": "Deliver",
+      "title": "From pilot to production, with value tracked",
+      "text": "The same team prepares the data, builds the solutions and measures the value, so the strategy actually ships.",
+      "cta": "See strategy to production"
+    }
+  },
+  "workstreams": {
+    "overline": "What we do",
+    "title": "AI transformation consulting in five workstreams",
+    "intro": "Each workstream answers one question leadership asks about AI, and each ends in a deliverable your teams can act on, not a slide deck.",
+    "items": [
+      {
+        "title": "AI strategy, maturity & value discovery",
+        "question": "Where should we use AI, and why?",
+        "text": "AI advisory services for leadership: an AI readiness assessment and maturity heatmap, competitive benchmarking, an AI North Star, investment priorities and an enterprise AI roadmap with KPIs.",
+        "outcome": "A business-led AI strategy that tells leadership where to invest, why to invest, what outcomes to expect and how the organization should progress from experimentation to enterprise-scale AI"
+      },
+      {
+        "title": "AI use-case portfolio & process transformation",
+        "question": "Where will AI create the most value?",
+        "text": "AI opportunity assessment and AI use case discovery workshops, process mapping, value and feasibility scoring, ROI models and rapid prototypes across generative AI, AI agents and AI automation consulting.",
+        "outcome": "A prioritized portfolio of a small number of high-value AI initiatives, each with a clearly defined business case, expected outcome, feasibility assessment, KPI and implementation path"
+      },
+      {
+        "title": "Data, architecture & AI platform readiness",
+        "question": "Can our data and technology support it?",
+        "text": "A data and AI consultant team reviews data, integrations and platforms, then designs the target architecture: model selection, RAG, AI gateway, LLMOps and AI cost modeling on Azure or AWS.",
+        "outcome": "An implementation-ready data and technology blueprint showing exactly what must be modernized, integrated, built or purchased to support scalable enterprise AI"
+      },
+      {
+        "title": "AI governance, risk & security",
+        "question": "How do we scale AI safely?",
+        "text": "AI governance consulting and responsible AI consulting: AI policy, risk tiering, a control matrix, model evaluation and red-teaming, plus AI security consulting for data leakage, prompt injection and agent permissions.",
+        "outcome": "A practical governance and security framework that lets the client scale AI faster because executives, Security, Legal and Compliance understand exactly how risk will be controlled"
+      },
+      {
+        "title": "AI operating model, workforce & adoption",
+        "question": "How do we make AI sustainable?",
+        "text": "AI operating model consulting: a central, federated or hybrid AI CoE, decision rights and funding, role redesign, AI adoption consulting with training and champions, and value-realization dashboards.",
+        "outcome": "An organization capable of repeatedly identifying, implementing, governing, adopting and scaling AI, not merely completing a single AI project"
+      }
+    ]
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How we take AI from strategy to measurable value, in 6 steps",
+    "intro": "A structured path that concentrates investment on the few use cases that matter, proves them early and keeps measuring value after launch.",
+    "outcomeLabel": "Outcome",
+    "items": [
+      {
+        "id": "step-assess",
+        "title": "Assess AI maturity and goals",
+        "text": "We interview executives, inventory current AI initiatives and spend, and score maturity across strategy, data, technology, governance and people.",
+        "outcome": "An AI maturity heatmap and an AI North Star tied to business goals."
+      },
+      {
+        "id": "step-prioritize",
+        "title": "Discover and prioritize use cases",
+        "text": "Workshops with each business function surface opportunities, which we score on value, feasibility, data readiness, risk and time-to-value.",
+        "outcome": "A short list of three to five high-value use cases with owners."
+      },
+      {
+        "id": "step-validate",
+        "title": "Validate with business cases and prototypes",
+        "text": "We build ROI and total-cost models, compare build, buy and partner options, and prototype the riskiest use cases.",
+        "outcome": "Evidence-based investment decisions and baseline KPIs."
+      },
+      {
+        "id": "step-prepare",
+        "title": "Prepare data, architecture and governance",
+        "text": "We design the target data and AI architecture and put policies, risk tiers and security controls in place before scaling.",
+        "outcome": "An implementation-ready blueprint and an approved governance framework."
+      },
+      {
+        "id": "step-build",
+        "title": "Build and launch in waves",
+        "text": "TEAM engineers, or your team with our support, deliver the first use cases into production with evaluation, monitoring and human oversight.",
+        "outcome": "AI solutions in production, measured against agreed KPIs."
+      },
+      {
+        "id": "step-scale",
+        "title": "Measure value and scale adoption",
+        "text": "Value dashboards, an AI operating model and role-based training turn the first wins into a repeatable capability.",
+        "outcome": "Tracked ROI and an organization that keeps scaling AI."
+      }
+    ]
+  },
+  "lifecycle": {
+    "overline": "From strategy to production",
+    "title": "One partner from AI strategy to AI in production",
+    "text": "Strategy that stops at a presentation rarely creates value. Our consultancy is designed to produce execution-ready initiatives that the same company can prepare, build, run and optimize.",
+    "stages": [
+      { "title": "Consult", "text": "AI strategy, use-case portfolio, governance and operating model." },
+      { "title": "Validate", "text": "Business cases, ROI models and rapid prototypes for priority use cases." },
+      { "title": "Build", "text": "AI solutions, agents and integrations built with an AI-enabled SDLC, on AI-ready data.", "links": [
+        { "label": "AI-Powered Product & Software Engineering", "href": "/solutions/ai-powered-software-engineering" },
+        { "label": "Data Readiness", "href": "/solutions/data-readiness" }
+      ] },
+      { "title": "Operate", "text": "Monitoring, LLMOps and managed services, including AI-enabled customer care.", "links": [
+        { "label": "Customer Care & Technical Support", "href": "/solutions/customer-care-technical-support" }
+      ] },
+      { "title": "Optimize", "text": "Value tracking, AI cost optimization and the next wave of use cases." }
+    ]
+  },
+  "answers": {
+    "overline": "Straight answers",
+    "title": "What leaders ask before investing in AI",
+    "items": [
+      {
+        "q": "What do AI transformation services include?",
+        "a": "AI transformation services cover the full path from strategy to scaled value: AI strategy and maturity assessment, use-case discovery and prioritization, data and architecture readiness, AI governance and security, and the operating model, skills and adoption needed to sustain it. At TEAM International they work as an AI transformation playbook your company can repeat, with the option for the same team to build and run the solutions."
+      },
+      {
+        "q": "What does an AI strategy consultant do?",
+        "a": "An AI strategy consultant helps leadership decide where AI should create value, how much to invest and in what order. Good AI advisory services start from business goals, not tools: they assess maturity, benchmark competitors, prioritize a few use cases with business cases and KPIs, and define the governance and operating model needed to scale."
+      },
+      {
+        "q": "What is AI governance consulting?",
+        "a": "AI governance consulting defines how a company controls AI risk without slowing it down: AI policies and acceptable use, an inventory of AI systems, risk tiering, decision rights, model evaluation, security controls and monitoring. Strong AI transformation governance lets executives, Security, Legal and Compliance approve new use cases faster because the rules are clear."
+      },
+      {
+        "q": "How do you prioritize AI use cases and measure AI ROI?",
+        "a": "Score each use case on business value (revenue, cost, productivity, customer experience) and on feasibility (data readiness, complexity, risk, time-to-value), then fund only the top few. BCG found AI leaders prioritize 3.5 use cases on average, versus 6.1 for other companies. Measure AI ROI against a baseline set before launch, including adoption and the ongoing cost of models and infrastructure."
+      },
+      {
+        "q": "What is an AI operating model?",
+        "a": "An AI operating model defines who owns AI, how use cases are funded and approved, how standards and reusable components are shared, and how business, IT, data, security and legal teams work together. Most mid-size companies start with a small AI Center of Excellence and move to a federated model as business units mature."
+      },
+      {
+        "q": "How do you choose among the best AI consulting firms?",
+        "a": "When comparing the best AI consulting firms and top AI consulting companies, look beyond the strategy deck: can the firm build and run what it recommends, does it prioritize a few use cases with measurable KPIs, does it treat governance and data readiness as part of the plan, and does it fit your size and time zone? TEAM International combines senior advisors with engineering teams in Medellín for North America and Ukraine for Europe."
+      }
+    ]
+  },
+  "proof": {
+    "title": "AI we've built for clients",
+    "intro": "Our advice comes from teams that ship AI into production. Client names are withheld; references are available on request.",
+    "items": [
+      { "client": "Freight forwarding company", "scope": "Six-agent AI system that processes 108-page shipping documents in 10.8 minutes with zero missed items, in production after a one-month engagement" },
+      { "client": "B2B marketing platform", "scope": "Agentic AI product that creates advertising campaigns from a few voice or chat messages" },
+      { "client": "US specialty sports retailer", "scope": "In-store AI assistants built with retrieval-augmented generation on Azure" },
+      { "client": "Retail loss-prevention software company", "scope": "AI analytics engine with guided actions; its customers report up to 20% lower shrink" },
+      { "client": "Digital insurance broker", "scope": "AI insurance advisor that guides customers into the application funnel and reduces support calls" },
+      { "client": "B2B pricing software company", "scope": "AI and data science price guidance for every selling situation" }
+    ]
+  },
+  "why": {
+    "overline": "Why TEAM International",
+    "title": "Why mid-size companies choose TEAM International for AI transformation",
+    "items": [
+      { "title": "Strategy that ships", "text": "The team that designs your AI roadmap can also build, run and optimize it." },
+      { "title": "Value first", "text": "A few prioritized use cases with business cases and KPIs, not dozens of pilots." },
+      { "title": "Governed by design", "text": "Controls built into the architecture, from ISO/IEC 27001:2022-certified locations." },
+      { "title": "Vendor-neutral", "text": "Model and platform choices based on your needs, on Azure, AWS and leading AI models." },
+      { "title": "Your time zone", "text": "Medellín for North America, Ukraine for Europe, working in your language and hours." },
+      { "title": "Sized for mid-size companies", "text": "Enterprise methods without enterprise-sized teams or timelines." }
+    ],
+    "compare": {
+      "title": "How our approach compares",
+      "headers": ["Buyer concern", "Typical AI strategy engagement", "TEAM International"],
+      "rows": [
+        ["What you receive", "A strategy presentation", "An execution-ready roadmap with business cases and KPIs"],
+        ["What happens next", "Handoff to another vendor to build", "The same partner prepares data, builds and runs the solutions"],
+        ["Use-case scope", "Many pilots, spread thin", "Three to five prioritized use cases, funded properly"],
+        ["Governance", "A policy document", "Controls, evaluation and monitoring built into delivery"],
+        ["Value tracking", "Ends at launch", "Value dashboards and an operating model after launch"]
+      ]
+    }
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "What is AI Transformation & Value Realization?",
+        "a": "It is TEAM International's AI consulting offer for companies that want measurable business value from AI, not more experiments. It combines AI strategy, use-case prioritization, data and platform readiness, AI governance and the operating model, and covers gen AI consulting services as well as predictive AI and AI agents. The goal is generative AI for business transformation that shows up in revenue, margin, productivity and customer experience."
+      },
+      {
+        "q": "What is an AI readiness assessment?",
+        "a": "An AI readiness assessment measures how prepared your organization is to adopt and scale AI across strategy, use cases, data, technology, governance, skills and culture. Our AI readiness assessment framework produces a maturity heatmap, the gaps that block value, and a prioritized roadmap. Unlike generic surveys, our AI readiness assessment services include interviews, a review of current AI initiatives and spend, and practical AI readiness consulting on what to fix first."
+      },
+      {
+        "q": "How is this different from Data Readiness?",
+        "a": "AI Transformation & Value Realization decides where AI should create value and how the organization will govern and scale it. Data Readiness goes deep on the data itself: quality, integration, governance and AI-ready data products. When the AI readiness assessment shows data is the main blocker, the Data Readiness team takes it from there."
+      },
+      {
+        "q": "Do you only advise, or do you also build AI solutions?",
+        "a": "Both. Unlike a pure AI implementation consultant or strategy firm, TEAM International can take a prioritized use case into production with its own engineers: generative AI applications, RAG assistants, AI agents and workflow automation. Our AI agent consulting and AI automation consultant work is backed by teams that have shipped multi-agent systems and AI assistants for clients."
+      },
+      {
+        "q": "What is an AI governance maturity model?",
+        "a": "An AI governance maturity model describes stages from ad hoc AI use with no inventory or policy, to defined policies and risk tiers, to governance built into delivery with automated evaluation and monitoring. We use it to show where your governance stands today and which controls to add first so risk management keeps pace with AI adoption."
+      },
+      {
+        "q": "How do you address AI security and compliance?",
+        "a": "Our AI security consulting covers threat modeling, prompt-injection and data-leakage controls, identity and agent permissions, and third-party model risk. We map privacy and regulatory requirements to controls, and our delivery locations are ISO/IEC 27001:2022 certified, with GDPR and HIPAA practices for regulated data."
+      },
+      {
+        "q": "How do you get AI pilots into production?",
+        "a": "Many AI projects stall after the pilot: Gartner predicted at least 30% of generative AI projects would be abandoned after proof of concept by the end of 2025, and over 40% of agentic AI projects will be canceled by the end of 2027 because of cost, unclear value or weak risk controls. We prevent this by funding few use cases, proving value with baseline KPIs, preparing data and governance early and planning production architecture from day one."
+      },
+      {
+        "q": "Which AI platforms and models do you work with?",
+        "a": "We are vendor-neutral. Our teams build on Microsoft Azure and AWS and have delivered solutions with Azure OpenAI, AWS Bedrock, OpenAI and Google Gemini models. Model and platform recommendations are based on your use cases, data, security requirements and total cost, including lock-in risk."
+      },
+      {
+        "q": "Do you work with mid-size companies?",
+        "a": "Yes. Mid-size companies need the same discipline as large enterprises, but with smaller teams and faster decisions. We scale the approach to your size, focus on a few high-value use cases and staff engagements with senior people in your time zone."
+      },
+      {
+        "q": "How do you drive AI adoption across the workforce?",
+        "a": "Adoption is designed, not assumed. Our AI adoption consulting includes role and task impact analysis, role-based training, AI champion networks, communication plans and adoption KPIs, so employees use AI safely and the expected productivity actually appears."
+      },
+      {
+        "q": "How do we start?",
+        "a": "Start with an AI Readiness Assessment. TEAM International reviews your goals, current AI initiatives, data, technology and governance, and delivers a maturity heatmap, a prioritized use-case portfolio with business cases and a roadmap, so leadership can decide with clear scope, value and cost."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Start with an AI Readiness Assessment",
+    "subtitle": "Share your goals and current AI initiatives. You'll get an AI maturity heatmap, a prioritized use-case portfolio with business cases and an execution-ready roadmap.",
+    "deliverables": ["AI maturity heatmap", "Prioritized use-case portfolio", "Execution-ready AI roadmap"]
+  },
+  "schema": {
+    "serviceName": "AI Transformation & Value Realization",
+    "serviceType": "AI transformation services and AI strategy consulting",
+    "serviceDescription": "TEAM International helps companies identify where AI creates measurable business value and scale it through five workstreams: AI strategy, maturity and value discovery; AI use-case portfolio and process transformation; data, architecture and AI platform readiness; AI governance, risk and security; and AI operating model, workforce and adoption.",
+    "audience": "Mid-size and enterprise companies",
+    "alternateNames": [
+      "AI Transformation Services",
+      "AI Transformation Consulting",
+      "AI Governance Consulting",
+      "AI Operating Model Consulting",
+      "AI Readiness Assessment",
+      "AI Advisory Services",
+      "Responsible AI Consulting",
+      "Generative AI Consulting"
+    ]
+  }
+}
