@@ -3,23 +3,34 @@
     "title": "Digital Transformation Solutions for the AI Era | TEAM",
     "description": "TEAM International is a digital transformation company and IT services provider with five solutions for software, data, support, AI strategy and AI search."
   },
-  "breadcrumb": { "home": "Home", "current": "Solutions" },
+  "breadcrumb": {
+    "home": "Home",
+    "current": "Solutions"
+  },
   "hero": {
     "overline": "Solutions",
     "title": "Digital Transformation Services for the AI Era",
     "subtitle": "TEAM International is a digital transformation company and IT services provider. Our five solutions help mid-size and enterprise companies ship better software, get their data ready for AI, run always-on support, prove where AI pays off and get found in AI search.",
     "primaryCta": "Talk to an expert",
-    "secondaryCta": "Explore the solutions",
-    "trusted": "Trusted by enterprise leaders for 20+ years"
+    "secondaryCta": "Explore the solutions"
   },
   "answer": {
     "overline": "In short",
     "question": "What digital transformation solutions does TEAM International offer?",
     "text": "TEAM International offers five digital transformation solutions: AI-Powered Product & Software Engineering, Data Readiness, Customer Care & Technical Support Managed Services, AI Transformation & Value Realization, and AI Discovery & Agent Experience Services (AXP), powered by Scrunch. Each starts with a focused first step and a concrete deliverable. Senior teams in Medellín serve North America and in Ukraine serve Europe, from ISO/IEC 27001:2022-certified locations.",
     "facts": [
-      { "value": "5", "label": "solutions that work alone or together" },
-      { "value": "20+", "label": "years of enterprise technology delivery" },
-      { "value": "2", "label": "delivery hubs: Medellín for North America, Ukraine for Europe" }
+      {
+        "value": "5",
+        "label": "solutions that work alone or together"
+      },
+      {
+        "value": "20+",
+        "label": "years of enterprise technology delivery"
+      },
+      {
+        "value": "2",
+        "label": "delivery hubs: Medellín for North America, Ukraine for Europe"
+      }
     ]
   },
   "grid": {
@@ -95,13 +106,37 @@
     "overline": "How engagements start",
     "title": "Start small, decide at every step",
     "text": "Our enterprise technology solutions begin with a focused first step. You get a concrete deliverable, see results on your own problem and decide what comes next. Most clients add a second solution once the first one delivers.",
-    "headers": ["Solution", "Start with", "What you get"],
+    "headers": [
+      "Solution",
+      "Start with",
+      "What you get"
+    ],
     "rows": [
-      ["AI-Powered Product & Software Engineering", "Discovery & Modernization Assessment (2–4 weeks)", "An architecture, a prioritized roadmap and an estimate"],
-      ["Data Readiness", "Data Readiness Assessment (3–4 weeks)", "A Data Readiness Scorecard and a remediation roadmap"],
-      ["Customer Care & Technical Support", "Customer Care Assessment", "Baseline KPIs, a service design with SLAs and a transition plan"],
-      ["AI Transformation & Value Realization", "AI Readiness Assessment", "An AI maturity heatmap, a prioritized use-case portfolio and a roadmap"],
-      ["AI Discovery & Agent Experience (AXP)", "AI search / GEO assessment", "Your AI visibility against the competitors you choose and a GEO roadmap"]
+      [
+        "AI-Powered Product & Software Engineering",
+        "Discovery & Modernization Assessment (2–4 weeks)",
+        "An architecture, a prioritized roadmap and an estimate"
+      ],
+      [
+        "Data Readiness",
+        "Data Readiness Assessment (3–4 weeks)",
+        "A Data Readiness Scorecard and a remediation roadmap"
+      ],
+      [
+        "Customer Care & Technical Support",
+        "Customer Care Assessment",
+        "Baseline KPIs, a service design with SLAs and a transition plan"
+      ],
+      [
+        "AI Transformation & Value Realization",
+        "AI Readiness Assessment",
+        "An AI maturity heatmap, a prioritized use-case portfolio and a roadmap"
+      ],
+      [
+        "AI Discovery & Agent Experience (AXP)",
+        "AI search / GEO assessment",
+        "Your AI visibility against the competitors you choose and a GEO roadmap"
+      ]
     ],
     "closing": "One partner from the first assessment to everyday operations, so every new project starts with a team that already knows your business."
   },
@@ -110,9 +145,21 @@
     "title": "Results our clients can point to",
     "intro": "Client names are withheld on this page; references are available on request.",
     "items": [
-      { "metric": "63% lower operating costs", "title": "AI document processing for a freight forwarding company", "text": "Our engineers replaced manual PDF reprocessing with a multi-agent AI system that extracts every item with 100% accuracy." },
-      { "metric": "Under 15 minutes", "title": "End-to-end price refresh for an automotive software company", "text": "Our engineers automated the client's pricing data pipelines, so every sales channel now shares one real-time price." },
-      { "metric": "24/7 support", "title": "One point of contact for independent grocery retailers", "text": "We built a geo-distributed support team that gives a national food distributor's retailers one point of contact by phone, chat and email." }
+      {
+        "metric": "63% lower operating costs",
+        "title": "AI document processing for a freight forwarding company",
+        "text": "Our engineers replaced manual PDF reprocessing with a multi-agent AI system that extracts every item with 100% accuracy."
+      },
+      {
+        "metric": "Under 15 minutes",
+        "title": "End-to-end price refresh for an automotive software company",
+        "text": "Our engineers automated the client's pricing data pipelines, so every sales channel now shares one real-time price."
+      },
+      {
+        "metric": "24/7 support",
+        "title": "One point of contact for independent grocery retailers",
+        "text": "We built a geo-distributed support team that gives a national food distributor's retailers one point of contact by phone, chat and email."
+      }
     ],
     "cta": "Explore our case studies",
     "ctaHref": "https://www.teaminternational.com/en/insights/success-stories"

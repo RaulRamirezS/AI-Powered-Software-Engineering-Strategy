@@ -43,12 +43,9 @@ export default function HeroSection() {
         </AnimatedSequence>
       </div>
 
-      {/* Client logos: same carousel as the home page */}
-      <div id='clients' className='relative border-t border-white/10 bg-primary-dark-3 pb-10 pt-8'>
-        <p className='text-overline mb-6 text-center font-public font-semibold text-white/60'>
-          {c.trusted}
-        </p>
-        <div className='flex w-full items-start overflow-x-hidden'>
+      {/* Client logos: same carousel as the home page, logos only */}
+      <div id='clients' className='relative w-full bg-primary-dark-3 pt-8 lg:pb-16'>
+        <div className='flex w-full items-start overflow-x-hidden pb-8'>
           <ImagesSlider
             items={clientLogos}
             direction='right'
