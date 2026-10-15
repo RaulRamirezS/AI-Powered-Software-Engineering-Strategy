@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "title": "Customer Support & Technical Support Outsourcing | TEAM",
+    "description": "Customer support outsourcing and technical support outsourcing for mid-size companies: nearshore agents, AI automation and CX analytics, 24/7."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "current": "Customer Care & Technical Support"
+  },
+  "hero": {
+    "overline": "Customer Care & Technical Support Managed Services",
+    "title": "Customer Support and Technical Support Outsourcing, Powered by People and AI",
+    "subtitle": "We run your customer care and technical support as a managed service: skilled nearshore agents for the conversations that matter, AI and automation for the routine, and analytics that turn every ticket into insight.",
+    "primaryCta": "Get your Customer Care Assessment",
+    "secondaryCta": "See how it works",
+    "proof": [
+      {
+        "value": "24/7",
+        "label": "always-on customer care and technical support"
+      },
+      {
+        "value": "95%",
+        "label": "of service leaders plan to keep human agents alongside AI (Gartner)"
+      },
+      {
+        "value": "20+",
+        "label": "years of technology delivery behind our support teams"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "In short",
+    "question": "What are customer care and technical support managed services at TEAM International?",
+    "text": "TEAM International provides customer support outsourcing and technical support outsourcing as a managed service for mid-size and enterprise companies in North America and Europe. Nearshore agents and technical specialists handle customer care and tiered technical support 24/7, while AI automation, agent assist and CX analytics raise first contact resolution and CSAT and lower cost-to-serve, all managed against agreed SLAs.",
+    "pathsLabel": "Run support today, improve it every month",
+    "run": {
+      "tag": "Run",
+      "title": "Managed customer care and technical support",
+      "text": "Always-on agents and technical specialists, contact center operations and service management against your SLAs.",
+      "cta": "See the workstreams"
+    },
+    "improve": {
+      "tag": "Improve",
+      "title": "AI, analytics and CX transformation",
+      "text": "Automation and AI that resolve routine requests, analytics that find recurring issues, and a roadmap to lower cost-to-serve.",
+      "cta": "See the human + AI model"
+    }
+  },
+  "workstreams": {
+    "overline": "What we do",
+    "title": "Customer support outsourcing services, from first contact to continuous improvement",
+    "intro": "Five workstreams cover everything from answering the first ticket to transforming how your company serves customers. Each one is measured by the outcomes your customers and finance team care about.",
+    "items": [
+      {
+        "title": "Customer care & technical support operations",
+        "text": "Outsourced technical support, help desk outsourcing and customer care across tiers and channels, with agents trained on your products and specialists for complex technical issues, 24/7.",
+        "outcome": "Faster response and resolution, higher CSAT and FCR, reliable always-on support"
+      },
+      {
+        "title": "Contact center operations & service management",
+        "text": "Contact center consulting and operations: workforce management, quality assurance, SLA management and reporting, so service quality stays consistent as volumes grow.",
+        "outcome": "Consistent quality, SLA attainment, scalability, higher productivity, lower cost-to-serve"
+      },
+      {
+        "title": "Customer experience intelligence & analytics",
+        "text": "Contact center analytics and voice of customer analytics that categorize every interaction, surface recurring issues and feed actionable insights to product and service teams.",
+        "outcome": "Better understanding of customer needs and actionable product and service insights"
+      },
+      {
+        "title": "Intelligent automation & AI enablement",
+        "text": "Contact center automation, AI self-service, agent assist and knowledge automation that resolve routine requests and make every agent more effective.",
+        "outcome": "Less manual effort, lower operating cost, faster resolution, more effective agents"
+      },
+      {
+        "title": "CX optimization & transformation",
+        "text": "Customer experience consulting and CX transformation: journey redesign, channel strategy, technology modernization and a phased roadmap to structural cost reduction.",
+        "outcome": "Better customer experience, modernized operations, structural cost reduction, more agility"
+      }
+    ]
+  },
+  "model": {
+    "overline": "The human + AI model",
+    "title": "AI for the routine, people for the moments that matter",
+    "text": "Gartner predicts that agentic AI will autonomously resolve 80% of common customer service issues by 2029, yet 95% of service leaders plan to keep human agents. We design support around that reality: each request goes to the level that resolves it best, and every interaction makes the system smarter.",
+    "layers": [
+      {
+        "title": "AI self-service and automation",
+        "text": "Answers routine questions, tracks orders and resets accounts instantly, around the clock."
+      },
+      {
+        "title": "Customer care agents with AI assist",
+        "text": "Skilled nearshore agents handle conversations that need judgment and empathy, with AI suggesting answers and summarizing cases."
+      },
+      {
+        "title": "Technical specialists",
+        "text": "Tier 2 and tier 3 specialists troubleshoot complex product and technical issues and escalate to your engineers with full context."
+      },
+      {
+        "title": "CX analytics loop",
+        "text": "Every interaction is categorized and analyzed so recurring issues get fixed at the source, not just answered again."
+      }
+    ]
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How we take over and improve your customer support, in 6 steps",
+    "intro": "A structured transition protects your customers from day one, then the service improves every month.",
+    "outcomeLabel": "Outcome",
+    "items": [
+      {
+        "id": "step-assess",
+        "title": "Assess your current support",
+        "text": "We analyze volumes, channels, KPIs, tools, knowledge base and cost-to-serve, and identify quick wins.",
+        "outcome": "Baseline KPIs and a service design recommendation."
+      },
+      {
+        "id": "step-design",
+        "title": "Design the service model and SLAs",
+        "text": "We define tiers, coverage hours, channels, staffing, escalation paths and the SLAs we will be measured on.",
+        "outcome": "Agreed service model, SLAs and success metrics."
+      },
+      {
+        "id": "step-transition",
+        "title": "Transition and knowledge transfer",
+        "text": "Our agents and specialists train on your products, shadow your team and build or improve the knowledge base.",
+        "outcome": "A trained team and a documented knowledge base."
+      },
+      {
+        "id": "step-golive",
+        "title": "Go live with quality assurance",
+        "text": "We take over support in phases with daily quality reviews, real-time dashboards and SLA tracking.",
+        "outcome": "Stable, always-on support with SLA attainment."
+      },
+      {
+        "id": "step-automate",
+        "title": "Automate and AI-enable",
+        "text": "We add self-service, agent assist and workflow automation where analytics show the biggest gains.",
+        "outcome": "Lower manual effort and faster resolution."
+      },
+      {
+        "id": "step-improve",
+        "title": "Analyze and continuously improve",
+        "text": "Monthly CX insight reviews turn recurring issues into product, process and knowledge improvements.",
+        "outcome": "Rising CSAT and FCR, falling cost-to-serve."
+      }
+    ]
+  },
+  "answers": {
+    "overline": "Straight answers",
+    "title": "What mid-size companies ask about outsourcing customer support",
+    "items": [
+      {
+        "q": "What is customer support outsourcing?",
+        "a": "Customer support outsourcing means a specialized partner runs some or all of your customer service: answering customers across channels, resolving issues and reporting on performance against agreed SLAs. With TEAM International it is a managed service that also includes AI automation, CX analytics and continuous improvement, not just extra agents. When comparing customer service outsourcing companies, look at technical depth, measurable SLAs, AI capabilities and time-zone fit, not just hourly rates."
+      },
+      {
+        "q": "What does technical support outsourcing include?",
+        "a": "Technical support outsourcing covers tiered troubleshooting of your products and services: tier 1 handles common questions and guided fixes, tier 2 diagnoses complex issues, and tier 3 specialists work with your engineers on defects. TEAM International's technical specialists come from a technology company, so they understand software, integrations and configuration."
+      },
+      {
+        "q": "Is a nearshore call center better than offshore?",
+        "a": "For complex or high-value interactions, a nearshore contact center usually delivers better results: shared time zones, strong language and cultural alignment, and easier collaboration with your product teams. TEAM International serves North America from Medellín and Europe from Ukraine, with 24/7 coverage where needed."
+      },
+      {
+        "q": "How is AI changing customer service?",
+        "a": "AI is taking over routine requests and helping agents with suggested answers and case summaries. Gartner predicts agentic AI will autonomously resolve 80% of common customer service issues by 2029, but 95% of service leaders plan to keep human agents. The winning model is hybrid: automation for the routine, skilled people for judgment, empathy and complex technical issues."
+      },
+      {
+        "q": "How do you improve CSAT and first contact resolution?",
+        "a": "CSAT and first contact resolution improve when agents have the right knowledge, authority and tools at the first touch. We combine better routing, a maintained knowledge base, AI agent assist, quality coaching and root-cause analysis of repeat contacts, and we track both metrics weekly against targets."
+      },
+      {
+        "q": "What does contact center analytics deliver?",
+        "a": "Contact center analytics and voice of customer analytics categorize every interaction to show why customers contact you, which issues repeat, where processes break and how customers feel. The result is a prioritized list of fixes for product, operations and self-service that reduces contact volume and improves the customer experience."
+      }
+    ]
+  },
+  "why": {
+    "overline": "Why TEAM International",
+    "title": "Why mid-size companies choose TEAM International for customer care and technical support",
+    "items": [
+      {
+        "title": "Technology DNA",
+        "text": "Support teams backed by 20+ years of software engineering, not just call scripts."
+      },
+      {
+        "title": "Human + AI by design",
+        "text": "Automation for the routine, skilled people for what matters."
+      },
+      {
+        "title": "Measured on outcomes",
+        "text": "SLAs, CSAT, FCR and cost-to-serve, reported transparently."
+      },
+      {
+        "title": "Insights, not just tickets",
+        "text": "CX analytics that feed fixes back to product and operations."
+      },
+      {
+        "title": "Your time zone",
+        "text": "Medellín for North America, Ukraine for Europe, 24/7 where you need it."
+      },
+      {
+        "title": "Sized for mid-size companies",
+        "text": "Flexible teams that scale with your volumes and seasonality."
+      }
+    ],
+    "compare": {
+      "title": "How our model compares",
+      "headers": [
+        "Buyer concern",
+        "Traditional BPO call center",
+        "TEAM International"
+      ],
+      "rows": [
+        [
+          "What you get",
+          "Seats and agents, priced per hour",
+          "A managed service measured on CSAT, FCR, SLAs and cost-to-serve"
+        ],
+        [
+          "Technical depth",
+          "Scripted tier 1 answers",
+          "Tier 1 to 3 support from a technology company"
+        ],
+        [
+          "AI and automation",
+          "Added later, if at all",
+          "Built into the service from the start"
+        ],
+        [
+          "Improvement",
+          "Same volume, same issues",
+          "Analytics that remove the causes of repeat contacts"
+        ]
+      ]
+    }
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "What are customer care and technical support managed services?",
+        "a": "They are a fully managed form of customer experience outsourcing: TEAM International provides the agents, technical specialists, contact center operations, AI automation and analytics, and is accountable for agreed SLAs and outcomes such as CSAT, first contact resolution and cost-to-serve."
+      },
+      {
+        "q": "Which support tiers do you cover?",
+        "a": "We cover tier 1 customer care, tier 2 technical troubleshooting and tier 3 specialist support in coordination with your engineering team. Many clients start with tier 1 and 2 and add tier 3 once the knowledge base and escalation paths are in place."
+      },
+      {
+        "q": "Do you provide 24/7 support?",
+        "a": "Yes. We design coverage around your customers, from business hours in their time zone to always-on 24/7 support, combining nearshore teams with AI self-service for after-hours routine requests."
+      },
+      {
+        "q": "Which channels do you support?",
+        "a": "We support the channels your customers use, typically phone, email, chat, messaging and in-app support, with consistent quality and reporting across all of them."
+      },
+      {
+        "q": "How do you measure success?",
+        "a": "We agree on SLAs and KPIs before go-live, usually CSAT, first contact resolution, response and resolution times, SLA attainment, quality scores and cost-to-serve, and report them in real-time dashboards and monthly reviews."
+      },
+      {
+        "q": "How long does the transition take?",
+        "a": "A typical transition takes four to eight weeks depending on product complexity and volume: assessment, service design, training and knowledge transfer, then a phased go-live with daily quality reviews."
+      },
+      {
+        "q": "Will AI replace our support agents?",
+        "a": "Not entirely. AI resolves more routine requests every year, but Gartner found 95% of customer service leaders plan to keep human agents. We use AI to remove repetitive work and assist agents, so your people focus on complex, high-value conversations."
+      },
+      {
+        "q": "Can you support technical and SaaS products?",
+        "a": "Yes. As a technology company, TEAM International staffs tech support outsourcing engagements with people who understand software, integrations, configuration and troubleshooting, which makes us a good fit for SaaS customer support outsourcing and complex B2B products."
+      },
+      {
+        "q": "Do you work with mid-size companies?",
+        "a": "Yes. Our teams scale from a small dedicated pod to large always-on operations, so mid-size companies get enterprise-grade service management, AI and analytics without enterprise-sized contracts."
+      },
+      {
+        "q": "How do we start?",
+        "a": "Start with a Customer Care Assessment. In two to three weeks, TEAM International reviews your volumes, KPIs, tools and costs and delivers a service design, SLA proposal and improvement roadmap, so you can decide with clear scope and cost."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Start with a 2–3 week Customer Care Assessment",
+    "subtitle": "Share your volumes, channels and goals. You'll get baseline KPIs, a service design with SLAs and a roadmap to higher CSAT and lower cost-to-serve."
+  },
+  "schema": {
+    "serviceName": "Customer Care & Technical Support Managed Services",
+    "serviceType": "Customer support outsourcing and technical support outsourcing",
+    "serviceDescription": "TEAM International runs customer care and tiered technical support as a managed service, with contact center operations and service management, customer experience analytics, intelligent automation and AI enablement, and CX optimization and transformation, measured against agreed SLAs.",
+    "audience": "Mid-size and enterprise companies",
+    "alternateNames": [
+      "Customer Support Outsourcing",
+      "Technical Support Outsourcing",
+      "Outsourced Technical Support",
+      "Help Desk Outsourcing",
+      "Contact Center Consulting",
+      "Customer Experience Consulting",
+      "Nearshore Contact Center"
+    ]
+  }
+}
