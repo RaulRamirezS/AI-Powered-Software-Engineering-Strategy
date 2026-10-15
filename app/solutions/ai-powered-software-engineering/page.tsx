@@ -69,6 +69,7 @@ export default function AiPoweredSoftwareEngineeringPage() {
         name: 'TEAM International',
         legalName: 'Team International Services Inc.',
         url: 'https://www.teaminternational.com/',
+        logo: `${SITE_URL}/team-international-logo-light-bg.png`,
         email: 'sales@teaminternational.com',
         sameAs: [
           'https://www.linkedin.com/company/team-international',
