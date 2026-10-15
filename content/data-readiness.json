@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "title": "Data Readiness & Data Modernization Services | TEAM",
+    "description": "Data readiness assessment, data modernization services and data governance consulting that make enterprise data AI-ready for mid-size companies."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "current": "Data Readiness"
+  },
+  "hero": {
+    "overline": "Data Readiness",
+    "title": "Data Readiness Services: Assessment, Modernization and Governance for AI-Ready Data",
+    "subtitle": "Most AI projects stall on data, not models. We measure how ready your data is, fix what blocks AI and analytics, and give your teams answers from enterprise data in plain language while the foundation is built.",
+    "primaryCta": "Get your Data Readiness Scorecard",
+    "secondaryCta": "See how it works",
+    "proof": [
+      {
+        "value": "60%",
+        "label": "of AI projects without AI-ready data will be abandoned through 2026 (Gartner)"
+      },
+      {
+        "value": "2 speeds",
+        "label": "quick answers now, a governed data foundation for scale"
+      },
+      {
+        "value": "20+",
+        "label": "years building enterprise data and software systems"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "In short",
+    "question": "What are data readiness services at TEAM International?",
+    "text": "TEAM International's data readiness services make enterprise data trustworthy and AI-ready for mid-size and enterprise companies. We start with a data readiness assessment that produces a scorecard and a remediation roadmap, then deliver data quality, integration and modernization, and data governance consulting. A Fast Track platform option lets teams query most enterprise data in plain language and build no-code AI agents within weeks.",
+    "pathsLabel": "Two speeds, one data strategy",
+    "foundation": {
+      "tag": "Build the foundation",
+      "title": "Data readiness and modernization",
+      "text": "Assess, clean, integrate, govern and productize your data so analytics and AI can scale.",
+      "cta": "How we get data AI-ready"
+    },
+    "fastTrack": {
+      "tag": "Get value now",
+      "title": "Fast Track platform",
+      "text": "Ask questions of most enterprise data in natural language and build no-code AI agents, without waiting for a full modernization.",
+      "cta": "Explore the Fast Track"
+    }
+  },
+  "workstreams": {
+    "overline": "What we do",
+    "title": "Data modernization services and data governance consulting, end to end",
+    "intro": "Our data management consulting covers five workstreams that take your data from scattered and uncertain to governed, integrated and ready for analytics and AI. Each one delivers a concrete outcome.",
+    "items": [
+      {
+        "title": "Discovery & assessment",
+        "text": "Data strategy consulting that starts with facts: a data readiness assessment across quality, integration, governance, security and AI fit, delivered as a Data Readiness Scorecard and a remediation and modernization roadmap.",
+        "outcome": "Data Readiness Scorecard and roadmap"
+      },
+      {
+        "title": "Quality & harmonization",
+        "text": "Data quality consulting and data cleansing services: profiling, deduplication, master data and common definitions, so every system describes customers, products and transactions the same way.",
+        "outcome": "Trusted, standardized data"
+      },
+      {
+        "title": "Integration & modernization",
+        "text": "Enterprise data integration, data engineering services and data platform modernization on Microsoft Azure or AWS: pipelines, APIs and a cloud data platform that replace silos and brittle legacy warehouses.",
+        "outcome": "An integrated enterprise data foundation"
+      },
+      {
+        "title": "Governance & trust",
+        "text": "Data governance consulting and services that set ownership, policies, catalog, lineage, access control and privacy, built for AI use as well as reporting.",
+        "outcome": "Governed, discoverable and secure enterprise data"
+      },
+      {
+        "title": "AI & analytics preparation",
+        "text": "Curated, documented data products with quality checks and semantic definitions that analysts, BI tools and AI models can use directly.",
+        "outcome": "Analytics-ready and AI-ready data products"
+      }
+    ]
+  },
+  "fastTrack": {
+    "overline": "Fast Track platform option",
+    "title": "Ask your enterprise data questions in plain language, in weeks",
+    "text": "Modernizing data takes months. The Fast Track platform connects to most of your existing systems, lets business users query enterprise data in natural language, and lets teams build AI agents without code. It delivers value while the foundation workstreams continue, and shows exactly where data quality needs work.",
+    "bullets": [
+      "Natural language query across the majority of enterprise data",
+      "No-code AI agent builder for business teams",
+      "Connects to existing systems; no rip-and-replace",
+      "Runs alongside the data readiness roadmap, not instead of it"
+    ]
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How to make enterprise data AI-ready, in 6 steps",
+    "intro": "Start with facts, fix what matters most, and deliver value at every step.",
+    "outcomeLabel": "Outcome",
+    "items": [
+      {
+        "id": "step-assess",
+        "title": "Assess data readiness",
+        "text": "We profile your key data sources and score quality, integration, governance, security and AI fit against your priority use cases.",
+        "outcome": "Data Readiness Scorecard."
+      },
+      {
+        "id": "step-roadmap",
+        "title": "Prioritize the roadmap",
+        "text": "We rank gaps by business impact and effort and turn them into a phased remediation and modernization plan.",
+        "outcome": "Remediation and modernization roadmap."
+      },
+      {
+        "id": "step-quality",
+        "title": "Fix quality and harmonize",
+        "text": "We cleanse, deduplicate and standardize critical data, and agree on shared definitions with the business.",
+        "outcome": "Trusted, standardized data."
+      },
+      {
+        "id": "step-integrate",
+        "title": "Integrate and modernize",
+        "text": "We connect silos through pipelines and APIs and move workloads to a modern cloud data platform.",
+        "outcome": "An integrated enterprise data foundation."
+      },
+      {
+        "id": "step-govern",
+        "title": "Govern and secure",
+        "text": "We set ownership, policies, catalog, lineage and access controls so data is discoverable and safe to use with AI.",
+        "outcome": "Governed, secure enterprise data."
+      },
+      {
+        "id": "step-products",
+        "title": "Deliver AI-ready data products",
+        "text": "We package curated, documented data for analytics, BI and AI use cases, with quality monitored continuously.",
+        "outcome": "Analytics-ready and AI-ready data products."
+      }
+    ]
+  },
+  "answers": {
+    "overline": "Straight answers",
+    "title": "What mid-size companies ask about AI-ready data",
+    "items": [
+      {
+        "q": "What is AI-ready data?",
+        "a": "AI-ready data is data that is accurate, consistent, well documented, governed and accessible enough for AI models and agents to use safely. It represents the business use case, carries clear definitions and lineage, and is monitored over time. Gartner predicts organizations will abandon 60% of AI projects unsupported by AI-ready data through 2026."
+      },
+      {
+        "q": "What does a data readiness assessment include?",
+        "a": "A data readiness assessment profiles your critical data sources and scores them on quality, integration, governance, security and fit for priority AI and analytics use cases. TEAM International delivers the results as a Data Readiness Scorecard plus a prioritized remediation and modernization roadmap with effort and impact for each gap."
+      },
+      {
+        "q": "What is a good data modernization strategy?",
+        "a": "A good data modernization strategy starts from business use cases, not technology. Assess the current state, fix the data quality issues that block priority use cases, integrate silos into a modern cloud data platform in phases, and put governance in place as you go. Each phase should deliver usable data products, not just infrastructure."
+      },
+      {
+        "q": "What is data harmonization?",
+        "a": "Data harmonization makes data from different systems consistent: the same customer, product or transaction is described with the same identifiers, formats and definitions everywhere. It combines cleansing, standardization, master data management and shared business definitions, and it is a prerequisite for reliable analytics and AI."
+      },
+      {
+        "q": "When do you need data governance consulting?",
+        "a": "You need data governance consulting when teams don't trust reports, nobody owns key data, sensitive data is hard to control, or AI projects can't get approved because data risk is unclear. A practical governance program sets ownership, policies, a data catalog, lineage and access controls sized to your organization, not a heavy bureaucracy."
+      },
+      {
+        "q": "Can we get value from AI before our data is fully modernized?",
+        "a": "Yes. TEAM International's Fast Track platform option connects to most existing systems and lets business users query enterprise data in natural language and build no-code AI agents within weeks. It runs alongside the data readiness roadmap, delivering early value and showing where data quality work matters most."
+      }
+    ]
+  },
+  "why": {
+    "overline": "Why TEAM International",
+    "title": "Why mid-size companies choose TEAM International for data readiness",
+    "items": [
+      {
+        "title": "Assessment first",
+        "text": "A scorecard and roadmap before any big spend."
+      },
+      {
+        "title": "Two speeds",
+        "text": "Fast Track answers now, a governed foundation for scale."
+      },
+      {
+        "title": "Business outcomes, not tools",
+        "text": "Every workstream is tied to priority AI and analytics use cases."
+      },
+      {
+        "title": "Works with your stack",
+        "text": "Expert data engineers for Microsoft Azure and AWS, modernizing around what you already run."
+      },
+      {
+        "title": "Engineering depth",
+        "text": "20+ years building enterprise data and software systems."
+      },
+      {
+        "title": "Your time zone",
+        "text": "Nearshore teams in Medellín for North America and Ukraine for Europe."
+      }
+    ],
+    "compare": {
+      "title": "How our model compares",
+      "headers": [
+        "Buyer concern",
+        "Large consultancy or tool-only vendor",
+        "TEAM International"
+      ],
+      "rows": [
+        [
+          "Where it starts",
+          "Long strategy phase, or a tool license",
+          "A 3–4 week assessment with a scorecard and roadmap"
+        ],
+        [
+          "Time to first value",
+          "Months, after the platform is built",
+          "Weeks, with the Fast Track platform option"
+        ],
+        [
+          "Scope",
+          "Strategy only, or one tool's features",
+          "Assessment, quality, integration, governance and data products"
+        ],
+        [
+          "Cost and size",
+          "Large teams sized for global enterprises",
+          "Senior teams sized for mid-size budgets"
+        ]
+      ]
+    }
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "What is data readiness?",
+        "a": "Data readiness is how prepared an organization's data is to support a specific goal, such as analytics, automation or AI. It covers data quality, integration, governance, security and documentation. TEAM International measures it with a data readiness assessment and a Data Readiness Scorecard, then closes the gaps that matter most."
+      },
+      {
+        "q": "How long does a data readiness assessment take?",
+        "a": "A typical data readiness assessment takes three to four weeks for a defined set of priority use cases and data sources. It ends with a Data Readiness Scorecard and a prioritized remediation and modernization roadmap, so you can plan budget and sequence with facts."
+      },
+      {
+        "q": "What do your data modernization services include?",
+        "a": "TEAM International's data modernization services cover enterprise data integration, pipeline and API development, migration from legacy warehouses to a modern cloud data platform on Microsoft Azure or AWS, and data platform modernization, delivered in phases tied to priority analytics and AI use cases."
+      },
+      {
+        "q": "What does data governance consulting include?",
+        "a": "Our data governance consulting defines data ownership and stewardship, policies and standards, a data catalog and lineage, access control and privacy, and governance for AI use. We size the program to your organization so it improves trust without adding bureaucracy."
+      },
+      {
+        "q": "How do you improve data quality?",
+        "a": "We apply a data quality framework: profile data to find errors, gaps and duplicates, fix them at the source where possible, standardize formats and definitions, set up master data for key entities, and add automated data quality checks and monitoring so quality stays high over time."
+      },
+      {
+        "q": "What is the Fast Track platform option?",
+        "a": "The Fast Track platform option is a ready-to-use platform that connects to most enterprise data sources, lets business users ask questions in natural language, and lets teams build AI agents without code. It delivers value in weeks while the data readiness roadmap continues."
+      },
+      {
+        "q": "Do we need to replace our current data platform?",
+        "a": "Usually not. Our data engineers work across Microsoft Azure and AWS, modernize around the platforms you already run, and replace only the components that block quality, scale or AI. The roadmap from the assessment shows what to keep, upgrade or retire."
+      },
+      {
+        "q": "How is data readiness different from an AI readiness assessment?",
+        "a": "An AI readiness assessment looks at strategy, use cases, skills, governance and technology across the organization. A data readiness assessment goes deep on the data itself: quality, integration, governance and fitness for specific AI and analytics use cases. Many companies start with data readiness because data is the most common blocker."
+      },
+      {
+        "q": "Do you work with mid-size companies?",
+        "a": "Yes. TEAM International has built enterprise data and software systems for more than 20 years and works with mid-size companies too. Senior teams, an assessment-first approach and the Fast Track option make data readiness affordable for mid-size budgets."
+      },
+      {
+        "q": "How do we start?",
+        "a": "Start with a data readiness assessment. In three to four weeks, TEAM International scores your priority data sources and delivers a Data Readiness Scorecard and a remediation and modernization roadmap, so you can decide next steps with clear scope and cost."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Start with a 3–4 week Data Readiness Assessment",
+    "subtitle": "Tell us which analytics or AI use cases matter most. You'll get a Data Readiness Scorecard and a prioritized remediation and modernization roadmap."
+  },
+  "schema": {
+    "serviceName": "Data Readiness",
+    "serviceType": "Data readiness assessment, data modernization and data governance consulting",
+    "serviceDescription": "TEAM International assesses enterprise data readiness, then improves data quality and harmonization, integrates and modernizes data platforms, implements data governance, and delivers analytics-ready and AI-ready data products, with an optional Fast Track platform for natural language query and no-code AI agents.",
+    "audience": "Mid-size and enterprise companies",
+    "alternateNames": [
+      "Data Readiness Assessment",
+      "Data Modernization Services",
+      "Data Governance Consulting",
+      "Data Quality Consulting",
+      "Enterprise Data Integration",
+      "AI-Ready Data Services"
+    ]
+  }
+}
