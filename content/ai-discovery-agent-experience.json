@@ -12,7 +12,7 @@
     "overline": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch",
     "title": "Generative Engine Optimization Services: Get Found, Cited and Recommended by AI",
     "subtitle": "Buyers now ask AI assistants before they visit your website. We measure how AI describes your company, fix what keeps you out of the answers, and deliver AI-optimized content to agents without changing your site.",
-    "primaryCta": "Get your AI Discovery Assessment",
+    "primaryCta": "Get started with AI Discovery & AXP",
     "secondaryCta": "See how it works",
     "proof": [
       {
@@ -32,7 +32,7 @@
   "answer": {
     "overline": "In short",
     "question": "What are AI Discovery & Agent Experience Services at TEAM International?",
-    "text": "TEAM International provides generative engine optimization services and AEO services for mid-size and enterprise companies in North America and Europe, powered by the Scrunch AI visibility platform. We measure how ChatGPT, Gemini, Claude, Perplexity and Google AI Overviews describe your brand, fix the technical and content gaps that keep you out of AI answers, and deploy Scrunch's Agent Experience Platform so AI agents get optimized content while your website stays unchanged.",
+    "text": "TEAM International provides generative engine optimization services and AEO services for mid-size and enterprise companies in North America and Europe, as a Scrunch reseller. We measure how ChatGPT, Gemini, Claude, Perplexity and Google AI Overviews describe your brand, fix the technical and content gaps that keep you out of AI answers, and deploy Scrunch's Agent Experience Platform so AI agents get optimized content while your website stays unchanged.",
     "pathsLabel": "See how AI sees you, then change it",
     "see": {
       "tag": "See",
@@ -131,7 +131,7 @@
   "platform": {
     "overline": "Scrunch + TEAM",
     "title": "Scrunch shows how AI sees your company. TEAM changes what AI sees.",
-    "text": "Scrunch is an AI customer experience platform used by 500+ brands and agencies, and a Sitecore company since June 2026. TEAM International turns its insights into engineering, content and data work, and connects AI visibility to business results.",
+    "text": "Scrunch is Sitecore's AI visibility solution, used by 500+ brands and agencies. As a Scrunch reseller, TEAM International provides the platform license together with the strategy, engineering, content and data work that turns its insights into business results.",
     "scrunch": {
       "title": "What Scrunch measures and delivers",
       "items": [
@@ -226,15 +226,15 @@
   },
   "why": {
     "overline": "Why TEAM International",
-    "title": "Why mid-size companies choose TEAM International for AI search optimization",
+    "title": "Why work with TEAM International on AI search optimization",
     "items": [
       {
         "title": "Engineering, not only content",
         "text": "Software engineers fix rendering, structure, schema and CDN issues that content agencies can't."
       },
       {
-        "title": "Powered by Scrunch",
-        "text": "A platform used by 500+ brands and agencies, tracking nine AI platforms."
+        "title": "Scrunch reseller",
+        "text": "Platform license and services from one partner, tracking nine AI platforms."
       },
       {
         "title": "Measured on visibility and revenue",
@@ -306,6 +306,10 @@
         "a": "Through Scrunch we track ChatGPT, Perplexity, Google AI Overviews, Google AI Mode, Gemini, Claude, Microsoft Copilot, Grok and Meta AI, with prompts, competitors and markets configured for your business."
       },
       {
+        "q": "Do we need to buy Scrunch separately?",
+        "a": "No. TEAM International is a Scrunch reseller, so you get the Scrunch license, setup, integration and optimization services from one partner, with one point of contact. If you already use Scrunch, we work in your existing account."
+      },
+      {
         "q": "Will AXP change our website?",
         "a": "No. AXP runs at the CDN edge and only changes what AI agents receive. Human visitors and traditional search crawlers such as Googlebot see your normal site. Content rules, approvals and redactions keep you in control of what agents get."
       },
@@ -327,7 +331,7 @@
       },
       {
         "q": "What is the connection between Scrunch and Sitecore?",
-        "a": "Sitecore announced the acquisition of Scrunch in June 2026. Scrunch insights are being built into SitecoreAI content and marketing products, which makes AI visibility a natural starting point for content platform and digital experience improvements."
+        "a": "Scrunch is Sitecore's AI visibility solution: Sitecore announced the acquisition in June 2026, and Scrunch insights are being built into SitecoreAI content and marketing products. That makes AI visibility a natural starting point for content platform and digital experience improvements."
       },
       {
         "q": "Do you work with mid-size companies?",
@@ -335,13 +339,13 @@
       },
       {
         "q": "How do we start?",
-        "a": "Start with an AI Discovery Assessment. TEAM International maps your buyers' prompts, baselines your AI visibility and share of voice against competitors, reviews technical readiness and delivers a prioritized GEO roadmap with KPIs."
+        "a": "Start with the first workstream: TEAM International maps your buyers' prompts, baselines your AI visibility and share of voice against competitors in Scrunch, reviews technical readiness and delivers a prioritized GEO roadmap with KPIs. From there you choose the workstreams that close the biggest gaps."
       }
     ]
   },
   "contact": {
-    "title": "Start with an AI Discovery Assessment",
-    "subtitle": "Tell us your priority products, markets and competitors. You'll get your AI visibility baseline, the gaps where competitors win and a prioritized GEO roadmap.",
+    "title": "Get started with AI Discovery & Agent Experience Services (AXP), powered by Scrunch",
+    "subtitle": "Tell us your priority products, markets and competitors. We start with your AI visibility baseline, the gaps where competitors win and a prioritized GEO roadmap.",
     "deliverables": [
       "AI visibility baseline",
       "Competitive share of voice",
@@ -363,5 +367,17 @@
       "LLM SEO",
       "Agent Experience Platform Deployment"
     ]
+  },
+  "videos": {
+    "main": {
+      "title": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch | TEAM International",
+      "description": "How TEAM International's generative engine optimization services and AEO services, powered by Scrunch, measure and grow how AI platforms find, cite and recommend your company, and serve AI agents optimized content without changing your site.",
+      "src": "/videos/ai-discovery-agent-experience.mp4",
+      "poster": "/videos/ai-discovery-agent-experience.jpg",
+      "captions": "/videos/ai-discovery-agent-experience.vtt",
+      "duration": "PT1M12S",
+      "youtubeId": ""
+    },
+    "uploadDate": "2026-10-15"
   }
 }
