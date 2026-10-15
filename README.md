@@ -27,13 +27,15 @@ Or from the terminal: `npm i -g vercel && vercel` inside this folder.
 ```
 app/
   layout.tsx                                  fonts (Anybody, Public Sans, Inconsolata), navbar, footer, robots meta
-  solutions/ai-powered-software-engineering/  page + metadata + JSON-LD (@graph: WebPage, Breadcrumb, Organization, Service, HowTo, FAQPage)
+  solutions/ai-powered-software-engineering/  page + metadata + JSON-LD (@graph: WebPage, Breadcrumb, Organization, Service, HowTo, FAQPage, VideoObject)
+  solutions/data-readiness/                   same pattern
+  solutions/customer-care-technical-support/  same pattern (+ ISO 27001 credential, 24/7 hoursAvailable)
   robots.ts, sitemap.ts, not-found.tsx
 components/
   site/        navbar.tsx, footer.tsx, team-logo.tsx
   ui/          accordion.tsx (shadcn), glow-button.tsx, animated-sequence.tsx
   solutions/ai-powered-software-engineering/  one file per section
-content/ai-powered-software-engineering.json  all page copy (edit text here)
+content/<slug>.json                           all page copy per solution (edit text here)
 lib/solutions.ts                              the 5 solutions; set `live: true` as each page ships
 ```
 
@@ -52,7 +54,7 @@ lib/solutions.ts                              the 5 solutions; set `live: true` 
 
 ## Videos
 
-`public/videos/` holds the two explainer videos (MP4), their poster images and English captions (VTT).
+`public/videos/` holds the explainer videos (MP4): software product development, legacy modernization, data readiness and customer care & technical support, their poster images and English captions (VTT).
 They play in the build-new and modernization sections and are described as `VideoObject` in the JSON-LD.
 
 To switch to YouTube once uploaded, paste each video ID into `content/ai-powered-software-engineering.json`

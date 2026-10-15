@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Customer Support & Technical Support Outsourcing | TEAM",
-    "description": "Customer support outsourcing and technical support outsourcing for mid-size companies: nearshore agents, AI automation and CX analytics, 24/7."
+    "description": "Customer support outsourcing and technical support outsourcing for mid-size companies: multilingual nearshore teams, AI automation and CX analytics, 24/7."
   },
   "breadcrumb": {
     "home": "Home",
@@ -11,7 +11,7 @@
   "hero": {
     "overline": "Customer Care & Technical Support Managed Services",
     "title": "Customer Support and Technical Support Outsourcing, Powered by People and AI",
-    "subtitle": "We run your customer care and technical support as a managed service: skilled nearshore agents for the conversations that matter, AI and automation for the routine, and analytics that turn every ticket into insight.",
+    "subtitle": "We run your customer care and technical support as a managed service: skilled, multilingual nearshore agents for the conversations that matter, AI and automation for the routine, and analytics that turn every ticket into insight.",
     "primaryCta": "Get your Customer Care Assessment",
     "secondaryCta": "See how it works",
     "proof": [
@@ -20,8 +20,8 @@
         "label": "always-on customer care and technical support"
       },
       {
-        "value": "95%",
-        "label": "of service leaders plan to keep human agents alongside AI (Gartner)"
+        "value": "ISO 27001",
+        "label": "certified delivery locations"
       },
       {
         "value": "20+",
@@ -32,7 +32,7 @@
   "answer": {
     "overline": "In short",
     "question": "What are customer care and technical support managed services at TEAM International?",
-    "text": "TEAM International provides customer support outsourcing and technical support outsourcing as a managed service for mid-size and enterprise companies in North America and Europe. Nearshore agents and technical specialists handle customer care and tiered technical support 24/7, while AI automation, agent assist and CX analytics raise first contact resolution and CSAT and lower cost-to-serve, all managed against agreed SLAs.",
+    "text": "TEAM International provides customer support outsourcing and technical support outsourcing as a managed service for mid-size and enterprise companies in North America and Europe. Multilingual nearshore agents and technical specialists handle customer care, tiered technical support and IT help desk 24/7, while AI automation, agent assist and CX analytics raise first contact resolution and CSAT and lower cost-to-serve, all managed against agreed SLAs.",
     "pathsLabel": "Run support today, improve it every month",
     "run": {
       "tag": "Run",
@@ -54,7 +54,7 @@
     "items": [
       {
         "title": "Customer care & technical support operations",
-        "text": "Outsourced technical support, help desk outsourcing and customer care across tiers and channels, with agents trained on your products and specialists for complex technical issues, 24/7.",
+        "text": "Outsourced technical support, customer care and IT help desk outsourcing across tiers and channels, with multilingual agents trained on your products and specialists for complex technical issues, 24/7.",
         "outcome": "Faster response and resolution, higher CSAT and FCR, reliable always-on support"
       },
       {
@@ -90,7 +90,7 @@
       },
       {
         "title": "Customer care agents with AI assist",
-        "text": "Skilled nearshore agents handle conversations that need judgment and empathy, with AI suggesting answers and summarizing cases."
+        "text": "Skilled, multilingual nearshore agents handle conversations that need judgment and empathy, with AI suggesting answers and summarizing cases."
       },
       {
         "title": "Technical specialists",
@@ -156,11 +156,11 @@
       },
       {
         "q": "What does technical support outsourcing include?",
-        "a": "Technical support outsourcing covers tiered troubleshooting of your products and services: tier 1 handles common questions and guided fixes, tier 2 diagnoses complex issues, and tier 3 specialists work with your engineers on defects. TEAM International's technical specialists come from a technology company, so they understand software, integrations and configuration."
+        "a": "Technical support outsourcing covers tiered troubleshooting of your products and services: tier 1 handles common questions and guided fixes, tier 2 diagnoses complex issues, and tier 3 specialists work with your engineers on defects. TEAM International's outsourced technical support services are staffed by specialists from a technology company, so they understand software, integrations and configuration."
       },
       {
         "q": "Is a nearshore call center better than offshore?",
-        "a": "For complex or high-value interactions, a nearshore contact center usually delivers better results: shared time zones, strong language and cultural alignment, and easier collaboration with your product teams. TEAM International serves North America from Medellín and Europe from Ukraine, with 24/7 coverage where needed."
+        "a": "For complex or high-value interactions, a nearshore contact center usually delivers better results: shared time zones, multilingual teams with strong cultural alignment, and easier collaboration with your product teams. TEAM International serves North America from Medellín and Europe from Ukraine, with 24/7 coverage where needed."
       },
       {
         "q": "How is AI changing customer service?",
@@ -185,8 +185,8 @@
         "text": "Support teams backed by 20+ years of software engineering, not just call scripts."
       },
       {
-        "title": "Human + AI by design",
-        "text": "Automation for the routine, skilled people for what matters."
+        "title": "Secure by default",
+        "text": "ISO/IEC 27001:2022-certified locations, HIPAA-trained teams and GDPR-ready contracts."
       },
       {
         "title": "Measured on outcomes",
@@ -197,8 +197,8 @@
         "text": "CX analytics that feed fixes back to product and operations."
       },
       {
-        "title": "Your time zone",
-        "text": "Medellín for North America, Ukraine for Europe, 24/7 where you need it."
+        "title": "Your time zone, your language",
+        "text": "Multilingual teams in Medellín for North America and Ukraine for Europe, 24/7 where you need it."
       },
       {
         "title": "Sized for mid-size companies",
@@ -234,6 +234,36 @@
           "Analytics that remove the causes of repeat contacts"
         ]
       ]
+    },
+    "proof": {
+      "title": "Support we run today",
+      "intro": "More than 30 customer support, technical support and service desk engagements won, with most clients renewing or expanding. Client names are withheld; references are available on request.",
+      "items": [
+        {
+          "client": "US specialty sports retailer",
+          "scope": "Tier 1–3 support and IT desktop support, renewed across multiple years"
+        },
+        {
+          "client": "US food distributor",
+          "scope": "Tier 1–3 support, renewed and expanded over several contracts"
+        },
+        {
+          "client": "B2B pricing software company",
+          "scope": "24/7 support for its highest-revenue product"
+        },
+        {
+          "client": "European SaaS company",
+          "scope": "Customer support, technical support and internal IT support, expanded year after year"
+        },
+        {
+          "client": "US energy operator",
+          "scope": "IT service desk, extended for a second year"
+        },
+        {
+          "client": "US freight logistics provider",
+          "scope": "Tier 1–3 support for its logistics platform"
+        }
+      ]
     }
   },
   "faq": {
@@ -250,11 +280,19 @@
       },
       {
         "q": "Do you provide 24/7 support?",
-        "a": "Yes. We design coverage around your customers, from business hours in their time zone to always-on 24/7 support, combining nearshore teams with AI self-service for after-hours routine requests."
+        "a": "Yes. We design coverage around your customers, from business hours such as 8/5 or 12/7 in their time zone to always-on 24/7/365 support, combining nearshore teams with AI self-service for after-hours routine requests."
       },
       {
         "q": "Which channels do you support?",
-        "a": "We support the channels your customers use, typically phone, email, chat, messaging and in-app support, with consistent quality and reporting across all of them."
+        "a": "We support the channels your customers use, typically phone, email, chat, social messaging, self-service and in-app support, plus IVR and AI chatbots, with consistent quality and reporting across all of them."
+      },
+      {
+        "q": "Do you offer IT help desk and service desk outsourcing?",
+        "a": "Yes. Besides customer-facing support, TEAM International provides IT help desk outsourcing and service desk outsourcing for your employees: password and access requests, desktop support, incident triage and escalation to your IT team, managed against SLAs. Clients use our outsourced IT help desk alongside customer support or on its own."
+      },
+      {
+        "q": "Do you provide multilingual customer support?",
+        "a": "Yes. Our teams provide multilingual customer support and multilingual customer service across voice, chat and email, so one partner can act as your multilingual call center for North American and European customers. We agree on the languages and coverage you need during the assessment."
       },
       {
         "q": "How do you measure success?",
@@ -262,7 +300,7 @@
       },
       {
         "q": "How long does the transition take?",
-        "a": "A typical transition takes four to eight weeks depending on product complexity and volume: assessment, service design, training and knowledge transfer, then a phased go-live with daily quality reviews."
+        "a": "It depends on product complexity, volume and channels. We follow a phased transition: assessment, service design, training and knowledge transfer, then a gradual go-live with daily quality reviews, so your customers never notice the handover. The assessment gives you the exact plan and timeline before you commit."
       },
       {
         "q": "Will AI replace our support agents?",
@@ -277,14 +315,18 @@
         "a": "Yes. Our teams scale from a small dedicated pod to large always-on operations, so mid-size companies get enterprise-grade service management, AI and analytics without enterprise-sized contracts."
       },
       {
+        "q": "How do you keep customer data secure?",
+        "a": "All TEAM International locations are ISO/IEC 27001:2022 certified. For healthcare clients that need a HIPAA compliant call center or help desk, our people complete HIPAA security awareness training and work under the HIPAA Security and Privacy Rules, and we sign GDPR-compliant data processing terms for European customer data."
+      },
+      {
         "q": "How do we start?",
-        "a": "Start with a Customer Care Assessment. In two to three weeks, TEAM International reviews your volumes, KPIs, tools and costs and delivers a service design, SLA proposal and improvement roadmap, so you can decide with clear scope and cost."
+        "a": "Start with a Customer Care Assessment. TEAM International reviews your volumes, KPIs, tools and costs and delivers a service design, SLA proposal, transition plan and improvement roadmap, so you can decide with clear scope and cost."
       }
     ]
   },
   "contact": {
-    "title": "Start with a 2–3 week Customer Care Assessment",
-    "subtitle": "Share your volumes, channels and goals. You'll get baseline KPIs, a service design with SLAs and a roadmap to higher CSAT and lower cost-to-serve."
+    "title": "Start with a Customer Care Assessment",
+    "subtitle": "Share your volumes, channels, languages and goals. You'll get baseline KPIs, a service design with SLAs, a transition plan and a roadmap to higher CSAT and lower cost-to-serve."
   },
   "schema": {
     "serviceName": "Customer Care & Technical Support Managed Services",
@@ -298,7 +340,22 @@
       "Help Desk Outsourcing",
       "Contact Center Consulting",
       "Customer Experience Consulting",
-      "Nearshore Contact Center"
+      "Nearshore Contact Center",
+      "IT Help Desk Outsourcing",
+      "Service Desk Outsourcing",
+      "Multilingual Customer Support"
     ]
+  },
+  "videos": {
+    "main": {
+      "title": "Customer Care & Technical Support Managed Services | TEAM International",
+      "description": "How TEAM International runs customer support and technical support outsourcing as a managed service: multilingual nearshore teams, AI automation, CX analytics and continuous improvement, 24/7.",
+      "src": "/videos/customer-care-technical-support.mp4",
+      "poster": "/videos/customer-care-technical-support.jpg",
+      "captions": "/videos/customer-care-technical-support.vtt",
+      "duration": "PT1M11S",
+      "youtubeId": ""
+    },
+    "uploadDate": "2026-10-15"
   }
 }

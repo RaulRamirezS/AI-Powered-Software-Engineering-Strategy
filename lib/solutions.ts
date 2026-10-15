@@ -11,7 +11,7 @@ export const solutions: Solution[] = [
   {
     label: 'Customer Care & Technical Support Managed Services',
     href: '/solutions/customer-care-technical-support',
-    live: false,
+    live: true,
   },
   {
     label: 'AI Transformation & Value Realization',
