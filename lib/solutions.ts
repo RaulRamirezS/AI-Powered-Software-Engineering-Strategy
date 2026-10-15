@@ -16,7 +16,7 @@ export const solutions: Solution[] = [
   {
     label: 'AI Transformation & Value Realization',
     href: '/solutions/ai-transformation',
-    live: false,
+    live: true,
   },
   {
     label: 'AI Discovery & Agent Experience Services (AXP)',

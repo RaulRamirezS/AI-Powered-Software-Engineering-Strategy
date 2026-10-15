@@ -15,9 +15,18 @@
     "primaryCta": "Get your AI Readiness Assessment",
     "secondaryCta": "See how it works",
     "proof": [
-      { "value": "3.5", "label": "use cases AI leaders prioritize, vs 6.1 for other companies (BCG)" },
-      { "value": "45%", "label": "of high-maturity organizations keep AI in production 3+ years, vs 20% (Gartner)" },
-      { "value": "20+", "label": "years of technology delivery behind our AI teams" }
+      {
+        "value": "3.5",
+        "label": "use cases AI leaders prioritize, vs 6.1 for other companies (BCG)"
+      },
+      {
+        "value": "45%",
+        "label": "of high-maturity organizations keep AI in production 3+ years, vs 20% (Gartner)"
+      },
+      {
+        "value": "20+",
+        "label": "years of technology delivery behind our AI teams"
+      }
     ]
   },
   "answer": {
@@ -124,16 +133,42 @@
     "title": "One partner from AI strategy to AI in production",
     "text": "Strategy that stops at a presentation rarely creates value. Our consultancy is designed to produce execution-ready initiatives that the same company can prepare, build, run and optimize.",
     "stages": [
-      { "title": "Consult", "text": "AI strategy, use-case portfolio, governance and operating model." },
-      { "title": "Validate", "text": "Business cases, ROI models and rapid prototypes for priority use cases." },
-      { "title": "Build", "text": "AI solutions, agents and integrations built with an AI-enabled SDLC, on AI-ready data.", "links": [
-        { "label": "AI-Powered Product & Software Engineering", "href": "/solutions/ai-powered-software-engineering" },
-        { "label": "Data Readiness", "href": "/solutions/data-readiness" }
-      ] },
-      { "title": "Operate", "text": "Monitoring, LLMOps and managed services, including AI-enabled customer care.", "links": [
-        { "label": "Customer Care & Technical Support", "href": "/solutions/customer-care-technical-support" }
-      ] },
-      { "title": "Optimize", "text": "Value tracking, AI cost optimization and the next wave of use cases." }
+      {
+        "title": "Consult",
+        "text": "AI strategy, use-case portfolio, governance and operating model."
+      },
+      {
+        "title": "Validate",
+        "text": "Business cases, ROI models and rapid prototypes for priority use cases."
+      },
+      {
+        "title": "Build",
+        "text": "AI solutions, agents and integrations built with an AI-enabled SDLC, on AI-ready data.",
+        "links": [
+          {
+            "label": "AI-Powered Product & Software Engineering",
+            "href": "/solutions/ai-powered-software-engineering"
+          },
+          {
+            "label": "Data Readiness",
+            "href": "/solutions/data-readiness"
+          }
+        ]
+      },
+      {
+        "title": "Operate",
+        "text": "Monitoring, LLMOps and managed services, including AI-enabled customer care.",
+        "links": [
+          {
+            "label": "Customer Care & Technical Support",
+            "href": "/solutions/customer-care-technical-support"
+          }
+        ]
+      },
+      {
+        "title": "Optimize",
+        "text": "Value tracking, AI cost optimization and the next wave of use cases."
+      }
     ]
   },
   "answers": {
@@ -170,34 +205,94 @@
     "title": "AI we've built for clients",
     "intro": "Our advice comes from teams that ship AI into production. Client names are withheld; references are available on request.",
     "items": [
-      { "client": "Freight forwarding company", "scope": "Six-agent AI system that processes 108-page shipping documents in 10.8 minutes with zero missed items, in production after a one-month engagement" },
-      { "client": "B2B marketing platform", "scope": "Agentic AI product that creates advertising campaigns from a few voice or chat messages" },
-      { "client": "US specialty sports retailer", "scope": "In-store AI assistants built with retrieval-augmented generation on Azure" },
-      { "client": "Retail loss-prevention software company", "scope": "AI analytics engine with guided actions; its customers report up to 20% lower shrink" },
-      { "client": "Digital insurance broker", "scope": "AI insurance advisor that guides customers into the application funnel and reduces support calls" },
-      { "client": "B2B pricing software company", "scope": "AI and data science price guidance for every selling situation" }
+      {
+        "client": "Freight forwarding company",
+        "scope": "Six-agent AI system that processes 108-page shipping documents in 10.8 minutes with zero missed items, in production after a one-month engagement"
+      },
+      {
+        "client": "B2B marketing platform",
+        "scope": "Agentic AI product that creates advertising campaigns from a few voice or chat messages"
+      },
+      {
+        "client": "US specialty sports retailer",
+        "scope": "In-store AI assistants built with retrieval-augmented generation on Azure"
+      },
+      {
+        "client": "Retail loss-prevention software company",
+        "scope": "AI analytics engine with guided actions; its customers report up to 20% lower shrink"
+      },
+      {
+        "client": "Digital insurance broker",
+        "scope": "AI insurance advisor that guides customers into the application funnel and reduces support calls"
+      },
+      {
+        "client": "B2B pricing software company",
+        "scope": "AI and data science price guidance for every selling situation"
+      }
     ]
   },
   "why": {
     "overline": "Why TEAM International",
     "title": "Why mid-size companies choose TEAM International for AI transformation",
     "items": [
-      { "title": "Strategy that ships", "text": "The team that designs your AI roadmap can also build, run and optimize it." },
-      { "title": "Value first", "text": "A few prioritized use cases with business cases and KPIs, not dozens of pilots." },
-      { "title": "Governed by design", "text": "Controls built into the architecture, from ISO/IEC 27001:2022-certified locations." },
-      { "title": "Vendor-neutral", "text": "Model and platform choices based on your needs, on Azure, AWS and leading AI models." },
-      { "title": "Your time zone", "text": "Medellín for North America, Ukraine for Europe, working in your language and hours." },
-      { "title": "Sized for mid-size companies", "text": "Enterprise methods without enterprise-sized teams or timelines." }
+      {
+        "title": "Strategy that ships",
+        "text": "The team that designs your AI roadmap can also build, run and optimize it."
+      },
+      {
+        "title": "Value first",
+        "text": "A few prioritized use cases with business cases and KPIs, not dozens of pilots."
+      },
+      {
+        "title": "Governed by design",
+        "text": "Controls built into the architecture, from ISO/IEC 27001:2022-certified locations."
+      },
+      {
+        "title": "Vendor-neutral",
+        "text": "Model and platform choices based on your needs, on Azure, AWS and leading AI models."
+      },
+      {
+        "title": "Your time zone",
+        "text": "Medellín for North America, Ukraine for Europe, working in your language and hours."
+      },
+      {
+        "title": "Sized for mid-size companies",
+        "text": "Enterprise methods without enterprise-sized teams or timelines."
+      }
     ],
     "compare": {
       "title": "How our approach compares",
-      "headers": ["Buyer concern", "Typical AI strategy engagement", "TEAM International"],
+      "headers": [
+        "Buyer concern",
+        "Typical AI strategy engagement",
+        "TEAM International"
+      ],
       "rows": [
-        ["What you receive", "A strategy presentation", "An execution-ready roadmap with business cases and KPIs"],
-        ["What happens next", "Handoff to another vendor to build", "The same partner prepares data, builds and runs the solutions"],
-        ["Use-case scope", "Many pilots, spread thin", "Three to five prioritized use cases, funded properly"],
-        ["Governance", "A policy document", "Controls, evaluation and monitoring built into delivery"],
-        ["Value tracking", "Ends at launch", "Value dashboards and an operating model after launch"]
+        [
+          "What you receive",
+          "A strategy presentation",
+          "An execution-ready roadmap with business cases and KPIs"
+        ],
+        [
+          "What happens next",
+          "Handoff to another vendor to build",
+          "The same partner prepares data, builds and runs the solutions"
+        ],
+        [
+          "Use-case scope",
+          "Many pilots, spread thin",
+          "Three to five prioritized use cases, funded properly"
+        ],
+        [
+          "Governance",
+          "A policy document",
+          "Controls, evaluation and monitoring built into delivery"
+        ],
+        [
+          "Value tracking",
+          "Ends at launch",
+          "Value dashboards and an operating model after launch"
+        ]
       ]
     }
   },
@@ -254,7 +349,11 @@
   "contact": {
     "title": "Start with an AI Readiness Assessment",
     "subtitle": "Share your goals and current AI initiatives. You'll get an AI maturity heatmap, a prioritized use-case portfolio with business cases and an execution-ready roadmap.",
-    "deliverables": ["AI maturity heatmap", "Prioritized use-case portfolio", "Execution-ready AI roadmap"]
+    "deliverables": [
+      "AI maturity heatmap",
+      "Prioritized use-case portfolio",
+      "Execution-ready AI roadmap"
+    ]
   },
   "schema": {
     "serviceName": "AI Transformation & Value Realization",
@@ -271,5 +370,17 @@
       "Responsible AI Consulting",
       "Generative AI Consulting"
     ]
+  },
+  "videos": {
+    "main": {
+      "title": "AI Transformation & Value Realization | TEAM International",
+      "description": "How TEAM International's AI transformation services take AI from strategy to measurable value: AI readiness assessment, a prioritized use-case portfolio, data and platform readiness, AI governance and an operating model that scales.",
+      "src": "/videos/ai-transformation.mp4",
+      "poster": "/videos/ai-transformation.jpg",
+      "captions": "/videos/ai-transformation.vtt",
+      "duration": "PT1M12S",
+      "youtubeId": ""
+    },
+    "uploadDate": "2026-10-15"
   }
 }

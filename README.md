@@ -30,6 +30,7 @@ app/
   solutions/ai-powered-software-engineering/  page + metadata + JSON-LD (@graph: WebPage, Breadcrumb, Organization, Service, HowTo, FAQPage, VideoObject)
   solutions/data-readiness/                   same pattern
   solutions/customer-care-technical-support/  same pattern (+ ISO 27001 credential, 24/7 hoursAvailable)
+  solutions/ai-transformation/               same pattern (+ strategy-to-production section linking the other pages)
   robots.ts, sitemap.ts, not-found.tsx
 components/
   site/        navbar.tsx, footer.tsx, team-logo.tsx
@@ -54,7 +55,7 @@ lib/solutions.ts                              the 5 solutions; set `live: true` 
 
 ## Videos
 
-`public/videos/` holds the explainer videos (MP4): software product development, legacy modernization, data readiness and customer care & technical support, their poster images and English captions (VTT).
+`public/videos/` holds the explainer videos (MP4): software product development, legacy modernization, data readiness, customer care & technical support and AI transformation, their poster images and English captions (VTT).
 They play in the build-new and modernization sections and are described as `VideoObject` in the JSON-LD.
 
 To switch to YouTube once uploaded, paste each video ID into `content/ai-powered-software-engineering.json`
