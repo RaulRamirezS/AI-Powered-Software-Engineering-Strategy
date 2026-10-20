@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "title": "Enterprise Software Development by Industry | TEAM International",
+    "description": "TEAM International is an enterprise software development company with industry solutions for telecom, healthcare, finance, travel, retail, logistics and more."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "current": "Industries"
+  },
+  "hero": {
+    "overline": "Industries we serve",
+    "name": "Industries",
+    "title": "Enterprise software development services, shaped by your industry",
+    "subtitle": "Industry specific software for mid-size and enterprise companies, built and run by teams who know your sector's systems and rules, and who work in your language, your market and your time zone.",
+    "primaryCta": "Talk to an industry expert",
+    "secondaryCta": "Find your industry",
+    "proof": [
+      {
+        "value": "9",
+        "label": "industries with dedicated teams and their own page"
+      },
+      {
+        "value": "20+",
+        "label": "years of enterprise technology delivery"
+      },
+      {
+        "value": "ISO 27001",
+        "label": "ISO/IEC 27001:2022 certified at all locations"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "In short",
+    "question": "Which industries does TEAM International serve?",
+    "text": "TEAM International is an enterprise software development company serving technology, media and telecommunications; healthcare and wellness; finance and banking; travel and hospitality; retail and distribution; logistics and transportation; business services; engineering staffing; and oil and gas. Each industry has a team that knows its systems, regulations and data. Senior teams in Medellín serve North America and in Ukraine serve Europe, from ISO/IEC 27001:2022-certified locations.",
+    "facts": [
+      {
+        "value": "9",
+        "label": "industries, each with its own team and page"
+      },
+      {
+        "value": "5",
+        "label": "solutions that apply across every industry"
+      },
+      {
+        "value": "2",
+        "label": "delivery hubs: Medellín for North America, Ukraine for Europe"
+      }
+    ]
+  },
+  "grid": {
+    "overline": "Industries",
+    "title": "Industry solutions built on real delivery experience",
+    "intro": "Pick your industry to see what we build, the systems we integrate with and the clients we work with. Every page shows industry software solutions backed by delivered projects, not slideware.",
+    "proofLabel": "In production",
+    "cta": "Explore",
+    "items": [
+      {
+        "key": "telecom",
+        "name": "Technology, Media, and Telecommunications",
+        "href": "/industries/telecom-it-solutions",
+        "text": "OSS/BSS modernization, digital self-service channels, telecom data analytics and production support for operators, MVNOs and ISPs.",
+        "proof": "Software partner to Telenor Denmark since 2011, with 100+ people in its dedicated development center."
+      },
+      {
+        "key": "healthcare",
+        "name": "Healthcare & Wellness",
+        "href": "/industries/healthcare-it-solutions",
+        "text": "Patient and care apps, EHR integration, healthcare automation and compliance testing for providers, payers and digital health companies.",
+        "proof": "80% fewer claim denials at Texas Center for Lifestyle Medicine."
+      },
+      {
+        "key": "finance",
+        "name": "Finances & Banking",
+        "href": "/industries/finance-it-solutions",
+        "text": "Digital banking and payments, core and legacy modernization, compliance automation and insurance platforms.",
+        "proof": "TEAM engineers were part of Allica Bank's team when it won Top Tech Team UK at the Banking Tech Awards."
+      },
+      {
+        "key": "travel",
+        "name": "Travel & Hospitality",
+        "href": "/industries/it-solutions-travel-hospitality",
+        "text": "Booking and B2B airline platforms, travel and hotel apps, hospitality procurement and event operations.",
+        "proof": "New B2B booking for Lufthansa Group, built around a 25-year-old monolith without a rewrite."
+      },
+      {
+        "key": "retail",
+        "name": "Retail & Distribution",
+        "href": "/industries/retail-managed-it",
+        "text": "Commerce, POS and store apps, ERP and inventory systems, retail analytics and AI, and tiered IT support.",
+        "proof": "Tier 1–3 support desks for U.S. retail and grocery distribution clients."
+      },
+      {
+        "key": "logistics",
+        "name": "Logistics and Transportation",
+        "href": "/industries/logistics-it-solutions",
+        "text": "Load and freight platforms, EDI and carrier integrations, fleet and delivery apps, and logistics automation.",
+        "proof": "63% lower operating costs with AI document extraction for a freight forwarder."
+      },
+      {
+        "key": "business",
+        "name": "Business Services",
+        "href": "/industries/business-services",
+        "text": "SaaS product engineering, HR, payroll and staffing platforms, and legal and professional services systems.",
+        "proof": "100,000+ claims processed online without downtime for a UK law firm's mass-claims campaign."
+      },
+      {
+        "key": "engineering",
+        "name": "Engineering Staffing",
+        "href": "/industries/engineering-staffing",
+        "text": "Pre-vetted engineers and specialists for construction, energy and industrial programs, plus the field and IoT technology they use.",
+        "proof": "An industrial IoT platform we built runs 5,000+ connected devices."
+      }
+    ],
+    "external": {
+      "key": "oilgas",
+      "name": "Oil and Gas Digital Solutions",
+      "href": "https://www.digitaloilandgas.solutions/en",
+      "text": "Technology, data and AI for upstream, midstream and downstream operators, on a dedicated site.",
+      "cta": "Visit the site"
+    },
+    "helper": {
+      "title": "Don't see your industry?",
+      "text": "Most of what we build carries across sectors. Tell us about your systems and an expert will show you comparable work.",
+      "cta": "Talk to an expert"
+    }
+  },
+  "solutions": {
+    "overline": "Across every industry",
+    "title": "Five solutions that apply to every industry we serve",
+    "intro": "Industry expertise tells us what to build. These five solutions are how we deliver it, and each industry page shows how they apply to that sector.",
+    "items": [
+      {
+        "name": "AI-Powered Product & Software Engineering",
+        "href": "/solutions/ai-powered-software-engineering",
+        "text": "Build new products and modernize legacy cores in short phases, from booking engines to OSS/BSS and EHR integrations."
+      },
+      {
+        "name": "Data Readiness",
+        "href": "/solutions/data-readiness",
+        "text": "Make claims, freight, store or network data trustworthy and governed, so analytics and AI work."
+      },
+      {
+        "name": "Customer Care & Technical Support Managed Services",
+        "href": "/solutions/customer-care-technical-support",
+        "text": "Run 24/7 multilingual support for patients, travelers, shoppers, drivers or subscribers."
+      },
+      {
+        "name": "AI Transformation & Value Realization",
+        "href": "/solutions/ai-transformation",
+        "text": "Pick the AI use cases that pay off in your sector, govern them and measure the value."
+      },
+      {
+        "name": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch",
+        "href": "/solutions/ai-discovery-agent-experience",
+        "text": "See how AI assistants describe your company to buyers in your industry, and fix what keeps you out of the answers."
+      }
+    ]
+  },
+  "results": {
+    "overline": "Proof",
+    "title": "Results across industries",
+    "intro": "Named clients come from published case studies or their industry pages; other clients are described without names.",
+    "items": [
+      {
+        "metric": "80% fewer claim denials",
+        "industry": "Healthcare & Wellness",
+        "title": "Texas Center for Lifestyle Medicine",
+        "text": "Automated EHR data verification cut claim denials by 80% and saves the clinic over $1M a year."
+      },
+      {
+        "metric": "No rewrite needed",
+        "industry": "Travel & Hospitality",
+        "title": "Lufthansa Group",
+        "text": "New B2B booking functionality and payment methods built on a 25-year-old platform with micro-frontends and new services, since 2022."
+      },
+      {
+        "metric": "Since 2011",
+        "industry": "Technology, Media, and Telecommunications",
+        "title": "Telenor Denmark",
+        "text": "Since 2011, a dedicated development center of 100+ people has built and supported the operator's telecom software."
+      }
+    ],
+    "cta": "Explore our case studies",
+    "ctaHref": "https://www.teaminternational.com/en/insights/success-stories"
+  },
+  "steps": {
+    "overline": "How we work",
+    "title": "Our enterprise software development process, in any industry",
+    "intro": "Every engagement starts small and stays reversible, so you approve one phase at a time.",
+    "outcomeLabel": "You get",
+    "items": [
+      {
+        "id": "discover",
+        "title": "Discover",
+        "text": "We map your systems, data, regulations and goals with your team.",
+        "outcome": "an architecture, a prioritized roadmap and an estimate"
+      },
+      {
+        "id": "build",
+        "title": "Build in short phases",
+        "text": "Enterprise software developers and AI agents deliver in short phases, measured on speed and quality together.",
+        "outcome": "working software at the end of every phase"
+      },
+      {
+        "id": "run",
+        "title": "Run and improve",
+        "text": "The same team supports, secures and keeps improving what we built.",
+        "outcome": "agreed SLAs and KPIs, reported every month"
+      }
+    ]
+  },
+  "delivery": {
+    "overline": "Delivery model",
+    "title": "Your language, your market, your time zone",
+    "text": "North American clients are served from our Medellín delivery center and European clients from our teams in Ukraine. All locations are certified to ISO/IEC 27001:2022, and we work under GDPR."
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "Which industries we serve have their own teams?",
+        "a": "TEAM International has dedicated teams and pages for technology, media and telecommunications; healthcare and wellness; finance and banking; travel and hospitality; retail and distribution; logistics and transportation; business services; and engineering staffing. Oil and gas has its own site, Oil and Gas Digital Solutions."
+      },
+      {
+        "q": "What does an enterprise software development company do?",
+        "a": "An enterprise software development company designs, builds, integrates and runs the software a business depends on: core platforms, customer apps, integrations and data pipelines. TEAM delivers enterprise software development solutions end to end, from discovery to production support, with its own engineers rather than subcontractors."
+      },
+      {
+        "q": "How are industry solutions different from generic software development?",
+        "a": "Industry specific solutions start from the systems, data and regulations of your sector, such as EHRs and HIPAA in healthcare, GDS in travel or EDI in logistics. That means less time explaining your business and fewer surprises in production. Industry specific software also reuses patterns proven with other clients in the same sector."
+      },
+      {
+        "q": "How should we compare enterprise software development companies?",
+        "a": "Whether you are looking at an enterprise software development agency or a larger enterprise software development firm, check four things: delivered work in your industry, a small and fixed first phase, the ability to run what they build, and security credentials such as ISO 27001. Also ask who will work on your project and in which time zone."
+      },
+      {
+        "q": "What does the enterprise software development process look like?",
+        "a": "TEAM's process has three steps: discover your systems and goals, build in short phases with working software at the end of each one, and then run and improve the result under agreed SLAs. You decide whether to continue after every phase."
+      },
+      {
+        "q": "Do you only work with large enterprises?",
+        "a": "No. TEAM brings more than 20 years of enterprise level software development to mid-size companies too. Software development for enterprises and for growing mid-size companies follows the same practices; only the scope of the first phase changes."
+      },
+      {
+        "q": "Where are your enterprise software developers based?",
+        "a": "Our engineers serve North America from Medellín and Europe from Ukraine, so they work in your language and time zone. All locations are ISO/IEC 27001:2022 certified."
+      },
+      {
+        "q": "What if my industry is not listed?",
+        "a": "We group IT solutions by industry to show relevant work, but most of what we build carries across sectors. Tell us about your systems and goals, and an expert will show you comparable projects and a first step."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Talk to an expert who knows your industry",
+    "subtitle": "Tell us your sector and the problem you need to solve. We'll recommend a first phase and what you'll have in hand after it.",
+    "cta": "Schedule a meeting with our team"
+  },
+  "schema": {
+    "name": "Industries served by TEAM International",
+    "description": "Industry pages for TEAM International's enterprise software development services: Technology, Media, and Telecommunications; Healthcare & Wellness; Finances & Banking; Travel & Hospitality; Retail & Distribution; Logistics and Transportation; Business Services; Engineering Staffing; and Oil and Gas Digital Solutions."
+  }
+}

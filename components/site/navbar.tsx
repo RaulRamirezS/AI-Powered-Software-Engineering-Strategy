@@ -17,7 +17,7 @@ type NavItem = { label: string; href: string; external?: boolean; dropdown?: 'so
 const navItems: NavItem[] = [
   { label: 'Home', href: `${LIVE_SITE}/`, external: true },
   { label: 'Solutions', href: '/solutions', dropdown: 'solutions' },
-  { label: 'Industries', href: `${LIVE_SITE}/industries`, dropdown: 'industries' },
+  { label: 'Industries', href: '/industries', dropdown: 'industries' },
   { label: 'Careers', href: `${LIVE_SITE}/careers`, external: true },
   { label: 'About', href: `${LIVE_SITE}/about-us`, external: true },
   { label: 'Insights', href: `${LIVE_SITE}/insights`, external: true },
@@ -66,7 +66,7 @@ function IndustriesDropdown({ onNavigate }: { onNavigate?: () => void }) {
     <div className='w-[420px] rounded-b-xl border border-white/10 bg-primary-dark-3 p-6 shadow-[0_16px_48px_rgba(0,0,0,0.4)]'>
       <p className='text-overline mb-4 font-inconsolata text-secondary'>Industries</p>
       <a
-        href={`${LIVE_SITE}/industries`}
+        href='/industries'
         className='mb-2 block rounded-md border border-white/10 px-3 py-2 font-public text-sm font-semibold text-secondary transition-colors hover:bg-white/10'
       >
         All industries →
@@ -195,7 +195,7 @@ export default function Navbar() {
                 <div key={item.label} className='border-b border-white/10 py-3'>
                   <p className='mb-2 font-anybody text-lg uppercase text-secondary'>{item.label}</p>
                   <a
-                    href={`${LIVE_SITE}/industries`}
+                    href='/industries'
                     className='block py-2 font-public text-sm font-semibold text-secondary'
                   >
                     All industries →

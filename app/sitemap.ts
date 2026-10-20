@@ -10,5 +10,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const industryPages = industries
     .filter(i => i.internal)
     .map(i => ({ url: `${SITE_URL}${i.href}`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.7 }));
-  return [{ url: `${SITE_URL}/solutions`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.9 }, ...pages, ...industryPages];
+  return [
+    { url: `${SITE_URL}/solutions`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.9 },
+    ...pages,
+    { url: `${SITE_URL}/industries`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.85 },
+    ...industryPages,
+  ];
 }

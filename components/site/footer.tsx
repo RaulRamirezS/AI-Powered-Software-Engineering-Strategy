@@ -12,7 +12,7 @@ const social = [
 
 const company = [
   { label: 'About', href: `${LIVE_SITE}/about-us` },
-  { label: 'Industries', href: `${LIVE_SITE}/industries` },
+  { label: 'Industries', href: '/industries' },
   { label: 'Careers', href: `${LIVE_SITE}/careers` },
   { label: 'Insights', href: `${LIVE_SITE}/insights` },
   { label: 'Contact Us', href: `${LIVE_SITE}/contact-us` },
