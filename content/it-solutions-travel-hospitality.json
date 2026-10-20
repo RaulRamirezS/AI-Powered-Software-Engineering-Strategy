@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "title": "Travel Software Development Services | TEAM International",
+    "description": "Travel and hospitality IT solutions: travel software development, booking and B2B platforms, hospitality operations, events and data, in your time zone."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "industries": "Industries",
+    "current": "Travel & Hospitality"
+  },
+  "hero": {
+    "overline": "Industries",
+    "name": "Travel & Hospitality",
+    "title": "Travel software development services",
+    "subtitle": "Travel and hospitality IT solutions for airlines, travel companies, hotel suppliers and event operators, built by teams that work in your language, your market and your time zone.",
+    "primaryCta": "Request an assessment",
+    "secondaryCta": "How it works",
+    "proof": [
+      {
+        "value": "25 years",
+        "label": "of legacy monolith extended with new B2B booking for Lufthansa Group, without a rewrite"
+      },
+      {
+        "value": "63%",
+        "label": "lower operating costs with AI document extraction for a hotel FF&E supplier"
+      },
+      {
+        "value": "Live events",
+        "label": "platform for large-scale sports and entertainment productions"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "Straight answer",
+    "question": "What does TEAM International do for travel and hospitality companies?",
+    "text": "TEAM International is a travel software development company that builds and modernizes the systems airlines, travel companies, hotel suppliers and event operators run on: booking and B2B platforms, hospitality operations and procurement, event platforms, and data. Lufthansa Group relies on our teams to add new booking capabilities to a 25-year-old core.",
+    "segmentsTitle": "Who we build for",
+    "segmentsIntro": "Travel hospitality services companies of mid-size and enterprise scale that need engineering in their time zone.",
+    "segments": [
+      "Airlines and aviation companies",
+      "Travel agencies and tour operators",
+      "Travel technology companies",
+      "Hotel groups and hotel suppliers",
+      "Event, venue and rental operators",
+      "Restaurant and leisure brands"
+    ]
+  },
+  "focus": {
+    "overline": "What we build",
+    "title": "Travel and hospitality solutions we build and run",
+    "intro": "Custom travel software development in four areas, each one backed by work already in production.",
+    "items": [
+      {
+        "title": "Booking, B2B and airline platforms",
+        "text": "Booking engine development, B2B booking for corporate customers, GDS integration and airline software development that adds new capabilities next to legacy cores instead of replacing them.",
+        "proof": "In production: new B2B booking functionality for small and medium companies on Lufthansa Group's 25-year-old platform, using micro-frontends and new services (since 2022)."
+      },
+      {
+        "title": "Travel and hotel apps",
+        "text": "Travel app development and hotel app development for travelers, guests and staff, as a travel app development company that also builds the APIs behind the apps.",
+        "proof": "In production: new payment methods and automated processes that removed the service desk from Lufthansa Group's B2B booking flow."
+      },
+      {
+        "title": "Hospitality operations, procurement and events",
+        "text": "Custom hospitality software development for operations, hospitality procurement software for hotel furniture and equipment, and event management software development for venues and productions.",
+        "proof": "In production: an AI system that reads 108-page hotel FF&E specifications in 10.8 minutes with zero missed items, and the core platform of a live-events production company (since 2026)."
+      },
+      {
+        "title": "Travel data analytics and AI",
+        "text": "Travel data analytics and hospitality data analytics that unify bookings, guests and operations, plus AI that removes manual document and service work.",
+        "proof": "In production: a Snowflake data platform for a live-events company that feeds BI, customer reporting and AI features (since 2026)."
+      }
+    ]
+  },
+  "solutions": {
+    "overline": "Solutions for travel",
+    "title": "How every TEAM solution applies to travel and hospitality",
+    "intro": "Digital transformation in travel and digital transformation in hospitality need more than one capability: each of our five solutions has a direct use.",
+    "items": [
+      {
+        "name": "AI-Powered Product & Software Engineering",
+        "href": "/solutions/ai-powered-software-engineering",
+        "text": "Add new booking, payment and guest features next to legacy reservation systems with AI-assisted engineering, without a risky big-bang replacement."
+      },
+      {
+        "name": "Data Readiness",
+        "href": "/solutions/data-readiness",
+        "text": "Unify booking, guest, loyalty and operations data into governed models, so pricing, personalization and AI run on data you trust."
+      },
+      {
+        "name": "Customer Care & Technical Support Managed Services",
+        "href": "/solutions/customer-care-technical-support",
+        "text": "Tiered support for travelers, guests and partners using your platforms, in their language and time zone, scaled for peak travel seasons."
+      },
+      {
+        "name": "AI Transformation & Value Realization",
+        "href": "/solutions/ai-transformation",
+        "text": "Choose, govern and scale the AI use cases that pay off in travel and hospitality, such as document processing, service automation and revenue optimization, and measure their value."
+      },
+      {
+        "name": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch",
+        "href": "/solutions/ai-discovery-agent-experience",
+        "text": "See how ChatGPT, Gemini and Perplexity describe your destinations, hotels or services when travelers plan trips, and fix what keeps you out of AI answers."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Our Success Stories",
+    "buttonText": "Read More",
+    "items": [
+      {
+        "key": "telenor",
+        "client": "Telenor",
+        "logo": "/logos/telenor-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-telenor.webp",
+        "text": "Empowering Telenor Denmark’s IT staff capacity with a nearshore Dedicated Development Center",
+        "href": "/case-studies/telenor"
+      },
+      {
+        "key": "texas-center",
+        "client": "Texas Center for Lifestyle Medicine",
+        "logo": "/logos/texas-center-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-texas-center.webp",
+        "text": "Over $1M saved annually by automating EHR data verification for the Texas Center for Lifestyle Medicine",
+        "href": "/case-studies/texas-center"
+      },
+      {
+        "key": "allica-bank",
+        "client": "Allica Bank",
+        "logo": "/logos/allica-bank-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-allica-bank.webp",
+        "text": "Enhancing IT capacity and automating banking operations for Allica Bank, UK’s fast-growing fintech, having raised over £2B in customer deposits by June 2023.",
+        "href": "/case-studies/allica-bank"
+      }
+    ]
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How a travel and hospitality engagement works",
+    "intro": "Every engagement starts with an assessment and is planned around your peak seasons.",
+    "items": [
+      {
+        "id": "assess",
+        "title": "Travel Discovery & Modernization Assessment",
+        "text": "We map your booking, distribution, guest, operations and data landscape, integrations and manual work with your team.",
+        "outcome": "A clear picture of what to build, modernize, automate or leave alone"
+      },
+      {
+        "id": "roadmap",
+        "title": "Prioritized roadmap",
+        "text": "We rank initiatives by revenue and guest impact, risk and effort, around your seasonal calendar.",
+        "outcome": "A roadmap leadership can approve"
+      },
+      {
+        "id": "team",
+        "title": "Dedicated team set-up",
+        "text": "We staff engineering, QA, data and support roles in your time zone.",
+        "outcome": "One accountable team that knows your systems"
+      },
+      {
+        "id": "build",
+        "title": "Build, integrate and test",
+        "text": "We deliver in short releases, with load testing before peak seasons and partner integration tests.",
+        "outcome": "Stable releases when demand is highest"
+      },
+      {
+        "id": "run",
+        "title": "Run and improve",
+        "text": "We support what we deliver and track the KPIs agreed in step 2.",
+        "outcome": "Measurable progress you can report on"
+      }
+    ],
+    "outcomeLabel": "Outcome"
+  },
+  "delivery": {
+    "overline": "Delivery model",
+    "title": "Your language, your market, your time zone",
+    "text": "North American travel and hospitality companies work with our Medellín delivery center; European clients work with our teams in Ukraine. All locations are certified to ISO/IEC 27001:2022, and we work under GDPR."
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Travel software development: straight answers",
+    "items": [
+      {
+        "q": "What does a travel software development company do?",
+        "a": "A travel software development company designs, builds, integrates and supports the software travel and hospitality businesses run on: booking engines, B2B and distribution platforms, apps, operations systems and data. TEAM International offers travel software development services and travel and hospitality IT solutions for airlines, travel companies, hotel suppliers and event operators."
+      },
+      {
+        "q": "Can you add new features to our legacy reservation or airline system?",
+        "a": "Yes. For Lufthansa Group we build new B2B booking capabilities outside a 25-year-old monolith with micro-frontends and new services, so the old system keeps running while new features ship. Airline IT solutions rarely need a full replacement to move forward."
+      },
+      {
+        "q": "Do you integrate with GDS and travel APIs?",
+        "a": "Yes. We build integrations with distribution systems, payment providers and partner APIs as part of booking and B2B platforms, and test them before every peak season."
+      },
+      {
+        "q": "Do you work with hotels and hospitality suppliers?",
+        "a": "Yes. Our hospitality work includes an AI system for a hotel furniture and equipment supplier that cut operating costs by more than 63%, plus custom operations software. We focus on hospitality technology solutions that remove manual work."
+      },
+      {
+        "q": "Do you build software for events and venues?",
+        "a": "Yes. We develop the core platform and data platform of a company that produces large-scale sports and entertainment events, and e-commerce for an event-rental business."
+      },
+      {
+        "q": "How is AI used in hospitality today?",
+        "a": "AI in hospitality is everywhere but rarely deep. Wyndham's 2026 Owner Trends Report found that 98% of hotel owners have begun using AI, but only 32% have it embedded across most operations, and 40% cite integration with legacy systems as a barrier. Integration work comes first."
+      },
+      {
+        "q": "Do you work with mid-size travel companies?",
+        "a": "Yes. Mid-size travel, hospitality and event companies are our focus; they get the same practices we use for Lufthansa Group."
+      },
+      {
+        "q": "How does an engagement start?",
+        "a": "With a Travel Discovery & Modernization Assessment. From there you choose a dedicated team, project delivery or support, including custom travel software development and travel technology solutions for a new product line."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Tell us what's slowing your travel or hospitality business down",
+    "subtitle": "We'll start with a Travel Discovery & Modernization Assessment.",
+    "deliverables": [
+      "Booking, operations and data map",
+      "Prioritized roadmap around peak season",
+      "Team plan in your time zone"
+    ]
+  },
+  "schema": {
+    "serviceName": "Travel software development services",
+    "serviceType": "Travel and hospitality software development",
+    "alternateNames": [
+      "Travel and hospitality IT solutions",
+      "Hospitality software development",
+      "Airline software development"
+    ],
+    "serviceDescription": "Travel software development: booking, B2B and airline platforms, travel and hotel apps, hospitality operations, procurement and event software, and travel data analytics and AI.",
+    "audience": "Airlines, travel companies, hotel groups and suppliers, and event operators"
+  }
+}
