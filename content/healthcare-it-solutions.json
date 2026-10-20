@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "title": "Healthcare Software Development Services | TEAM International",
+    "description": "Healthcare software development services: custom apps, EHR integration, automation and data, HIPAA-compliant delivery and testing, in your time zone."
+  },
+  "breadcrumb": { "home": "Home", "industries": "Industries", "current": "Healthcare & Wellness" },
+  "hero": {
+    "overline": "Industries",
+    "name": "Healthcare & Wellness",
+    "title": "Healthcare software development services",
+    "subtitle": "Custom healthcare software development, EHR integration and automation for providers, payers and digital health companies, delivered by teams that work in your language, your market and your time zone.",
+    "primaryCta": "Request an assessment",
+    "secondaryCta": "How it works",
+    "proof": [
+      { "value": "80%", "label": "fewer claim denials at Texas Center for Lifestyle Medicine" },
+      { "value": "6,700+", "label": "staff hours saved per year at Lovelace Health System" },
+      { "value": "24k", "label": "Wellstar employees supported by document automation" }
+    ]
+  },
+  "answer": {
+    "overline": "Straight answer",
+    "question": "What does TEAM International do for healthcare organizations?",
+    "text": "TEAM International is a healthcare software development company that builds, integrates and automates the healthcare IT solutions providers, payers and digital health companies run on: patient and care apps, EHR integration, claims and revenue-cycle automation, and data. Health systems such as Wellstar and Lovelace Health System use our automation, delivered with HIPAA-compliant practices.",
+    "segmentsTitle": "Who we build for",
+    "segmentsIntro": "Mid-size healthcare and wellness organizations that need enterprise-grade engineering, plus large health systems that need a long-term team.",
+    "segments": [
+      "Hospitals and health systems",
+      "Clinics and physician groups",
+      "Digital health and wellness companies",
+      "Payers, TPAs and claims administrators",
+      "Medication and care-management providers",
+      "Healthcare technology vendors"
+    ]
+  },
+  "focus": {
+    "overline": "What we build",
+    "title": "Healthcare IT solutions we build and run",
+    "intro": "Custom healthcare software development in four areas, each one already in production for healthcare clients.",
+    "items": [
+      {
+        "title": "Patient, care and wellness apps",
+        "text": "Care-management platforms, provider portals, telemedicine software development, remote patient monitoring software development and wellness app development, on web and mobile.",
+        "proof": "In production: a medication care-management platform for chronic-disease patients (since 2020) and a hospital real-time location analytics platform (since 2019)."
+      },
+      {
+        "title": "EHR integration and interoperability",
+        "text": "EHR integration services and EMR integration that connect your apps, documents and labs to the patient record, with HL7 integration and FHIR APIs as part of broader healthcare interoperability solutions.",
+        "proof": "In production: automation that links millions of documents to the right patient record in Wellstar's EHR, with over 90% accuracy in the first month."
+      },
+      {
+        "title": "Healthcare automation and data",
+        "text": "RPA in healthcare and intelligent automation in healthcare for registries, documentation, claims processing automation and revenue cycle automation, on top of clean healthcare data management.",
+        "proof": "In production: 80% fewer claim denials at Texas Center for Lifestyle Medicine and 6,700+ staff hours saved per year at Lovelace Health System."
+      },
+      {
+        "title": "Compliance, testing and managed IT",
+        "text": "HIPAA compliant software development, healthcare software testing and medical software testing in every release, and healthcare managed IT services for the platforms you already run.",
+        "proof": "In production: continuous development and support of a medical alert (PERS) platform used by end users, dealers and partners (since 2021)."
+      }
+    ]
+  },
+  "solutions": {
+    "overline": "Solutions for healthcare",
+    "title": "How every TEAM solution applies to healthcare and wellness",
+    "intro": "One partner across the stack: each of our five solutions has a direct use for providers, payers and digital health companies.",
+    "items": [
+      { "name": "AI-Powered Product & Software Engineering", "href": "/solutions/ai-powered-software-engineering", "text": "Modernize patient portals, care platforms and legacy clinical apps faster with AI-assisted engineering, without a risky big-bang replacement." },
+      { "name": "Data Readiness", "href": "/solutions/data-readiness", "text": "Unify clinical, claims and operational data into governed, HIPAA-aware models, so analytics and AI run on data you trust." },
+      { "name": "Customer Care & Technical Support Managed Services", "href": "/solutions/customer-care-technical-support", "text": "Tiered support for patients, members and clinical staff using your apps, in their language and time zone." },
+      { "name": "AI Transformation & Value Realization", "href": "/solutions/ai-transformation", "text": "Choose, govern and scale the AI use cases that pay off in healthcare, such as documentation, claims and patient service, and measure their value." },
+      { "name": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch", "href": "/solutions/ai-discovery-agent-experience", "text": "See how ChatGPT, Gemini and Perplexity describe your services and providers when patients ask, and fix what keeps you out of AI answers." }
+    ]
+  },
+  "stories": {
+    "title": "Our successfully delivered healthcare IT solutions",
+    "buttonText": "Read More",
+    "items": [
+      { "key": "telenor", "client": "Telenor", "logo": "/logos/telenor-logo.svg", "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-telenor.webp", "text": "Empowering Telenor Denmark’s IT staff capacity with a nearshore Dedicated Development Center", "href": "/case-studies/telenor" },
+      { "key": "texas-center", "client": "Texas Center for Lifestyle Medicine", "logo": "/logos/texas-center-logo.svg", "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-texas-center.webp", "text": "Over $1M saved annually by automating EHR data verification for the Texas Center for Lifestyle Medicine", "href": "/case-studies/texas-center" },
+      { "key": "allica-bank", "client": "Allica Bank", "logo": "/logos/allica-bank-logo.svg", "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-allica-bank.webp", "text": "Enhancing IT capacity and automating banking operations for Allica Bank, UK’s fast-growing fintech, having raised over £2B in customer deposits by June 2023.", "href": "/case-studies/allica-bank" }
+    ]
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How a healthcare engagement works",
+    "intro": "Every engagement starts with an assessment, and compliance is part of every step, not a final check.",
+    "items": [
+      { "id": "assess", "title": "Healthcare Discovery & Modernization Assessment", "text": "We map your applications, EHR integrations, data flows, manual workflows and compliance requirements with your team.", "outcome": "A clear picture of what to build, integrate, automate or leave alone" },
+      { "id": "roadmap", "title": "Prioritized roadmap", "text": "We rank initiatives by patient and business impact, risk and effort, and agree on success metrics.", "outcome": "A roadmap leadership and compliance can approve" },
+      { "id": "team", "title": "Dedicated team set-up", "text": "We staff HIPAA-trained engineering, automation, data and QA roles in your time zone.", "outcome": "One accountable team that knows your systems" },
+      { "id": "build", "title": "Build, integrate and test", "text": "We deliver in short releases with security reviews and healthcare software testing built in.", "outcome": "Releases that pass audits and keep data protected" },
+      { "id": "run", "title": "Run and improve", "text": "We support what we deliver and track the KPIs agreed in step 2.", "outcome": "Measurable results such as hours saved and denials avoided" }
+    ],
+    "outcomeLabel": "Outcome"
+  },
+  "delivery": {
+    "overline": "Delivery model",
+    "title": "Your language, your market, your time zone",
+    "text": "North American healthcare organizations work with our Medellín delivery center; European clients work with our teams in Ukraine. All locations are certified to ISO/IEC 27001:2022, and we deliver under HIPAA and GDPR requirements."
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Healthcare software development: straight answers",
+    "items": [
+      { "q": "What does a healthcare software development company do?", "a": "Healthcare software development companies design, build, integrate and support the software providers, payers and digital health companies run on: patient and care apps, portals, EHR integrations, automation and data platforms. Software development for healthcare also has to meet privacy and security rules such as HIPAA from day one." },
+      { "q": "What healthcare software development services does TEAM International offer?", "a": "Four areas: patient, care and wellness apps; EHR integration and interoperability; healthcare automation and data; and compliance, testing and managed IT. As a medical software development company we work for hospitals, clinics, payers and digital health companies." },
+      { "q": "Can you integrate with our EHR?", "a": "Yes. We connect apps, documents and data to the patient record through EHR vendor APIs, HL7 interfaces and FHIR, and automate the steps that staff still do by hand. Wellstar uses our automation to link medical documents to the right patient record." },
+      { "q": "How do you handle HIPAA and data security?", "a": "HIPAA-compliant practices are part of how we design, build and test: access controls, encryption, audit trails and security reviews in every release. All TEAM locations are certified to ISO/IEC 27001:2022, and we also work under GDPR." },
+      { "q": "What results has healthcare automation delivered?", "a": "Published results include 80% fewer claim denials and more than $1 million saved per year at Texas Center for Lifestyle Medicine, 6,700+ staff hours saved per year and a 63% lower cost per registry at Lovelace Health System, and over 90% accuracy in the first month at Wellstar." },
+      { "q": "How is AI used in healthcare operations today?", "a": "The most practical uses of AI in healthcare operations are documentation, claims and patient service. Experian Health's 2025 State of Claims survey found that 41% of providers face denial rates of 10% or higher, while only 14% use AI in claims, so automation and AI on clean data have a clear payback." },
+      { "q": "Do you work with mid-size healthcare and wellness companies?", "a": "Yes. Mid-size providers, digital health and wellness companies are our focus; they get the same practices we use for large health systems such as Wellstar." },
+      { "q": "How does an engagement start?", "a": "With a Healthcare Discovery & Modernization Assessment. From there you choose a dedicated team, project delivery or support; healthcare IT outsourcing with TEAM means one accountable team, not a pool of contractors." }
+    ]
+  },
+  "contact": {
+    "title": "Tell us what's slowing your healthcare operations down",
+    "subtitle": "We'll start with a Healthcare Discovery & Modernization Assessment.",
+    "deliverables": ["Application, EHR and workflow map", "Prioritized roadmap with compliance built in", "Team plan in your time zone"]
+  },
+  "schema": {
+    "serviceName": "Healthcare software development services",
+    "serviceType": "Healthcare software development",
+    "alternateNames": ["Healthcare IT solutions", "Medical software development", "Custom healthcare software development"],
+    "serviceDescription": "Healthcare software development, EHR integration and interoperability, healthcare automation (RPA) and data, HIPAA-compliant delivery, healthcare software testing and managed IT for providers, payers and digital health companies.",
+    "audience": "Hospitals, clinics, payers and digital health companies"
+  }
+}

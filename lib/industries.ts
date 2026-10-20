@@ -10,7 +10,7 @@ export const industries: Industry[] = [
     href: '/industries/telecom-it-solutions',
     internal: true,
   },
-  { label: 'Healthcare & Wellness', href: `${LIVE_SITE}/industries/healthcare-it-solutions`, internal: false },
+  { label: 'Healthcare & Wellness', href: '/industries/healthcare-it-solutions', internal: true },
   { label: 'Finances & Banking', href: `${LIVE_SITE}/industries/finance-it-solutions`, internal: false },
   { label: 'Travel & Hospitality', href: `${LIVE_SITE}/industries/it-solutions-travel-hospitality`, internal: false },
   { label: 'Retail & Distribution', href: '/industries/retail-managed-it', internal: true },
