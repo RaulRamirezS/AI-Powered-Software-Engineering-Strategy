@@ -85,6 +85,7 @@ function IndustriesDropdown({ onNavigate }: { onNavigate?: () => void }) {
             ) : (
               <a
                 href={ind.href}
+                {...(ind.newTab ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
                 className='block rounded-md px-3 py-2 font-public text-sm text-white/70 transition-colors hover:bg-white/10 hover:text-secondary'
               >
                 {ind.label}
@@ -211,7 +212,11 @@ export default function Navbar() {
                             {ind.label}
                           </Link>
                         ) : (
-                          <a href={ind.href} className='block py-2 font-public text-sm text-white/70'>
+                          <a
+                            href={ind.href}
+                            {...(ind.newTab ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
+                            className='block py-2 font-public text-sm text-white/70'
+                          >
                             {ind.label}
                           </a>
                         )}

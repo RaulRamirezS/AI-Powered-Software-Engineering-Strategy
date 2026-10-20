@@ -2,7 +2,7 @@ import { LIVE_SITE } from '@/lib/site';
 
 // Industry pages, in the same order as the main site's Industries dropdown.
 // `internal: true` = the refactored page lives in this project; others link to the live site.
-export type Industry = { label: string; href: string; internal: boolean };
+export type Industry = { label: string; href: string; internal: boolean; newTab?: boolean };
 
 export const industries: Industry[] = [
   {
@@ -17,5 +17,10 @@ export const industries: Industry[] = [
   { label: 'Logistics and Transportation', href: '/industries/logistics-it-solutions', internal: true },
   { label: 'Business Services', href: '/industries/business-services', internal: true },
   { label: 'Engineering Staffing', href: '/industries/engineering-staffing', internal: true },
-  { label: 'Oil and Gas Digital Solutions', href: 'https://digitaloilandgas.solutions/', internal: false },
+  {
+    label: 'Oil and Gas Digital Solutions',
+    href: 'https://www.digitaloilandgas.solutions/en',
+    internal: false,
+    newTab: true,
+  },
 ];
