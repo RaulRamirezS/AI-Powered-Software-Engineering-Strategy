@@ -1,4 +1,5 @@
 import ShaderBackground from '@/components/ui/shader-background';
+import { RETAIL_FLOW_FRAGMENT } from '@/components/ui/shaders/retail-flow';
 import content from '@/content/retail-managed-it.json';
 import AnimatedSequence from '@/components/ui/animated-sequence';
 import { GlowButton } from '@/components/ui/glow-button';
@@ -10,7 +11,7 @@ export default function HeroSection() {
 
   return (
     <section className='relative flex min-h-[70vh] items-center overflow-hidden bg-black md:min-h-[80vh]'>
-      <ShaderBackground />
+      <ShaderBackground fragmentSource={RETAIL_FLOW_FRAGMENT} />
 
       <div className='relative mx-auto w-full max-w-[1280px] px-6 py-20 md:py-28'>
         <div className='grid items-center gap-10 lg:grid-cols-[1.05fr_0.95fr] lg:gap-6'>

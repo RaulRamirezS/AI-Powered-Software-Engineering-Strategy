@@ -113,13 +113,15 @@ type ShaderBackgroundProps = {
   className?: string;
   /** Render scale relative to CSS pixels (lower = cheaper). */
   quality?: number;
+  /** Optional page-specific fragment shader (same u_resolution / u_time uniforms). Defaults to the brand aurora. */
+  fragmentSource?: string;
 };
 
 /**
  * Full-bleed animated WebGL shader background. Place inside a `relative`
  * container. Falls back to soft CSS glows when WebGL is unavailable.
  */
-export default function ShaderBackground({ className, quality = 0.6 }: ShaderBackgroundProps) {
+export default function ShaderBackground({ className, quality = 0.6, fragmentSource }: ShaderBackgroundProps) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const [fallback, setFallback] = useState(false);
 
@@ -134,7 +136,7 @@ export default function ShaderBackground({ className, quality = 0.6 }: ShaderBac
     }
 
     const vs = compile(gl, gl.VERTEX_SHADER, VERTEX_SRC);
-    const fs = compile(gl, gl.FRAGMENT_SHADER, FRAGMENT_SRC);
+    const fs = compile(gl, gl.FRAGMENT_SHADER, fragmentSource ?? FRAGMENT_SRC);
     const program = gl.createProgram();
     if (!vs || !fs || !program) {
       setFallback(true);
@@ -224,7 +226,7 @@ export default function ShaderBackground({ className, quality = 0.6 }: ShaderBac
       gl.deleteShader(vs);
       gl.deleteShader(fs);
     };
-  }, [quality]);
+  }, [quality, fragmentSource]);
 
   return (
     <div className={cn('absolute inset-0 overflow-hidden bg-black', className)} aria-hidden='true'>
