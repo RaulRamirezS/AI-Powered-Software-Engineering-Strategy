@@ -1,10 +1,14 @@
 import type { MetadataRoute } from 'next';
 import { SITE_URL } from '@/lib/site';
 import { solutions } from '@/lib/solutions';
+import { industries } from '@/lib/industries';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const pages = solutions
     .filter(s => s.live)
     .map(s => ({ url: `${SITE_URL}${s.href}`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.8 }));
-  return [{ url: `${SITE_URL}/solutions`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.9 }, ...pages];
+  const industryPages = industries
+    .filter(i => i.internal)
+    .map(i => ({ url: `${SITE_URL}${i.href}`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.7 }));
+  return [{ url: `${SITE_URL}/solutions`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.9 }, ...pages, ...industryPages];
 }

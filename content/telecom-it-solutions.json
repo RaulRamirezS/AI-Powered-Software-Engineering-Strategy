@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "title": "Telecom Software Development Services | TEAM International",
+    "description": "Telecom software development services for operators, MVNOs and ISPs: OSS/BSS modernization, billing and CRM integration, data and QA, in your time zone."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "industries": "Industries",
+    "current": "Technology, Media, and Telecommunications"
+  },
+  "hero": {
+    "overline": "Industries",
+    "name": "Technology, Media, and Telecommunications (TMT)",
+    "title": "Telecom software development services",
+    "subtitle": "Custom telecom solutions for operators, MVNOs and ISPs, built and supported by engineers who work in your language, your market and your time zone.",
+    "primaryCta": "Request an assessment",
+    "secondaryCta": "How it works",
+    "proof": [
+      {
+        "value": "2011",
+        "label": "Software partner to Telenor Denmark since"
+      },
+      {
+        "value": "100+",
+        "label": "people in Telenor's dedicated development center"
+      },
+      {
+        "value": "ISO 27001",
+        "label": "ISO/IEC 27001:2022 certified at all locations"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "Straight answer",
+    "question": "What does TEAM International do for telecom companies?",
+    "text": "TEAM International is a telecom software development company that modernizes and extends the systems telecom providers run on: OSS/BSS, billing, ordering, CRM and customer portals. Since 2011 we have built and supported telecom software for operators such as Telenor Denmark and BullsEye Telecom, with dedicated teams working in North American and European time zones.",
+    "segmentsTitle": "Who we build for",
+    "segmentsIntro": "Telecom IT services for mid-size providers that need enterprise-grade engineering, and for large operators that need a long-term team.",
+    "segments": [
+      "Mobile network operators",
+      "MVNOs (MVNO software and BSS)",
+      "ISPs (ISP software and portals)",
+      "VoIP and UCaaS providers",
+      "Telecom resellers and MSPs",
+      "Telecom technology vendors"
+    ]
+  },
+  "focus": {
+    "overline": "What we build",
+    "title": "Telecom IT solutions we build",
+    "intro": "Our IT services for telecom industry providers focus on the four areas where telecom software solutions most often slow them down.",
+    "items": [
+      {
+        "title": "OSS/BSS modernization and integration",
+        "text": "Modernize OSS BSS solutions without stopping the business: middleware, quoting and ordering, telecom billing solutions and telecom CRM integration (Salesforce included), connected by APIs to carriers and third-party platforms."
+      },
+      {
+        "title": "Digital channels and self-service",
+        "text": "Telecom application development for web shops, customer portals and mobile apps that move routine requests to self-service and improve telecom customer experience."
+      },
+      {
+        "title": "Telecom data analytics",
+        "text": "Normalize KPIs that arrive from different carriers and systems into one trusted model for orders, revenue, churn and network reporting."
+      },
+      {
+        "title": "Telecom software testing and production support",
+        "text": "Regression testing, configuration management and production support that keep releases stable across billing, ordering and customer-facing applications."
+      }
+    ]
+  },
+  "solutions": {
+    "overline": "Solutions for telecom",
+    "title": "How every TEAM solution applies to telecom",
+    "intro": "One partner for telecom technology solutions across the stack: each of our five solutions has a direct use for telecom providers.",
+    "items": [
+      {
+        "name": "AI-Powered Product & Software Engineering",
+        "href": "/solutions/ai-powered-software-engineering",
+        "text": "Modernize OSS/BSS, billing and CRM platforms and build customer apps faster with AI-assisted engineering, without a risky big-bang replacement."
+      },
+      {
+        "name": "Data Readiness",
+        "href": "/solutions/data-readiness",
+        "text": "Unify subscriber, usage, order and network data into governed models, so churn, revenue and AI use cases run on data you trust."
+      },
+      {
+        "name": "Customer Care & Technical Support Managed Services",
+        "href": "/solutions/customer-care-technical-support",
+        "text": "Tiered technical support for subscribers and business customers, in your customers' language and time zone, connected to your CRM and ticketing tools."
+      },
+      {
+        "name": "AI Transformation & Value Realization",
+        "href": "/solutions/ai-transformation",
+        "text": "Choose, govern and scale the AI use cases that pay off in telecom, such as network operations, care and sales, and measure their value."
+      },
+      {
+        "name": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch",
+        "href": "/solutions/ai-discovery-agent-experience",
+        "text": "See how ChatGPT, Gemini and Perplexity describe your plans and services, and fix what keeps you out of AI answers."
+      }
+    ]
+  },
+  "stories": {
+    "title": "TEAM International's success stories",
+    "buttonText": "Read More",
+    "items": [
+      {
+        "key": "telenor",
+        "client": "Telenor",
+        "logo": "/logos/telenor-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-telenor.webp",
+        "text": "Empowering Telenor Denmark’s IT staff capacity with a nearshore Dedicated Development Center",
+        "href": "/case-studies/telenor"
+      },
+      {
+        "key": "texas-center",
+        "client": "Texas Center for Lifestyle Medicine",
+        "logo": "/logos/texas-center-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-texas-center.webp",
+        "text": "Over $1M saved annually by automating EHR data verification for the Texas Center for Lifestyle Medicine",
+        "href": "/case-studies/texas-center"
+      },
+      {
+        "key": "allica-bank",
+        "client": "Allica Bank",
+        "logo": "/logos/allica-bank-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-allica-bank.webp",
+        "text": "Enhancing IT capacity and automating banking operations for Allica Bank, UK’s fast-growing fintech, having raised over £2B in customer deposits by June 2023.",
+        "href": "/case-studies/allica-bank"
+      }
+    ]
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How a telecom engagement works",
+    "intro": "Every engagement starts with an assessment, so the roadmap is based on your systems, not on a template.",
+    "items": [
+      {
+        "id": "assess",
+        "title": "Telecom Discovery & Modernization Assessment",
+        "text": "We map your OSS/BSS landscape, integrations, data flows and release pain points with your team.",
+        "outcome": "A clear picture of what to modernize, integrate or leave alone"
+      },
+      {
+        "id": "roadmap",
+        "title": "Prioritized roadmap",
+        "text": "We rank initiatives by business impact, risk and effort, and agree on success metrics.",
+        "outcome": "A roadmap leadership can approve"
+      },
+      {
+        "id": "team",
+        "title": "Dedicated team set-up",
+        "text": "We staff a team with the telecom, engineering and QA skills the roadmap needs, in your time zone.",
+        "outcome": "One accountable team that knows your systems"
+      },
+      {
+        "id": "build",
+        "title": "Build, integrate and test",
+        "text": "We deliver in short releases with regression testing and configuration management built in.",
+        "outcome": "Stable releases without service interruptions"
+      },
+      {
+        "id": "run",
+        "title": "Run and improve",
+        "text": "We provide production support and track the KPIs agreed in step 2.",
+        "outcome": "Measurable progress you can report on"
+      }
+    ],
+    "outcomeLabel": "Outcome"
+  },
+  "delivery": {
+    "overline": "Delivery model",
+    "title": "Your language, your market, your time zone",
+    "text": "North American providers work with our Medellín delivery center; European providers work with our teams in Ukraine, where Telenor Denmark's dedicated development center started. All locations are certified to ISO/IEC 27001:2022, and we work under GDPR."
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Telecom software development: straight answers",
+    "items": [
+      {
+        "q": "What does a telecom software development company do?",
+        "a": "A telecom software development company designs, builds, integrates and supports the software telecom providers run on: OSS/BSS, billing, ordering, CRM, customer portals and mobile apps. TEAM International does this for operators, MVNOs and ISPs, and has done so for Telenor Denmark since 2011."
+      },
+      {
+        "q": "What telecom software development services does TEAM International offer?",
+        "a": "Four areas: OSS/BSS modernization and integration, digital channels and self-service (we are a telecom app development company for web and mobile), telecom data analytics, and telecom software testing with production support."
+      },
+      {
+        "q": "Can you modernize OSS/BSS without replacing our billing platform?",
+        "a": "Yes. Most engagements extend and integrate what already works, such as billing, CRM and ordering systems, through APIs and middleware, and replace only the components that block growth. The assessment decides which is which."
+      },
+      {
+        "q": "Do you work with MVNOs and ISPs, or only large operators?",
+        "a": "Both. We focus on mid-size providers, including MVNOs and ISPs, and keep enterprise proof from operators such as Telenor Denmark."
+      },
+      {
+        "q": "Which telecom companies has TEAM International worked with?",
+        "a": "Published examples include Telenor Denmark (a dedicated development center since 2011 that grew to more than 100 people) and BullsEye Telecom in the United States (API integrations, order processing and KPI reporting)."
+      },
+      {
+        "q": "How does AI fit into telecom digital transformation?",
+        "a": "AI in telecom only works on clean, connected data. McKinsey (February 2025) reports that less than 50% of operators have data quality good enough for gen AI use cases, so we start with data readiness and then add AI to engineering, operations and customer care."
+      },
+      {
+        "q": "How do you handle time zones and language?",
+        "a": "Your team works in your language and your time zone: North America from our Medellín delivery center, Europe from Ukraine."
+      },
+      {
+        "q": "How does an engagement start?",
+        "a": "With a Telecom Discovery & Modernization Assessment. From there you choose a dedicated team or project delivery; telecom software outsourcing with TEAM means one accountable team, not a pool of contractors."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Tell us what's slowing your telecom software down",
+    "subtitle": "We'll start with a Telecom Discovery & Modernization Assessment.",
+    "deliverables": [
+      "OSS/BSS and integration map",
+      "Prioritized modernization roadmap",
+      "Team plan in your time zone"
+    ]
+  },
+  "schema": {
+    "serviceName": "Telecom software development services",
+    "serviceType": "Telecom software development",
+    "alternateNames": [
+      "Telecom IT solutions",
+      "Telecom IT services",
+      "OSS/BSS modernization"
+    ],
+    "serviceDescription": "Telecom software development, OSS/BSS modernization and integration, telecom application development, telecom data analytics, and telecom software testing and production support for operators, MVNOs and ISPs.",
+    "audience": "Telecom operators, MVNOs, ISPs and VoIP providers"
+  }
+}

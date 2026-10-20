@@ -7,16 +7,17 @@ import { ChevronDown, Menu, X } from 'lucide-react';
 import TeamLogo from '@/components/site/team-logo';
 import { LIVE_SITE } from '@/lib/site';
 import { solutions } from '@/lib/solutions';
+import { industries } from '@/lib/industries';
 import { cn } from '@/lib/utils';
 
 // Mirrors TINavbarNew from the main site: sticky dark bar, uppercase Anybody links,
 // yellow active underline, white "Contact" button that turns yellow on hover.
-type NavItem = { label: string; href: string; external?: boolean; dropdown?: 'solutions' };
+type NavItem = { label: string; href: string; external?: boolean; dropdown?: 'solutions' | 'industries' };
 
 const navItems: NavItem[] = [
   { label: 'Home', href: `${LIVE_SITE}/`, external: true },
   { label: 'Solutions', href: '/solutions', dropdown: 'solutions' },
-  { label: 'Industries', href: `${LIVE_SITE}/industries`, external: true },
+  { label: 'Industries', href: `${LIVE_SITE}/industries`, dropdown: 'industries' },
   { label: 'Careers', href: `${LIVE_SITE}/careers`, external: true },
   { label: 'About', href: `${LIVE_SITE}/about-us`, external: true },
   { label: 'Insights', href: `${LIVE_SITE}/insights`, external: true },
@@ -60,12 +61,50 @@ function SolutionsDropdown({ onNavigate }: { onNavigate?: () => void }) {
   );
 }
 
+function IndustriesDropdown({ onNavigate }: { onNavigate?: () => void }) {
+  return (
+    <div className='w-[420px] rounded-b-xl border border-white/10 bg-primary-dark-3 p-6 shadow-[0_16px_48px_rgba(0,0,0,0.4)]'>
+      <p className='text-overline mb-4 font-inconsolata text-secondary'>Industries</p>
+      <a
+        href={`${LIVE_SITE}/industries`}
+        className='mb-2 block rounded-md border border-white/10 px-3 py-2 font-public text-sm font-semibold text-secondary transition-colors hover:bg-white/10'
+      >
+        All industries →
+      </a>
+      <ul className='flex flex-col gap-1'>
+        {industries.map(ind => (
+          <li key={ind.href}>
+            {ind.internal ? (
+              <Link
+                href={ind.href}
+                onClick={onNavigate}
+                className='block rounded-md px-3 py-2 font-public text-sm text-white transition-colors hover:bg-white/10 hover:text-secondary'
+              >
+                {ind.label}
+              </Link>
+            ) : (
+              <a
+                href={ind.href}
+                className='block rounded-md px-3 py-2 font-public text-sm text-white/70 transition-colors hover:bg-white/10 hover:text-secondary'
+              >
+                {ind.label}
+              </a>
+            )}
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
 export default function Navbar() {
   const pathname = usePathname();
   const [menuOpen, setMenuOpen] = useState(false);
-  const [dropdownOpen, setDropdownOpen] = useState(false);
+  const [openDropdown, setOpenDropdown] = useState<NavItem['dropdown'] | null>(null);
 
-  const isActive = (item: NavItem) => !item.external && pathname.startsWith('/solutions');
+  const isActive = (item: NavItem) =>
+    (item.dropdown === 'solutions' && pathname.startsWith('/solutions')) ||
+    (item.dropdown === 'industries' && pathname.startsWith('/industries'));
 
   return (
     <header className='sticky top-0 z-40 w-full bg-primary-dark-3 text-white'>
@@ -96,30 +135,36 @@ export default function Navbar() {
                   active &&
                     'text-secondary after:absolute after:bottom-3 after:left-0 after:right-0 after:h-[2px] after:bg-secondary'
                 )}
-                onMouseEnter={item.dropdown ? () => setDropdownOpen(true) : undefined}
-                onMouseLeave={item.dropdown ? () => setDropdownOpen(false) : undefined}
+                onMouseEnter={item.dropdown ? () => setOpenDropdown(item.dropdown) : undefined}
+                onMouseLeave={item.dropdown ? () => setOpenDropdown(null) : undefined}
               >
                 {item.dropdown ? (
                   <>
                     <button
                       type='button'
                       className={cn('flex items-center gap-2 py-4', linkClass)}
-                      aria-expanded={dropdownOpen}
+                      aria-expanded={openDropdown === item.dropdown}
                       aria-haspopup='true'
-                      onClick={() => setDropdownOpen(prev => !prev)}
+                      onClick={() =>
+                        setOpenDropdown(prev => (prev === item.dropdown ? null : item.dropdown))
+                      }
                     >
                       {item.label}
                       <ChevronDown
-                        className={cn('h-4 w-4 transition-transform', dropdownOpen && 'rotate-180')}
+                        className={cn('h-4 w-4 transition-transform', openDropdown === item.dropdown && 'rotate-180')}
                       />
                     </button>
                     <div
                       className={cn(
                         'absolute left-1/2 top-16 -translate-x-1/2',
-                        dropdownOpen ? 'block' : 'hidden'
+                        openDropdown === item.dropdown ? 'block' : 'hidden'
                       )}
                     >
-                      <SolutionsDropdown onNavigate={() => setDropdownOpen(false)} />
+                      {item.dropdown === 'industries' ? (
+                        <IndustriesDropdown onNavigate={() => setOpenDropdown(null)} />
+                      ) : (
+                        <SolutionsDropdown onNavigate={() => setOpenDropdown(null)} />
+                      )}
                     </div>
                   </>
                 ) : (
@@ -145,7 +190,36 @@ export default function Navbar() {
         <div className='fixed inset-0 top-16 z-30 w-full overflow-y-auto bg-primary-dark-3 lg:hidden'>
           <nav className='px-section flex flex-col py-4' aria-label='Mobile'>
             {navItems.map(item =>
-              item.dropdown ? (
+              item.dropdown === 'industries' ? (
+                <div key={item.label} className='border-b border-white/10 py-3'>
+                  <p className='mb-2 font-anybody text-lg uppercase text-secondary'>{item.label}</p>
+                  <a
+                    href={`${LIVE_SITE}/industries`}
+                    className='block py-2 font-public text-sm font-semibold text-secondary'
+                  >
+                    All industries →
+                  </a>
+                  <ul className='flex flex-col gap-1'>
+                    {industries.map(ind => (
+                      <li key={ind.href}>
+                        {ind.internal ? (
+                          <Link
+                            href={ind.href}
+                            onClick={() => setMenuOpen(false)}
+                            className='block py-2 font-public text-sm text-white'
+                          >
+                            {ind.label}
+                          </Link>
+                        ) : (
+                          <a href={ind.href} className='block py-2 font-public text-sm text-white/70'>
+                            {ind.label}
+                          </a>
+                        )}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ) : item.dropdown ? (
                 <div key={item.label} className='border-b border-white/10 py-3'>
                   <p className='mb-2 font-anybody text-lg uppercase text-secondary'>{item.label}</p>
                   <Link
