@@ -6,8 +6,30 @@ const config: Config = {
   darkMode: 'class',
   theme: {
     extend: {
-      animation: { scroll: 'scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite' },
-      keyframes: { scroll: { to: { transform: 'translate(calc(-50% - 0.5rem))' } } },
+      animation: {
+        scroll: 'scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite',
+        'tmt-float': 'tmt-float 6s ease-in-out infinite',
+        'tmt-ripple': 'tmt-ripple 2.4s ease-out infinite',
+        'tmt-bar': 'tmt-bar 1.6s ease-in-out infinite',
+        'tmt-progress': 'tmt-progress 4s ease-in-out infinite',
+        'tmt-dash': 'tmt-dash 1.2s linear infinite',
+        'tmt-fill': 'tmt-fill 6.5s linear forwards',
+      },
+      keyframes: {
+        scroll: { to: { transform: 'translate(calc(-50% - 0.5rem))' } },
+        'tmt-float': {
+          '0%, 100%': { transform: 'translateZ(var(--tmt-z, 40px))' },
+          '50%': { transform: 'translateZ(calc(var(--tmt-z, 40px) + 22px))' },
+        },
+        'tmt-ripple': {
+          '0%': { transform: 'scale(1)', opacity: '0.8' },
+          '100%': { transform: 'scale(1.9)', opacity: '0' },
+        },
+        'tmt-bar': { '0%, 100%': { transform: 'scaleY(0.4)' }, '50%': { transform: 'scaleY(1)' } },
+        'tmt-progress': { '0%': { width: '8%' }, '85%, 100%': { width: '100%' } },
+        'tmt-dash': { to: { strokeDashoffset: '-32' } },
+        'tmt-fill': { from: { width: '0%' }, to: { width: '100%' } },
+      },
       screens: { '2xl': '1440px' },
       spacing: { '15': '3.75rem', '30': '7.5rem', '45': '11.25rem' },
       fontSize: {

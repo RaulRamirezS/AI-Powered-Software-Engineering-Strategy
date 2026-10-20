@@ -1,3 +1,4 @@
+import ShaderBackground from '@/components/ui/shader-background';
 import content from '@/content/ai-transformation.json';
 import AnimatedSequence from '@/components/ui/animated-sequence';
 import { GlowButton } from '@/components/ui/glow-button';
@@ -8,18 +9,7 @@ export default function HeroSection() {
 
   return (
     <section className='relative flex min-h-[70vh] items-center overflow-hidden bg-black md:min-h-[80vh]'>
-      <div className='absolute inset-0' aria-hidden='true'>
-        <div className='absolute left-1/4 top-1/4 h-[500px] w-[500px] animate-pulse rounded-full bg-secondary/20 blur-[150px]' />
-        <div className='absolute bottom-1/4 right-1/4 h-[600px] w-[600px] animate-pulse rounded-full bg-talent/10 blur-[180px] delay-1000' />
-        <svg className='absolute inset-0 h-full w-full opacity-[0.06]'>
-          <defs>
-            <pattern id='hero-grid' width='48' height='48' patternUnits='userSpaceOnUse'>
-              <path d='M48 0H0V48' fill='none' stroke='#FAF8F9' strokeWidth='1' />
-            </pattern>
-          </defs>
-          <rect width='100%' height='100%' fill='url(#hero-grid)' />
-        </svg>
-      </div>
+      <ShaderBackground />
 
       <div className='relative mx-auto w-full max-w-[1280px] px-6 py-20 text-center md:py-32'>
         <AnimatedSequence animation='fadeInUp' className='flex flex-col items-center'>
