@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "title": "Logistics Software Development Services | TEAM International",
+    "description": "Logistics software development services for brokers, 3PLs, carriers and forwarders: load management, EDI, fleet apps and automation, in your time zone."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "industries": "Industries",
+    "current": "Logistics and Transportation"
+  },
+  "hero": {
+    "overline": "Industries",
+    "name": "Logistics and Transportation",
+    "title": "Logistics software development services",
+    "subtitle": "Custom logistics software development, EDI integration and automation for brokers, 3PLs, carriers and forwarders, built by teams that work in your language, your market and your time zone.",
+    "primaryCta": "Request an assessment",
+    "secondaryCta": "How it works",
+    "proof": [
+      {
+        "value": "63%",
+        "label": "lower operating costs with AI document extraction for a freight forwarder"
+      },
+      {
+        "value": "100→100k",
+        "label": "Arrive Logistics' EDI pipeline scales from 100 to 100,000 loads with the same effort"
+      },
+      {
+        "value": "13",
+        "label": "engineers on a global tire maker's fleet solutions team"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "Straight answer",
+    "question": "What does TEAM International do for logistics and transportation companies?",
+    "text": "TEAM International is a logistics software development company that builds and runs the systems freight moves on: load management platforms, EDI and carrier integrations, fleet and delivery apps, and logistics automation. Arrive Logistics and a global tire manufacturer's fleet business rely on our teams in North American and European time zones, and we have supported Coyote Logistics.",
+    "segmentsTitle": "Who we build for",
+    "segmentsIntro": "IT services for transportation and logistics companies, focused on mid-size operators that need enterprise-grade engineering.",
+    "segments": [
+      "Freight brokers and 3PLs",
+      "Carriers and fleet operators",
+      "Freight forwarders",
+      "Courier, express and parcel",
+      "Shippers with in-house logistics",
+      "Logistics technology vendors"
+    ]
+  },
+  "focus": {
+    "overline": "What we build",
+    "title": "Logistics technology solutions we build and run",
+    "intro": "Custom software development for logistics in four areas, each one already in production for logistics clients.",
+    "items": [
+      {
+        "title": "Load and freight management platforms",
+        "text": "Transportation software development for the core of your business: load movement, carrier tenders, tracking and settlement, and third-party logistics software development for 3PL software development teams that outgrew off-the-shelf tools.",
+        "proof": "In production: core load-movement applications for Arrive Logistics, where a failure would be business-critical."
+      },
+      {
+        "title": "EDI and carrier integrations",
+        "text": "EDI integration services and EDI for logistics (204 tenders, 214 tracking, 210 invoicing), carrier data normalization and links to finance systems such as NetSuite.",
+        "proof": "In production: Arrive Logistics' end-to-end EDI pipeline, where processing 100,000 loads takes the same technical effort as 100."
+      },
+      {
+        "title": "Fleet, field and delivery apps",
+        "text": "Fleet management software development, logistics app development and delivery app development for drivers, technicians and customers, on web and mobile.",
+        "proof": "In production: fleet tire-operations applications for a global tire manufacturer (13 engineers, since 2022) and web and mobile tracking apps for a service-parts logistics provider (since 2022)."
+      },
+      {
+        "title": "Logistics automation, data and AI",
+        "text": "Logistics automation solutions that remove manual document work, plus logistics data analytics and transportation data analytics on clean, normalized data.",
+        "proof": "In production: a 6-agent AI system that reads 108-page PDFs in 10.8 minutes with zero missed items, cutting a freight forwarder's operating costs by more than 63%."
+      }
+    ]
+  },
+  "solutions": {
+    "overline": "Solutions for logistics",
+    "title": "How every TEAM solution applies to logistics and transportation",
+    "intro": "Digital transformation in logistics needs more than one capability: each of our five solutions has a direct use for logistics and transportation companies.",
+    "items": [
+      {
+        "name": "AI-Powered Product & Software Engineering",
+        "href": "/solutions/ai-powered-software-engineering",
+        "text": "Modernize load, tracking and carrier platforms faster with AI-assisted engineering, without stopping the freight that runs on them."
+      },
+      {
+        "name": "Data Readiness",
+        "href": "/solutions/data-readiness",
+        "text": "Normalize shipment, carrier and EDI data into governed models, so visibility, pricing and AI run on data you trust."
+      },
+      {
+        "name": "Customer Care & Technical Support Managed Services",
+        "href": "/solutions/customer-care-technical-support",
+        "text": "Tiered support for shippers, carriers and drivers using your platforms, in their language and time zone."
+      },
+      {
+        "name": "AI Transformation & Value Realization",
+        "href": "/solutions/ai-transformation",
+        "text": "Choose, govern and scale the AI use cases that pay off in logistics, such as document extraction, routing and exception handling, and measure their value."
+      },
+      {
+        "name": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch",
+        "href": "/solutions/ai-discovery-agent-experience",
+        "text": "See how ChatGPT, Gemini and Perplexity describe your services when shippers ask for a carrier or 3PL, and fix what keeps you out of AI answers."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Our Success Stories",
+    "buttonText": "Read More",
+    "items": [
+      {
+        "key": "telenor",
+        "client": "Telenor",
+        "logo": "/logos/telenor-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-telenor.webp",
+        "text": "Empowering Telenor Denmark’s IT staff capacity with a nearshore Dedicated Development Center",
+        "href": "/case-studies/telenor"
+      },
+      {
+        "key": "texas-center",
+        "client": "Texas Center for Lifestyle Medicine",
+        "logo": "/logos/texas-center-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-texas-center.webp",
+        "text": "Over $1M saved annually by automating EHR data verification for the Texas Center for Lifestyle Medicine",
+        "href": "/case-studies/texas-center"
+      },
+      {
+        "key": "allica-bank",
+        "client": "Allica Bank",
+        "logo": "/logos/allica-bank-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-allica-bank.webp",
+        "text": "Enhancing IT capacity and automating banking operations for Allica Bank, UK’s fast-growing fintech, having raised over £2B in customer deposits by June 2023.",
+        "href": "/case-studies/allica-bank"
+      }
+    ]
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How a logistics engagement works",
+    "intro": "Every engagement starts with an assessment, and every release is planned so freight keeps moving.",
+    "items": [
+      {
+        "id": "assess",
+        "title": "Logistics Discovery & Modernization Assessment",
+        "text": "We map your load, carrier, EDI, finance and support landscape, integrations and manual work with your team.",
+        "outcome": "A clear picture of what to build, integrate, automate or leave alone"
+      },
+      {
+        "id": "roadmap",
+        "title": "Prioritized roadmap",
+        "text": "We rank initiatives by business impact, risk and effort, and agree on success metrics.",
+        "outcome": "A roadmap leadership can approve"
+      },
+      {
+        "id": "team",
+        "title": "Dedicated team set-up",
+        "text": "We staff engineering, EDI, data, QA and support roles in your time zone.",
+        "outcome": "One accountable team that knows your systems"
+      },
+      {
+        "id": "build",
+        "title": "Build, integrate and test",
+        "text": "We deliver in short releases with regression testing and carrier and partner integration tests before go-live.",
+        "outcome": "Releases that never stop freight"
+      },
+      {
+        "id": "run",
+        "title": "Run and improve",
+        "text": "We support what we deliver and track the KPIs agreed in step 2.",
+        "outcome": "Measurable progress you can report on"
+      }
+    ],
+    "outcomeLabel": "Outcome"
+  },
+  "delivery": {
+    "overline": "Delivery model",
+    "title": "Your language, your market, your time zone",
+    "text": "North American logistics companies work with our Medellín delivery center; European clients work with our teams in Ukraine. All locations are certified to ISO/IEC 27001:2022, and we work under GDPR."
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Logistics software development: straight answers",
+    "items": [
+      {
+        "q": "What does a logistics software development company do?",
+        "a": "A logistics software development company designs, builds, integrates and supports the software freight moves on: load and transportation management, EDI and carrier integrations, fleet and delivery apps, and automation. TEAM International does this for brokers, 3PLs, carriers and forwarders, from logistics and transportation software development to the support behind it."
+      },
+      {
+        "q": "What logistics software development services does TEAM International offer?",
+        "a": "Four areas: load and freight management platforms; EDI and carrier integrations; fleet, field and delivery apps; and logistics automation, data and AI. These are our core logistics IT services and transportation IT solutions, and every engagement starts with a Logistics Discovery & Modernization Assessment."
+      },
+      {
+        "q": "Can you build on top of our TMS and EDI setup instead of replacing it?",
+        "a": "Yes. Most work extends what already runs: new modules, EDI flows, carrier integrations and links to finance systems such as NetSuite. We replace only what blocks growth, and logistics software solutions keep running during the change."
+      },
+      {
+        "q": "Do you provide IT support for logistics operations?",
+        "a": "Yes. We have run tier 1–3 support for Coyote Logistics, and IT support for logistics can be combined with development in one team."
+      },
+      {
+        "q": "What results has logistics automation delivered?",
+        "a": "A 6-agent AI system we built for a freight forwarder reads 108-page PDFs in 10.8 minutes with zero missed items and cut operating costs by more than 63%. For Arrive Logistics, our EDI pipeline handles 100,000 loads with the same technical effort as 100."
+      },
+      {
+        "q": "How is AI used in logistics today?",
+        "a": "The practical uses of AI in logistics are document extraction, routing and planning, and exception handling. The 2026 Third-Party Logistics Study reports that transportation planning and routing shows the strongest AI return for both shippers and 3PLs, and names data quality and legacy integration as the top barriers to scaling AI."
+      },
+      {
+        "q": "Do you work with mid-size logistics companies?",
+        "a": "Yes. Mid-size brokers, 3PLs, carriers and forwarders are our focus; they get the same practices we use for enterprise fleet and freight clients."
+      },
+      {
+        "q": "How does an engagement start?",
+        "a": "With a Logistics Discovery & Modernization Assessment. From there you choose a dedicated team, project delivery or support, including supply chain software development for your internal platforms."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Tell us what's slowing your logistics operations down",
+    "subtitle": "We'll start with a Logistics Discovery & Modernization Assessment.",
+    "deliverables": [
+      "Load, EDI and carrier integration map",
+      "Prioritized roadmap",
+      "Team plan in your time zone"
+    ]
+  },
+  "schema": {
+    "serviceName": "Logistics software development services",
+    "serviceType": "Logistics software development",
+    "alternateNames": [
+      "Logistics IT services",
+      "Transportation software development",
+      "Custom logistics software development"
+    ],
+    "serviceDescription": "Logistics software development: load and freight management platforms, EDI and carrier integrations, fleet and delivery apps, and logistics automation, data and AI for brokers, 3PLs, carriers and forwarders.",
+    "audience": "Freight brokers, 3PLs, carriers, freight forwarders and shippers"
+  }
+}
