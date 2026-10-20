@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "title": "SaaS Development Services for Business | TEAM International",
+    "description": "SaaS development services and custom software for B2B and professional services companies: HR, payroll, staffing, legal and pricing platforms."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "industries": "Industries",
+    "current": "Business Services"
+  },
+  "hero": {
+    "overline": "Industries",
+    "name": "Business Services",
+    "title": "SaaS development services for B2B and professional services companies",
+    "subtitle": "Product engineering, modernization and support for B2B software vendors and service firms, by teams that work in your language, your market and your time zone.",
+    "primaryCta": "Request an assessment",
+    "secondaryCta": "How it works",
+    "proof": [
+      {
+        "value": "100,000+",
+        "label": "claims processed online without downtime for a UK law firm's mass-claims campaign"
+      },
+      {
+        "value": "Since 2018",
+        "label": "building a staffing-software leader's ATS features and integrations"
+      },
+      {
+        "value": "5",
+        "label": "payroll and HR products built end to end for a U.S. payroll provider"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "Straight answer",
+    "question": "What does TEAM International do for business services companies?",
+    "text": "TEAM International is a SaaS development company for B2B software vendors and professional services firms. We build and run HR, payroll and staffing platforms, legal and claims systems, pricing and workflow SaaS, and the support behind them, for clients such as a staffing-software leader, a U.S. payroll provider and a UK law firm.",
+    "segmentsTitle": "Who we build for",
+    "segmentsIntro": "IT solutions for professional services and B2B software companies, focused on mid-size firms that need enterprise-grade engineering.",
+    "segments": [
+      "B2B SaaS and software vendors",
+      "HR, payroll and staffing companies",
+      "Law firms and legal publishers",
+      "Consulting and corporate services firms",
+      "Marketing and sales technology companies",
+      "Field service and event operators"
+    ]
+  },
+  "focus": {
+    "overline": "What we build",
+    "title": "Business services software we build and run",
+    "intro": "Custom SaaS development and business software in four areas, each one already in production for business services clients.",
+    "items": [
+      {
+        "title": "SaaS product engineering",
+        "text": "SaaS product development for B2B vendors: new modules, multi-tenant platforms and re-platforming, as a SaaS application development company working inside your roadmap or delivering custom SaaS development end to end.",
+        "proof": "In production: 8 applications on a B2B pricing platform, including an AI price-guidance product, and an email-signature SaaS integrated with Microsoft 365 and Google Workspace (since 2020)."
+      },
+      {
+        "title": "HR, payroll and staffing platforms",
+        "text": "HR software development and HRMS software development: payroll engines, employee portals and HRIS integrations, plus recruitment software development for ATS features and staffing workflows.",
+        "proof": "In production: five payroll and HR products for a U.S. payroll provider, including a multi-tenant re-platform to Azure (since 2018), and custom ATS features for a staffing-software leader (since 2018)."
+      },
+      {
+        "title": "Legal and professional services systems",
+        "text": "Legal software development for law firms and legal publishers: claims platforms, client questionnaires, content systems and Dynamics 365 CRM development for corporate and legal services.",
+        "proof": "In production: a claims platform that processed 100,000+ online claims without downtime for a UK law firm, and a Dynamics 365 CRM for a corporate and legal services firm (since 2016)."
+      },
+      {
+        "title": "Support and data for service businesses",
+        "text": "Tiered customer and technical support for your software users, 24/7 support for SaaS platforms, and data platforms that give service firms one trusted view of operations.",
+        "proof": "In production: customer, technical and tier 1–3 support for an email-signature SaaS and 24/7 support for a B2B pricing platform."
+      }
+    ]
+  },
+  "solutions": {
+    "overline": "Solutions for business services",
+    "title": "How every TEAM solution applies to business services",
+    "intro": "One partner across the stack: each of our five solutions has a direct use for business software vendors and professional services firms.",
+    "items": [
+      {
+        "name": "AI-Powered Product & Software Engineering",
+        "href": "/solutions/ai-powered-software-engineering",
+        "text": "Ship roadmap features and re-platform legacy modules faster with AI-assisted engineering, without pausing your release train."
+      },
+      {
+        "name": "Data Readiness",
+        "href": "/solutions/data-readiness",
+        "text": "Unify client, billing and product-usage data into governed models, so reporting and AI features run on data you trust."
+      },
+      {
+        "name": "Customer Care & Technical Support Managed Services",
+        "href": "/solutions/customer-care-technical-support",
+        "text": "Tiered support for your customers and end users, in their language and time zone, so your engineers stay on the roadmap."
+      },
+      {
+        "name": "AI Transformation & Value Realization",
+        "href": "/solutions/ai-transformation",
+        "text": "Choose, govern and scale the AI use cases that pay off for service firms, such as document drafting, intake and in-product assistants, and measure their value."
+      },
+      {
+        "name": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch",
+        "href": "/solutions/ai-discovery-agent-experience",
+        "text": "See how ChatGPT, Gemini and Perplexity describe your product or firm when buyers compare vendors, and fix what keeps you out of AI answers."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Check out our Success Stories to get inspired",
+    "buttonText": "Read More",
+    "items": [
+      {
+        "key": "telenor",
+        "client": "Telenor",
+        "logo": "/logos/telenor-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-telenor.webp",
+        "text": "Empowering Telenor Denmark’s IT staff capacity with a nearshore Dedicated Development Center",
+        "href": "/case-studies/telenor"
+      },
+      {
+        "key": "texas-center",
+        "client": "Texas Center for Lifestyle Medicine",
+        "logo": "/logos/texas-center-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-texas-center.webp",
+        "text": "Over $1M saved annually by automating EHR data verification for the Texas Center for Lifestyle Medicine",
+        "href": "/case-studies/texas-center"
+      },
+      {
+        "key": "allica-bank",
+        "client": "Allica Bank",
+        "logo": "/logos/allica-bank-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-allica-bank.webp",
+        "text": "Enhancing IT capacity and automating banking operations for Allica Bank, UK’s fast-growing fintech, having raised over £2B in customer deposits by June 2023.",
+        "href": "/case-studies/allica-bank"
+      }
+    ]
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How a business services engagement works",
+    "intro": "Every engagement starts with an assessment and fits into your existing release cadence.",
+    "items": [
+      {
+        "id": "assess",
+        "title": "Discovery & Modernization Assessment",
+        "text": "We map your product architecture, roadmap, integrations, support load and manual work with your team.",
+        "outcome": "A clear picture of what to build, modernize, automate or leave alone"
+      },
+      {
+        "id": "roadmap",
+        "title": "Prioritized roadmap",
+        "text": "We rank initiatives by customer and revenue impact, risk and effort, and agree on success metrics.",
+        "outcome": "A roadmap product and leadership can approve"
+      },
+      {
+        "id": "team",
+        "title": "Dedicated team set-up",
+        "text": "We staff engineering, QA, data and support roles in your time zone, inside your tools and ceremonies.",
+        "outcome": "One accountable team that knows your product"
+      },
+      {
+        "id": "build",
+        "title": "Build, integrate and test",
+        "text": "We deliver in short releases with automated testing and backward-compatible APIs for your customers.",
+        "outcome": "Releases your customers don't notice, except for the new features"
+      },
+      {
+        "id": "run",
+        "title": "Run and improve",
+        "text": "We support what we deliver and track the KPIs agreed in step 2.",
+        "outcome": "Measurable progress you can report on"
+      }
+    ],
+    "outcomeLabel": "Outcome"
+  },
+  "delivery": {
+    "overline": "Delivery model",
+    "title": "Your language, your market, your time zone",
+    "text": "North American companies work with our Medellín delivery center; European clients work with our teams in Ukraine. All locations are certified to ISO/IEC 27001:2022, and we work under GDPR."
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "SaaS and business services software: straight answers",
+    "items": [
+      {
+        "q": "What do SaaS development services include?",
+        "a": "SaaS development services cover product discovery, architecture, multi-tenant development, integrations, testing, DevOps and support for software sold as a service. TEAM International provides them as a SaaS development company for B2B vendors, from new modules to full re-platforms."
+      },
+      {
+        "q": "What does TEAM International build for business services companies?",
+        "a": "Four areas: SaaS product engineering; HR, payroll and staffing platforms; legal and professional services systems; and support and data for service businesses. As a SaaS software development company and HR software development company we offer SaaS application development services inside your roadmap or as end-to-end projects."
+      },
+      {
+        "q": "Can you work inside our existing product team and release process?",
+        "a": "Yes. Most of our business services clients run TEAM engineers inside their own squads, tools and ceremonies, with backward-compatible releases so their customers are never disrupted."
+      },
+      {
+        "q": "Do you build software for law firms and legal publishers?",
+        "a": "Yes. As a legal software development company we have built a claims platform that processed 100,000+ online claims without downtime for a UK law firm, and we run a content platform for a legal and business publisher. We also do custom legal software development and law firm software development for intake and client portals."
+      },
+      {
+        "q": "Can you also support our software users?",
+        "a": "Yes. We run customer, technical and tier 1–3 support for SaaS companies, including 24/7 coverage, so your engineers stay focused on the product."
+      },
+      {
+        "q": "How is AI changing professional services firms?",
+        "a": "AI tools are spreading faster than firms can govern them. Thomson Reuters' Future of Professionals 2026 survey (1,816 professionals) found that one third use unapproved AI tools and a quarter want to leave within two years if their firm doesn't provide AI tools, so firms need approved, well-integrated AI in their own systems."
+      },
+      {
+        "q": "Do you work with mid-size firms and software vendors?",
+        "a": "Yes. Mid-size B2B vendors and service firms are our focus; they get the same practices we use for larger platforms, and IT solutions for professional services that fit their size."
+      },
+      {
+        "q": "How does an engagement start?",
+        "a": "With a Discovery & Modernization Assessment. From there you choose a dedicated team, project delivery or support, including SaaS product development services for a new product line."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Tell us what's slowing your product or service down",
+    "subtitle": "We'll start with a Discovery & Modernization Assessment.",
+    "deliverables": [
+      "Product, integration and support map",
+      "Prioritized roadmap",
+      "Team plan in your time zone"
+    ]
+  },
+  "schema": {
+    "serviceName": "SaaS development services",
+    "serviceType": "SaaS and business software development",
+    "alternateNames": [
+      "SaaS product development",
+      "HR software development",
+      "Legal software development"
+    ],
+    "serviceDescription": "SaaS product engineering, HR, payroll and staffing platforms, legal and professional services systems, and support and data for B2B software vendors and professional services firms.",
+    "audience": "B2B software vendors and professional services firms"
+  }
+}
