@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "title": "Financial Software Development Services | TEAM International",
+    "description": "Financial and banking software development services: digital banking, payments, core modernization, automation and insurance platforms, in your time zone."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "industries": "Industries",
+    "current": "Finances & Banking"
+  },
+  "hero": {
+    "overline": "Industries",
+    "name": "Finances & Banking",
+    "title": "Financial software development services",
+    "subtitle": "Banking, payments and insurance software built, modernized and run by engineers who work in your language, your market and your time zone.",
+    "primaryCta": "Request an assessment",
+    "secondaryCta": "How it works",
+    "proof": [
+      {
+        "value": "Award",
+        "label": "Top Tech Team UK (Banking Tech Awards) won by Allica Bank with TEAM engineers on the team"
+      },
+      {
+        "value": "95%",
+        "label": "of Allica Bank's internal back-office processes automated"
+      },
+      {
+        "value": "2 wks → 15 min",
+        "label": "deal documentation time for a vehicle-finance platform"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "Straight answer",
+    "question": "What does TEAM International do for banks and financial services companies?",
+    "text": "TEAM International is a financial software development company that builds, modernizes and runs software for banks, payment companies, investment firms and insurers: digital banking and payments, core and legacy modernization, automation and data, and insurance platforms. Allica Bank, Nomo and Swiss Re are among the institutions our teams have worked for.",
+    "segmentsTitle": "Who we build for",
+    "segmentsIntro": "IT services for banks and financial services companies, focused on mid-size institutions that need enterprise-grade engineering.",
+    "segments": [
+      "Challenger and digital banks",
+      "Payment and remittance companies",
+      "Investment, trading and wealth firms",
+      "Lenders and finance companies",
+      "Insurers and insurtechs",
+      "Financial software vendors"
+    ]
+  },
+  "focus": {
+    "overline": "What we build",
+    "title": "Financial services IT solutions we build and run",
+    "intro": "Custom financial software development in four areas, each one already in production for financial clients.",
+    "items": [
+      {
+        "title": "Digital banking and payments",
+        "text": "Banking software development for digital and challenger banks: mobile banking app development, neobank app development, onboarding with KYC, payment software development and payment gateway development.",
+        "proof": "In production: the digital banking app of a UK-licensed neobank (Nomo, since 2021); delivered: payments and back-office automation for Allica Bank (2021–2024)."
+      },
+      {
+        "title": "Core, trading and legacy modernization",
+        "text": "Core banking modernization without a big-bang cutover, trading software development and trading platform development, and wealth management software development on modern, cloud-native architecture.",
+        "proof": "In production: a strangler-fig migration of a U.S. remittance company's 20-year-old core to cloud microservices, and digital-asset subsystems for a Swiss online bank (since 2019)."
+      },
+      {
+        "title": "Automation, data and compliance",
+        "text": "RPA in banking and RPA in finance, intelligent automation in banking for documents and onboarding, lending software development, and financial data management for reporting and regulators.",
+        "proof": "In production: deal documentation cut from up to two weeks to 15 minutes for a vehicle-finance platform, and data integration for a global private-markets investment firm (since 2016)."
+      },
+      {
+        "title": "Insurance platforms",
+        "text": "Insurance software development for carriers, MGAs and insurtechs: policy, quoting and claims, portals and AI assistants, as an insurance software development company or alongside your team.",
+        "proof": "In production: a claims rule engine and auto insurance product for a P&C insurtech platform, and an AI insurance-advisor chatbot for a UK small-business insurer."
+      }
+    ],
+    "fintechLink": {
+      "label": "Building a fintech product? See our fintech software development page",
+      "href": "https://www.teaminternational.com/en/industries/finance-it-solutions/fintech"
+    }
+  },
+  "solutions": {
+    "overline": "Solutions for finance",
+    "title": "How every TEAM solution applies to finance and banking",
+    "intro": "Digital transformation in banking needs more than one capability: each of our five solutions has a direct use for banks, payment companies and insurers.",
+    "items": [
+      {
+        "name": "AI-Powered Product & Software Engineering",
+        "href": "/solutions/ai-powered-software-engineering",
+        "text": "Modernize core, payments and trading platforms faster with AI-assisted engineering, without a risky big-bang cutover."
+      },
+      {
+        "name": "Data Readiness",
+        "href": "/solutions/data-readiness",
+        "text": "Unify customer, transaction and risk data into governed models, so reporting, fraud detection and AI run on data you trust."
+      },
+      {
+        "name": "Customer Care & Technical Support Managed Services",
+        "href": "/solutions/customer-care-technical-support",
+        "text": "Tiered support for account holders, merchants and policyholders using your apps, in their language and time zone."
+      },
+      {
+        "name": "AI Transformation & Value Realization",
+        "href": "/solutions/ai-transformation",
+        "text": "Choose, govern and scale the AI use cases that pay off in financial services, such as document processing, onboarding and service assistants, with the controls regulators expect."
+      },
+      {
+        "name": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch",
+        "href": "/solutions/ai-discovery-agent-experience",
+        "text": "See how ChatGPT, Gemini and Perplexity describe your products when customers compare banks or insurers, and fix what keeps you out of AI answers."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Our Success Stories in the field of IT services for banks",
+    "buttonText": "Read More",
+    "items": [
+      {
+        "key": "telenor",
+        "client": "Telenor",
+        "logo": "/logos/telenor-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-telenor.webp",
+        "text": "Empowering Telenor Denmark’s IT staff capacity with a nearshore Dedicated Development Center",
+        "href": "/case-studies/telenor"
+      },
+      {
+        "key": "texas-center",
+        "client": "Texas Center for Lifestyle Medicine",
+        "logo": "/logos/texas-center-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-texas-center.webp",
+        "text": "Over $1M saved annually by automating EHR data verification for the Texas Center for Lifestyle Medicine",
+        "href": "/case-studies/texas-center"
+      },
+      {
+        "key": "allica-bank",
+        "client": "Allica Bank",
+        "logo": "/logos/allica-bank-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-allica-bank.webp",
+        "text": "Enhancing IT capacity and automating banking operations for Allica Bank, UK’s fast-growing fintech, having raised over £2B in customer deposits by June 2023.",
+        "href": "/case-studies/allica-bank"
+      }
+    ]
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How a financial services engagement works",
+    "intro": "Every engagement starts with an assessment, and security, audit and regulatory requirements are part of every step.",
+    "items": [
+      {
+        "id": "assess",
+        "title": "Financial Discovery & Modernization Assessment",
+        "text": "We map your core, channels, payments, data flows, manual processes and regulatory obligations with your team.",
+        "outcome": "A clear picture of what to build, modernize, automate or leave alone"
+      },
+      {
+        "id": "roadmap",
+        "title": "Prioritized roadmap",
+        "text": "We rank initiatives by business impact, risk and effort, and agree on success metrics with business, risk and compliance.",
+        "outcome": "A roadmap leadership and compliance can approve"
+      },
+      {
+        "id": "team",
+        "title": "Dedicated team set-up",
+        "text": "We staff squads with engineering, QA, data and automation roles in your time zone.",
+        "outcome": "One accountable team that knows your systems"
+      },
+      {
+        "id": "build",
+        "title": "Build, integrate and test",
+        "text": "We deliver in short releases with automated testing, security reviews and audit trails built in.",
+        "outcome": "Releases that pass audits without slowing delivery"
+      },
+      {
+        "id": "run",
+        "title": "Run and improve",
+        "text": "We support what we deliver and track the KPIs agreed in step 2.",
+        "outcome": "Measurable progress you can report on"
+      }
+    ],
+    "outcomeLabel": "Outcome"
+  },
+  "delivery": {
+    "overline": "Delivery model",
+    "title": "Your language, your market, your time zone",
+    "text": "North American banks and financial companies work with our Medellín delivery center; European clients work with our teams in Ukraine. All locations are certified to ISO/IEC 27001:2022, and we work under GDPR."
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Financial software development: straight answers",
+    "items": [
+      {
+        "q": "What does a financial software development company do?",
+        "a": "A financial software development company designs, builds, integrates and supports the software banks, payment companies, investment firms and insurers run on. Financial services software development has to meet security, audit and regulatory requirements from the first release, which is why TEAM International builds them into every step."
+      },
+      {
+        "q": "What financial software development services does TEAM International offer?",
+        "a": "Four areas: digital banking and payments; core, trading and legacy modernization; automation, data and compliance; and insurance platforms. As a banking software development company we offer banking software development services as dedicated squads or project delivery. For fintech start-ups and scale-ups, see our fintech page."
+      },
+      {
+        "q": "Can you modernize our core banking or payments platform without a big-bang migration?",
+        "a": "Yes. We use incremental patterns such as the strangler fig: new services take over one function at a time while the legacy core keeps running. We are doing this today for a U.S. remittance company with 20 years of business logic."
+      },
+      {
+        "q": "How do you handle security and regulatory requirements?",
+        "a": "Security reviews, audit trails and automated testing are part of every release, and we work closely with your risk and compliance teams; for a Swiss online bank our team follows up regulator audit findings. All TEAM locations are certified to ISO/IEC 27001:2022, and we work under GDPR."
+      },
+      {
+        "q": "Which financial institutions has TEAM International worked with?",
+        "a": "Allica Bank (published case study; Allica won Top Tech Team UK at the Banking Tech Awards with TEAM engineers on the team), Nomo and Swiss Re, plus a Swiss online bank, a U.S. remittance company, a global private-markets investment firm and several insurers. Other names are shared on request."
+      },
+      {
+        "q": "How is AI used in banking today?",
+        "a": "The most practical uses of AI in banking are document processing, onboarding and service assistants. Accenture's 2026 banking trends research found that nearly 70% of bank IT spending goes to maintaining legacy systems and meeting regulatory demands, so automation and modernization free the budget AI needs."
+      },
+      {
+        "q": "Do you work with mid-size banks, lenders and insurers?",
+        "a": "Yes. Mid-size financial institutions are our focus; they get the same practices we use for clients such as Swiss Re. We also provide custom banking software development and IT services for financial services teams that need extra capacity."
+      },
+      {
+        "q": "How does an engagement start?",
+        "a": "With a Financial Discovery & Modernization Assessment. From there you choose dedicated squads, project delivery or support; custom financial software development with TEAM means one accountable team, not a pool of contractors."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Tell us what's slowing your financial platforms down",
+    "subtitle": "We'll start with a Financial Discovery & Modernization Assessment.",
+    "deliverables": [
+      "Core, channel and data map",
+      "Prioritized roadmap with compliance built in",
+      "Team plan in your time zone"
+    ]
+  },
+  "schema": {
+    "serviceName": "Financial software development services",
+    "serviceType": "Financial software development",
+    "alternateNames": [
+      "Banking software development",
+      "Financial services IT solutions",
+      "Insurance software development"
+    ],
+    "serviceDescription": "Financial and banking software development: digital banking and payments, core, trading and legacy modernization, automation, data and compliance, and insurance platforms for banks, payment companies, investment firms and insurers.",
+    "audience": "Banks, payment companies, investment firms, lenders and insurers"
+  }
+}

@@ -11,7 +11,7 @@ export const industries: Industry[] = [
     internal: true,
   },
   { label: 'Healthcare & Wellness', href: '/industries/healthcare-it-solutions', internal: true },
-  { label: 'Finances & Banking', href: `${LIVE_SITE}/industries/finance-it-solutions`, internal: false },
+  { label: 'Finances & Banking', href: '/industries/finance-it-solutions', internal: true },
   { label: 'Travel & Hospitality', href: `${LIVE_SITE}/industries/it-solutions-travel-hospitality`, internal: false },
   { label: 'Retail & Distribution', href: '/industries/retail-managed-it', internal: true },
   { label: 'Logistics and Transportation', href: '/industries/logistics-it-solutions', internal: true },
