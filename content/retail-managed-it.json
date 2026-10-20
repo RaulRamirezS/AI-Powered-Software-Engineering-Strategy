@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "title": "Retail Software Development Services | TEAM International",
+    "description": "Retail software development services for retailers and distributors: e-commerce, POS, ERP and inventory systems, data and AI, plus retail IT support."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "industries": "Industries",
+    "current": "Retail & Distribution"
+  },
+  "hero": {
+    "overline": "Industries",
+    "name": "Retail & Distribution",
+    "title": "Retail software development services",
+    "subtitle": "Custom retail software and retail IT services for retailers, brands and distributors, built and supported by teams that work in your language, your market and your time zone.",
+    "primaryCta": "Request an assessment",
+    "secondaryCta": "How it works",
+    "proof": [
+      {
+        "value": "Tier 1–3",
+        "label": "support desks for U.S. retail and grocery distribution clients"
+      },
+      {
+        "value": "Store AI",
+        "label": "RAG chatbots in use in a U.S. retailer's stores"
+      },
+      {
+        "value": "ISO 27001",
+        "label": "ISO/IEC 27001:2022 certified at all locations"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "Straight answer",
+    "question": "What does TEAM International do for retailers and distributors?",
+    "text": "TEAM International is a retail software development company that builds and supports the systems retailers and distributors run on: e-commerce and B2B ordering, POS and store apps, ERP and inventory, data and AI, and the IT support behind them. Today our teams work for a U.S. specialty sporting-goods retailer, a U.S. fashion brand and a North American grocery distributor.",
+    "segmentsTitle": "Who we build for",
+    "segmentsIntro": "IT services for retail and distribution companies, focused on mid-size businesses that need enterprise-grade engineering.",
+    "segments": [
+      "Specialty and fashion retailers",
+      "Grocery and food distributors",
+      "Wholesale and B2B distributors",
+      "E-commerce and D2C brands",
+      "Multi-location chains and franchises",
+      "Retail technology vendors"
+    ]
+  },
+  "focus": {
+    "overline": "What we build",
+    "title": "Retail technology solutions we build and run",
+    "intro": "Custom retail software development in the four areas where retail software solutions most often hold growth back, each one already in production for retail clients.",
+    "items": [
+      {
+        "title": "Commerce, POS and store apps",
+        "text": "Ecommerce software development, B2B ecommerce development for distributor ordering portals, POS software development and retail app development for store teams, connected into omnichannel retail solutions.",
+        "proof": "In production: checkout, subscription and payment integrations (Worldpay, Stripe, PayPal) for an e-commerce payments platform since 2020."
+      },
+      {
+        "title": "ERP, inventory and distribution systems",
+        "text": "Custom retail software for inventory, purchasing, order management and retail supply chain software, integrated with NetSuite and the platforms you already use. Software for distributors that removes manual entry between systems.",
+        "proof": "In production: a custom ERP for a U.S. fashion brand that centralizes inventory, purchasing and style management (since 2023)."
+      },
+      {
+        "title": "Retail data analytics and AI",
+        "text": "Retail data management and retail analytics solutions that turn sales, inventory and store data into decisions, plus retail automation solutions and a retail chatbot that gives store employees instant answers.",
+        "proof": "In production: AI chatbots built with retrieval-augmented generation (RAG) for a U.S. sporting-goods retailer's stores, plus process automation across inventory, orders and support."
+      },
+      {
+        "title": "Retail IT support and quality",
+        "text": "Retail IT support and a retail help desk for stores, distribution centers and head office, with tiered support, desktop support and retail software testing services before every peak season.",
+        "proof": "In production: tier 1–3 support for a U.S. specialty retailer and a North American grocery distributor (both since 2023)."
+      }
+    ]
+  },
+  "solutions": {
+    "overline": "Solutions for retail",
+    "title": "How every TEAM solution applies to retail and distribution",
+    "intro": "Retail digital transformation needs more than one capability: each of our five solutions has a direct use for retailers and distributors.",
+    "items": [
+      {
+        "name": "AI-Powered Product & Software Engineering",
+        "href": "/solutions/ai-powered-software-engineering",
+        "text": "Modernize e-commerce, POS and ERP platforms and ship new features before peak season, with AI-assisted engineering and no big-bang replacement."
+      },
+      {
+        "name": "Data Readiness",
+        "href": "/solutions/data-readiness",
+        "text": "Unify product, inventory, sales and customer data into governed models, so forecasting, pricing and AI run on data you trust."
+      },
+      {
+        "name": "Customer Care & Technical Support Managed Services",
+        "href": "/solutions/customer-care-technical-support",
+        "text": "Tiered support for shoppers, store teams and distribution centers, in your customers' language and time zone, scaled up for peak season."
+      },
+      {
+        "name": "AI Transformation & Value Realization",
+        "href": "/solutions/ai-transformation",
+        "text": "Choose, govern and scale the AI use cases that pay off in retail, such as store assistants, demand forecasting and service automation, and measure their value."
+      },
+      {
+        "name": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch",
+        "href": "/solutions/ai-discovery-agent-experience",
+        "text": "See how ChatGPT, Gemini and Perplexity describe your brand and products when shoppers ask, and fix what keeps you out of AI answers."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Our Success Stories",
+    "buttonText": "Read More",
+    "items": [
+      {
+        "key": "telenor",
+        "client": "Telenor",
+        "logo": "/logos/telenor-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-telenor.webp",
+        "text": "Empowering Telenor Denmark’s IT staff capacity with a nearshore Dedicated Development Center",
+        "href": "/case-studies/telenor"
+      },
+      {
+        "key": "texas-center",
+        "client": "Texas Center for Lifestyle Medicine",
+        "logo": "/logos/texas-center-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-texas-center.webp",
+        "text": "Over $1M saved annually by automating EHR data verification for the Texas Center for Lifestyle Medicine",
+        "href": "/case-studies/texas-center"
+      },
+      {
+        "key": "allica-bank",
+        "client": "Allica Bank",
+        "logo": "/logos/allica-bank-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/solutions/our-work/solutions-our-work-allica-bank.webp",
+        "text": "Enhancing IT capacity and automating banking operations for Allica Bank, UK’s fast-growing fintech, having raised over £2B in customer deposits by June 2023.",
+        "href": "/case-studies/allica-bank"
+      }
+    ]
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How a retail engagement works",
+    "intro": "Every engagement starts with an assessment and is planned around your peak seasons and code freezes.",
+    "items": [
+      {
+        "id": "assess",
+        "title": "Retail Discovery & Modernization Assessment",
+        "text": "We map your commerce, store, ERP, inventory and support landscape, integrations and pain points with your team.",
+        "outcome": "A clear picture of what to modernize, integrate or leave alone"
+      },
+      {
+        "id": "roadmap",
+        "title": "Prioritized roadmap",
+        "text": "We rank initiatives by business impact, risk and effort, around your peak-season calendar, and agree on success metrics.",
+        "outcome": "A roadmap leadership can approve"
+      },
+      {
+        "id": "team",
+        "title": "Dedicated team set-up",
+        "text": "We staff engineering, data, QA and support roles in your time zone.",
+        "outcome": "One accountable team that knows your systems"
+      },
+      {
+        "id": "build",
+        "title": "Build, integrate and test",
+        "text": "We deliver in short releases with regression and load testing before every peak.",
+        "outcome": "Stable releases when traffic is highest"
+      },
+      {
+        "id": "run",
+        "title": "Run and improve",
+        "text": "We provide tiered support and track the KPIs agreed in step 2.",
+        "outcome": "Measurable progress you can report on"
+      }
+    ],
+    "outcomeLabel": "Outcome"
+  },
+  "delivery": {
+    "overline": "Delivery model",
+    "title": "Your language, your market, your time zone",
+    "text": "North American retailers and distributors work with our Medellín delivery center; European clients work with our teams in Ukraine. All locations are certified to ISO/IEC 27001:2022, and we work under GDPR."
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Retail software development: straight answers",
+    "items": [
+      {
+        "q": "What does a retail software development company do?",
+        "a": "Retail software development companies design, build, integrate and support the software retailers and distributors run on: e-commerce, POS, store apps, ERP, inventory, order management and analytics. TEAM International does this for specialty retailers, fashion brands and distributors in North America and Europe."
+      },
+      {
+        "q": "What retail software development services does TEAM International offer?",
+        "a": "Four areas: commerce, POS and store apps; ERP, inventory and distribution systems; retail data analytics and AI; and retail IT support with retail software testing services. Every engagement starts with a Retail Discovery & Modernization Assessment."
+      },
+      {
+        "q": "Do you also provide IT support for stores and distribution centers?",
+        "a": "Yes. We provide managed IT services for retail and distribution: tiered help desks and desktop support for stores, distribution centers and head office. Clients that want one team for software and support use us as their retail managed IT services partner."
+      },
+      {
+        "q": "Can you work with our existing ERP, POS and e-commerce platforms?",
+        "a": "Yes. Most work extends and integrates what you already have, such as NetSuite, payment gateways and e-commerce platforms, and replaces only what blocks growth."
+      },
+      {
+        "q": "Do you work with mid-size retailers and distributors?",
+        "a": "Yes. Mid-size retailers and distributors are our focus; they get the same engineering practices we use for enterprise clients."
+      },
+      {
+        "q": "How is AI used in retail today?",
+        "a": "AI is now at the center of digital transformation in retail, and the most practical uses of AI in retail are store assistants, demand forecasting and service automation. Forrester expects US retailers to spend $113 billion on technology in 2026, with about three in five retail IT organizations ranking data and analytics and AI-enabled software development among their top initiatives. We have AI chatbots in use in a U.S. retailer's stores."
+      },
+      {
+        "q": "Which retail companies has TEAM International worked with?",
+        "a": "Current clients include a U.S. specialty sporting-goods retailer, a U.S. fashion brand, a North American grocery distributor and an e-commerce payments platform. Names are shared on request."
+      },
+      {
+        "q": "How does an engagement start?",
+        "a": "With a Retail Discovery & Modernization Assessment. From there you choose a dedicated team, project delivery or support; retail IT outsourcing with TEAM means one accountable team, not a pool of contractors."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Tell us what's slowing your retail operations down",
+    "subtitle": "We'll start with a Retail Discovery & Modernization Assessment.",
+    "deliverables": [
+      "Commerce, ERP and support map",
+      "Prioritized roadmap around peak season",
+      "Team plan in your time zone"
+    ]
+  },
+  "schema": {
+    "serviceName": "Retail software development services",
+    "serviceType": "Retail software development",
+    "alternateNames": [
+      "Retail IT services",
+      "Retail managed IT services",
+      "Custom retail software development"
+    ],
+    "serviceDescription": "Retail software development, e-commerce and POS development, ERP and inventory systems, retail data analytics and AI, and retail IT support for retailers, brands and distributors.",
+    "audience": "Retailers, brands, wholesalers and distributors"
+  }
+}
