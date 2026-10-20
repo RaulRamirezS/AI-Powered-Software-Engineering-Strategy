@@ -16,6 +16,6 @@ export const industries: Industry[] = [
   { label: 'Retail & Distribution', href: '/industries/retail-managed-it', internal: true },
   { label: 'Logistics and Transportation', href: '/industries/logistics-it-solutions', internal: true },
   { label: 'Business Services', href: '/industries/business-services', internal: true },
-  { label: 'Engineering Staffing', href: `${LIVE_SITE}/industries/engineering-staffing`, internal: false },
+  { label: 'Engineering Staffing', href: '/industries/engineering-staffing', internal: true },
   { label: 'Oil and Gas Digital Solutions', href: 'https://digitaloilandgas.solutions/', internal: false },
 ];

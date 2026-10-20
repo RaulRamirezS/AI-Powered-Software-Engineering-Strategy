@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "Engineering Staffing Services | TEAM International",
+    "description": "Engineering staffing services and digital engineering teams for construction, energy and industrial companies: pre-vetted specialists, deployed fast."
+  },
+  "breadcrumb": { "home": "Home", "industries": "Industries", "current": "Engineering Staffing" },
+  "hero": {
+    "overline": "Industries",
+    "name": "Engineering Staffing",
+    "title": "Engineering staffing services for construction, energy and industrial teams",
+    "subtitle": "Engineering staffing solutions plus the digital engineering and field technology behind them, so your projects get the right people and tools on time.",
+    "primaryCta": "Request a staffing plan",
+    "secondaryCta": "How it works",
+    "proof": [
+      { "value": "4,000+", "label": "pre-vetted engineering and technical candidates globally" },
+      { "value": "90%", "label": "job offer acceptance rate" },
+      { "value": "5,000+", "label": "connected devices on an industrial IoT platform we built" }
+    ]
+  },
+  "answer": {
+    "overline": "Straight answer",
+    "question": "What does TEAM International offer as an engineering staffing agency?",
+    "text": "TEAM International is an engineering staffing agency and technology partner for construction, energy and industrial companies. We supply pre-vetted engineers, project managers and skilled specialists with full HR, payroll and compliance support, and add digital engineering teams and field technology when your projects need them.",
+    "segmentsTitle": "Who we staff for",
+    "segmentsIntro": "Engineering staffing companies are not all alike: we focus on mid-size and enterprise programs that need specialists fast and keep them for years.",
+    "segments": [
+      "Construction and EPC companies",
+      "Infrastructure and civil engineering firms",
+      "Energy, oil and gas and utilities",
+      "Industrial and manufacturing teams",
+      "Field service operators",
+      "Engineering R&D and digital teams"
+    ]
+  },
+  "focus": {
+    "overline": "What we provide",
+    "title": "Engineering workforce and technology we deliver",
+    "intro": "Engineering staffing solutions in four areas, combining people with the technology they work on.",
+    "items": [
+      {
+        "title": "Engineering and construction specialists",
+        "text": "Civil engineering staffing, mechanical engineering staffing, electrical engineering staffing and project management staffing, plus site engineers, safety specialists and skilled trades staffing for recurring and large-scale programs.",
+        "proof": "How we deliver: pre-vetted specialist pools, structured skill assessments and background checks, with HR, payroll and compliance handled for you."
+      },
+      {
+        "title": "Energy, oil and gas and utilities",
+        "text": "Energy staffing for oil and gas staffing, renewable energy staffing and utility staffing needs, from engineers and schedulers to the software and data people behind operations.",
+        "proof": "In production: an asset-management application for a global energy technology company (since 2024), regulator reporting for an oil and gas producer, and a service desk for an energy operator."
+      },
+      {
+        "title": "Digital engineering teams",
+        "text": "Engineering staff augmentation and engineering outsourcing services for software, data, BIM and design work, including BIM outsourcing and contract engineering services that plug into your project teams.",
+        "proof": "In production: a 13-engineer team on a global tire manufacturer's fleet and telematics applications, grown from a few developers (since 2022)."
+      },
+      {
+        "title": "Field, IoT and operations technology",
+        "text": "Field service software, IoT asset monitoring, data dashboards and process automation that help engineering and construction crews work faster with fewer people.",
+        "proof": "In production: field service software for commercial contractors, an AI roofing CRM with field service management (both since 2025) and an IoT platform running 5,000+ connected devices."
+      }
+    ]
+  },
+  "solutions": {
+    "overline": "Solutions for engineering firms",
+    "title": "How every TEAM solution applies to engineering and construction",
+    "intro": "Staffing solves today's gap; our five solutions help engineering-driven companies need fewer emergency hires tomorrow.",
+    "items": [
+      { "name": "AI-Powered Product & Software Engineering", "href": "/solutions/ai-powered-software-engineering", "text": "Build and modernize field, project and asset applications faster with AI-assisted engineering." },
+      { "name": "Data Readiness", "href": "/solutions/data-readiness", "text": "Unify project, asset, sensor and workforce data into governed models, so planning and AI run on data you trust." },
+      { "name": "Customer Care & Technical Support Managed Services", "href": "/solutions/customer-care-technical-support", "text": "Service desks and tiered support for field crews, sites and customers, in their language and time zone." },
+      { "name": "AI Transformation & Value Realization", "href": "/solutions/ai-transformation", "text": "Choose, govern and scale the AI use cases that pay off in engineering and construction, such as estimating, scheduling and document review, and measure their value." },
+      { "name": "AI Discovery & Agent Experience Services (AXP), powered by Scrunch", "href": "/solutions/ai-discovery-agent-experience", "text": "See how ChatGPT, Gemini and Perplexity describe your firm when owners and engineers ask for contractors, and fix what keeps you out of AI answers." }
+    ]
+  },
+  "stories": {
+    "title": "Our Success Stories",
+    "buttonText": "See all success stories",
+    "items": []
+  },
+  "steps": {
+    "overline": "How it works",
+    "title": "How an engineering staffing engagement works",
+    "intro": "A structured workforce delivery model, so hard-to-fill roles are filled in weeks, not months.",
+    "items": [
+      { "id": "assess", "title": "Workforce needs assessment", "text": "We map your roles, skills, certifications, locations and timelines with your project leads.", "outcome": "A staffing plan with clear role profiles and priorities" },
+      { "id": "source", "title": "Sourcing from pre-vetted pools", "text": "Our talent managers source from continuously refreshed specialist pools, using AI-enabled sourcing for hard-to-fill roles.", "outcome": "A shortlist of qualified candidates" },
+      { "id": "assess-candidates", "title": "Assessment and checks", "text": "We run structured skill assessments, interviews and background checks before you meet anyone.", "outcome": "Only project-ready candidates reach you" },
+      { "id": "deploy", "title": "Deployment with full administration", "text": "We handle contracts, HR, payroll and compliance, and onboard people into your teams.", "outcome": "Specialists working on your project, not on paperwork" },
+      { "id": "run", "title": "Delivery governance", "text": "We track retention, performance and coverage across your programs and replace or scale as needed.", "outcome": "Continuity across multiyear programs" }
+    ],
+    "outcomeLabel": "Outcome"
+  },
+  "delivery": {
+    "overline": "Delivery model",
+    "title": "Your language, your market, your time zone",
+    "text": "North American programs are supported from our Medellín delivery center and European programs from our teams in Ukraine, with talent sourced globally where projects need it. All locations are certified to ISO/IEC 27001:2022, and we work under GDPR."
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Engineering staffing: straight answers",
+    "items": [
+      { "q": "What do engineering staffing services include?", "a": "Engineering staffing services cover finding, assessing, hiring and administering engineers and technical specialists for your projects. As an engineering staffing firm, TEAM International also handles HR, payroll and compliance, and can add digital engineering teams when projects need software, data or BIM work." },
+      { "q": "Which roles do you staff?", "a": "Civil, mechanical, electrical, power and grid engineers; project and program managers; site engineers and safety specialists; cost engineers; construction coordinators and superintendents; skilled trades; and software, data, AI and BIM specialists." },
+      { "q": "How fast can you deploy engineers?", "a": "Typically in weeks instead of months, because we source from pre-vetted pools and run assessments before you interview. Exact timing depends on the role, certifications and location." },
+      { "q": "Do you staff energy, oil and gas and utility projects?", "a": "Yes. We staff energy programs and also build software for the sector, including an asset-management application for a global energy technology company and regulator reporting for an oil and gas producer." },
+      { "q": "What is the difference between engineering staffing and engineering staff augmentation?", "a": "Engineering staffing places individual specialists or crews for your projects; engineering staff augmentation adds a managed team that works inside your organization on an ongoing basis. TEAM offers both, plus project-based contract engineering services." },
+      { "q": "Why is it so hard to hire engineers and skilled workers?", "a": "Demand is outpacing supply. ABC estimates the U.S. construction industry must attract about 349,000 net new workers in 2026, and ManpowerGroup's 2026 survey found that 69% of U.S. employers have difficulty finding the talent they need." },
+      { "q": "Do you only provide people, or technology too?", "a": "Both. Alongside staffing we build field service software, IoT monitoring and automation for engineering-driven companies, so the same partner can close today's workforce gap and reduce tomorrow's." },
+      { "q": "How does an engagement start?", "a": "With a workforce needs assessment. From there we agree a staffing plan, role profiles and timelines, and start sourcing from our pre-vetted pools." }
+    ]
+  },
+  "contact": {
+    "title": "Tell us which roles your projects are waiting for",
+    "subtitle": "We'll start with a workforce needs assessment and a staffing plan.",
+    "deliverables": ["Role profiles and priorities", "Shortlist from pre-vetted pools", "Deployment plan with full administration"]
+  },
+  "schema": {
+    "serviceName": "Engineering staffing services",
+    "serviceType": "Engineering staffing",
+    "alternateNames": ["Engineering staffing solutions", "Engineering staff augmentation", "Engineering outsourcing services"],
+    "serviceDescription": "Engineering staffing and workforce outsourcing for construction, energy and industrial companies, plus digital engineering teams and field, IoT and operations technology.",
+    "audience": "Construction, engineering, energy, utility and industrial companies"
+  }
+}
