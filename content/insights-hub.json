@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "title": "Digital Transformation Insights & Reports | TEAM International",
+    "description": "Digital transformation insights from TEAM International: a business technology blog, client success stories, white papers and TEAM Insider tech trends reports."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "current": "Insights"
+  },
+  "hero": {
+    "overline": "Insights",
+    "name": "Insights",
+    "title": "Digital transformation insights, reports and success stories",
+    "subtitle": "Tech insights from the engineers and consultants who build and run software for our clients: practical articles, named client results and research you can use to plan your next move.",
+    "primaryCta": "Download the latest report",
+    "secondaryCta": "Read the blog",
+    "proof": [
+      {
+        "value": "Blog",
+        "label": "practical guidance from our delivery teams"
+      },
+      {
+        "value": "Stories",
+        "label": "named results from clients such as Allica Bank and Telenor"
+      },
+      {
+        "value": "Reports",
+        "label": "TEAM Insider tech trends and Industry Intel white papers"
+      }
+    ]
+  },
+  "answer": {
+    "overline": "In short",
+    "question": "What will you find in TEAM International's insights?",
+    "text": "TEAM International publishes technology thought leadership in four formats: a digital transformation blog with practical guidance, success stories with named client results, Industry Intel white papers, and TEAM Insider tech trends reports. Every piece is written from real projects delivered by our teams in North America and Europe, not from desk research alone.",
+    "topicsTitle": "Topics we cover",
+    "topics": [
+      "AI and automation",
+      "Software engineering and modernization",
+      "Data and analytics",
+      "Cloud and managed IT",
+      "Customer care and support",
+      "Industry trends"
+    ]
+  },
+  "report": {
+    "overline": "TEAM Insider report",
+    "title": "Top tech trends in the aerospace and defense sector: prepare your operations for 2026",
+    "text": "Our latest tech trends report looks at how aerospace and defense technology is changing: AI-driven automation, robotics, immersive technology, space systems and cyber defense. It covers the aerospace and defense trends to plan for in 2026 and 2027, and what they mean for operations in any regulated industry.",
+    "bullets": [
+      "AI-driven automation and robotics in operations",
+      "Space-focused systems and immersive technology",
+      "Cyber defense and data security priorities"
+    ],
+    "cta": "Download the full report (PDF)",
+    "href": "https://www.teaminternational.com/files/TEAM_Insider_Tech_Trends_2026.pdf",
+    "image": "https://teamsitestorage.blob.core.windows.net/assets/insights/insights-news.webp",
+    "quote": "Data privacy and security will remain paramount, with robust measures in place to protect sensitive information.",
+    "quoteAuthor": "Andrés Salazar, Corporate Data Director, TEAM International"
+  },
+  "blog": {
+    "overline": "Blog",
+    "title": "From our business technology blog",
+    "intro": "Practical guidance on digital transformation, distributed teams and IT operations, written for business and technology leaders.",
+    "cardCta": "Read the article",
+    "cta": "View all articles",
+    "ctaHref": "https://www.teaminternational.com/en/blog",
+    "items": [
+      {
+        "title": "Does Everyone on Your Team Speak Up in Virtual Meetings?",
+        "text": "Best practices that help remote and hybrid teams stay engaged and productive in virtual meetings.",
+        "date": "2023-01-17",
+        "dateLabel": "January 17, 2023",
+        "readTime": "13 min read",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/insights/blogs/blogs_slider_3.webp",
+        "href": "https://www.teaminternational.com/en/blog/virtual-meetings-best-practices"
+      },
+      {
+        "title": "IT Nearshore Outsourcing to Mexico: Top 5 Reasons to Say Yes",
+        "text": "Why companies consider Mexico for nearshore software development, and what to evaluate before they do.",
+        "date": "2024-04-01",
+        "dateLabel": "April 1, 2024",
+        "readTime": "15 min read",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/insights/blogs/blogs_slider_2.webp",
+        "href": "https://www.teaminternational.com/en/blog/mexico-outsourcing"
+      },
+      {
+        "title": "Nearshore to Argentina: Top 5 Reasons to Outsource Your IT to Local Talent",
+        "text": "What makes Argentina an established IT nearshoring location, from engineering talent to time-zone fit.",
+        "date": "2024-04-05",
+        "dateLabel": "April 5, 2024",
+        "readTime": "14 min read",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/insights/blogs/blogs_slider_1.webp",
+        "href": "https://www.teaminternational.com/en/blog/argentina-outsourcing"
+      }
+    ]
+  },
+  "stories": {
+    "overline": "Success stories",
+    "title": "Success stories with named client results",
+    "intro": "Market leaders work with TEAM International to modernize operations, build award-winning products and run critical systems. These success stories show how.",
+    "buttonText": "Read the story",
+    "cta": "Browse all success stories",
+    "ctaHref": "https://www.teaminternational.com/en/insights/success-stories",
+    "items": [
+      {
+        "key": "allica-bank",
+        "client": "Allica Bank",
+        "industry": "Finances & Banking",
+        "logo": "/logos/allica-bank-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/insights/insights-success_stories_1.webp",
+        "text": "Enhancing IT capacity and automating banking operations for Allica Bank, UK’s fast-growing fintech, having raised over £2B in customer deposits by June 2023.",
+        "href": "https://www.teaminternational.com/en/case-studies/allica-bank"
+      },
+      {
+        "key": "texas-center",
+        "client": "Texas Center for Lifestyle Medicine",
+        "industry": "Healthcare & Wellness",
+        "logo": "/logos/texas-center-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/insights/insights-success_stories_2.webp",
+        "text": "Over $1M saved annually by automating EHR data verification for the Texas Center for Lifestyle Medicine.",
+        "href": "https://www.teaminternational.com/en/case-studies/texas-center"
+      },
+      {
+        "key": "telenor",
+        "client": "Telenor",
+        "industry": "Technology, Media, and Telecommunications",
+        "logo": "/logos/telenor-logo.svg",
+        "image": "https://teamsitestorage.blob.core.windows.net/assets/insights/insights-success_stories_3.webp",
+        "text": "Empowering Telenor Denmark’s IT staff capacity with a nearshore Dedicated Development Center.",
+        "href": "https://www.teaminternational.com/en/case-studies/telenor"
+      }
+    ]
+  },
+  "intel": {
+    "overline": "Industry Intel",
+    "title": "White papers and digital transformation reports",
+    "intro": "Industry Intel turns what our teams learn on real projects into guidance you can apply, with each digital transformation white paper focused on one decision.",
+    "bullets": [
+      "Measure the ROI of your digital initiatives",
+      "Evaluate how emerging trends affect your business",
+      "Plan around IT challenges and new growth opportunities",
+      "Run transformations across business and technology teams"
+    ],
+    "featured": {
+      "label": "White paper",
+      "title": "Latin America as a Hub for IT Outsourcing: A lone star or a prominent market player?",
+      "cta": "Read the white paper (PDF)",
+      "href": "https://www.teaminternational.com/files/Latin_America_as_a_Hub_for_IT_Outsourcing.pdf",
+      "image": "https://teamsitestorage.blob.core.windows.net/assets/insights/insights_whitepaper.webp"
+    },
+    "cta": "Browse white papers",
+    "ctaHref": "https://www.teaminternational.com/en/insights/industry-intel"
+  },
+  "explore": {
+    "overline": "Go deeper",
+    "title": "Digital transformation resources by solution and industry",
+    "intro": "Every solution and industry page answers the common questions, shows how engagements start and links to related work.",
+    "solutionsTitle": "Solutions",
+    "solutionsCta": "All solutions",
+    "industriesTitle": "Industries",
+    "industriesCta": "All industries"
+  },
+  "authors": {
+    "overline": "Who writes our insights",
+    "title": "Written by the people who deliver the work",
+    "text": "Our articles, reports and success stories come from TEAM engineers, consultants and delivery leaders. We write about what we see on client projects, so the advice is tested in production, not only on paper.",
+    "points": [
+      {
+        "value": "20+",
+        "label": "years of enterprise technology delivery"
+      },
+      {
+        "value": "ISO 27001",
+        "label": "ISO/IEC 27001:2022 certified at all locations"
+      },
+      {
+        "value": "2 hubs",
+        "label": "Medellín for North America, Ukraine for Europe"
+      }
+    ]
+  },
+  "faq": {
+    "overline": "FAQ",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "What does TEAM International publish?",
+        "a": "TEAM International publishes a digital transformation blog, success stories with named client results, Industry Intel white papers and the TEAM Insider tech trends report. Together they are our technology thought leadership for business and technology leaders."
+      },
+      {
+        "q": "Who writes TEAM International's articles and reports?",
+        "a": "Our engineers, consultants and delivery leaders. Each piece draws on projects our teams have delivered, which keeps the advice practical and specific."
+      },
+      {
+        "q": "What is in the latest TEAM Insider tech trends report?",
+        "a": "The latest report covers aerospace and defense technology: AI-driven automation, robotics, immersive technology, space systems and cyber defense, and the aerospace technology trends to plan for in 2026 and 2027. It is a free PDF download."
+      },
+      {
+        "q": "How are success stories different from the blog?",
+        "a": "Success stories describe one client project with its context, approach and results, such as the Texas Center for Lifestyle Medicine saving over $1M a year. The blog covers broader topics and best practices that apply across clients."
+      },
+      {
+        "q": "Where can I find software development insights for my industry?",
+        "a": "Start with the industry pages for IT industry insights on your sector, or the solution pages for software development insights by topic. Each page links to related success stories."
+      },
+      {
+        "q": "Can TEAM International help us apply these insights?",
+        "a": "Yes. Tell us which article, report or success story is closest to your situation, and an expert will suggest a first step and what you'll have in hand after it."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Turn an insight into your next project",
+    "subtitle": "Tell us what you read and the problem you need to solve. An expert will recommend a first step and what you'll have in hand after it.",
+    "cta": "Schedule a meeting with our team"
+  },
+  "schema": {
+    "name": "TEAM International insights",
+    "description": "Blog articles, success stories, white papers and tech trends reports from TEAM International."
+  }
+}

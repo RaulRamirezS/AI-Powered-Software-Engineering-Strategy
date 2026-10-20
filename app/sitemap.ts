@@ -15,5 +15,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...pages,
     { url: `${SITE_URL}/industries`, lastModified: new Date(), changeFrequency: 'monthly' as const, priority: 0.85 },
     ...industryPages,
+    { url: `${SITE_URL}/insights`, lastModified: new Date(), changeFrequency: 'weekly' as const, priority: 0.7 },
   ];
 }

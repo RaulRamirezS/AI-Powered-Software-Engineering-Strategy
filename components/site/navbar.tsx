@@ -20,7 +20,7 @@ const navItems: NavItem[] = [
   { label: 'Industries', href: '/industries', dropdown: 'industries' },
   { label: 'Careers', href: `${LIVE_SITE}/careers`, external: true },
   { label: 'About', href: `${LIVE_SITE}/about-us`, external: true },
-  { label: 'Insights', href: `${LIVE_SITE}/insights`, external: true },
+  { label: 'Insights', href: '/insights' },
   { label: 'Ecosystem', href: `${LIVE_SITE}/ecosystem`, external: true },
 ];
 
@@ -105,7 +105,8 @@ export default function Navbar() {
 
   const isActive = (item: NavItem) =>
     (item.dropdown === 'solutions' && pathname.startsWith('/solutions')) ||
-    (item.dropdown === 'industries' && pathname.startsWith('/industries'));
+    (item.dropdown === 'industries' && pathname.startsWith('/industries')) ||
+    (item.href === '/insights' && pathname.startsWith('/insights'));
 
   return (
     <header className='sticky top-0 z-40 w-full bg-primary-dark-3 text-white'>

@@ -14,7 +14,7 @@ const company = [
   { label: 'About', href: `${LIVE_SITE}/about-us` },
   { label: 'Industries', href: '/industries' },
   { label: 'Careers', href: `${LIVE_SITE}/careers` },
-  { label: 'Insights', href: `${LIVE_SITE}/insights` },
+  { label: 'Insights', href: '/insights' },
   { label: 'Contact Us', href: `${LIVE_SITE}/contact-us` },
   { label: 'Privacy Policy and Terms', href: `${LIVE_SITE}/privacy-policy` },
 ];
